@@ -1,0 +1,83 @@
+---
+---
+{% include header.html %}
+<main class="site-content">
+<div class="row-fluid">
+ <div class="col-xs-12 col-md-8 col-sm-12">
+ <div class="page-header post-title-post-layout">
+ <h1>{{ page.title }}</h1>
+ </div>
+  <div class="post-date-post-layout"> <h4><i class="glyphicon glyphicon-calendar"></i>&nbsp;{{ page.date | date_to_long_string }}</h4></div>
+  <div class="post-author"><h4><i class="glyphicon glyphicon-pencil"></i>&nbsp; {{ page.author }}</h4></div><br/><br/><br/>
+ <div class="post-body-post-layout">
+  {{ content }}
+  </div>
+  <div class="post-tag" style="text-align:center;">
+ <span class="label label-bleed-blue"><i class="glyphicon glyphicon-tags"></i>&nbsp;Tags :</span>
+{% for tagsAssociatedWithThePosts in page.tags  %} 
+<a href="/tag/{{ tagsAssociatedWithThePosts }}" style="text-decoration:none;"><span class="label label-bleed-purple">{{ tagsAssociatedWithThePosts }}</span></a>
+{% endfor %}
+</div><br/><br/>
+<p style="text-align:center;font-family:'Pacifico',sans-serif;font-size:2em;">Loved this post? Please #ShowYourLove here as well,</p>
+<div class="social-share-content" style="text-align:center;">
+<a class="twitter-sharing-icon-link" style="text-decoration: none;text-align:center;" onclick="socialSharePopup('https://twitter.com/share?url={{ site.url }}{{ page.url }}&text=Checkout%20this%20&via=leanontreeblog&hashtags={{post.tags}}')">
+<i class="icon-twitter" id="twitter-share-pop-up"></i></a>
+<a class="facebook-sharing-icon-link" style="text-decoration: none;text-align:center;" onclick="FB.ui({
+  method: 'share_open_graph',
+  action_type: 'og.likes',
+  action_properties: JSON.stringify({
+    object:'{{site.url}}{{page.url}}',
+  })
+}, function(response){
+  // Debug response (optional)
+  console.log(response);
+});">
+<i class="icon-facebook" id="facebook-share-pop-up"></i></a>
+<a class="google-plus-sharing-icon-link" style="text-decoration: none;text-align:center;" onclick="socialSharePopup('https://plus.google.com/share?url={{ site.url }}{{ page.url }}')">
+<i class="icon-google" id="google-plus-share-pop-up"></i></a>
+<!--Facebook Button>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-share-button" data-href="{{ page.url }}" data-layout="button_count"></div>
+<!--End of Facebook Button-->
+<!--Twitter Button>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="leanontreeblog" ><span class="label label-bleed purple">Tweet this article<span></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!--End of Twitter Button-->
+<!--GooglePlus Button>
+<div class="googleshare-button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ page.url }}"></div></div>
+<!--End of GooglePlus Button-->
+</div>
+<!--Disqus Comment Box-->
+    {% if page.comments %}
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'leanontree';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+{% endif %}
+</div>
+<div class="col-md-4 col-xs-12 col-sm-12">
+{% include sidebar.html %}
+</div>
+</div>
+</main>
+<footer>
+<div class="row-fluid">
+<div class="col-md-12 col-xs-12 col-sm-12">
+ {% include footer.html %}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <title>{{ page.title }}</title>
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.description %}<meta name="description" content="{{ page.description }}">
+  {% else %}<meta name="description" content="{{ site.description }}">{% endif %}
+   
+  <link rel="icon" type="image/png" href="/img/lot-icons/LeanOnTreeIcon.png">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans|Roboto:400,300italic,300,400italic|Cookie|Lobster|Fjalla+One|Yanone+Kaffeesatz:400,300,700|Grand+Hotel' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Sue+Ellen+Francisco|Ubuntu:400,500,700|Quicksand:400,700|Roboto+Condensed:300italic,400italic,400,300|Oswald:400,700,300|Ubuntu+Condensed:400|Archivo+Narrow|Cuprum|Abel|Pacifico' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Bangers|Righteous|Montserrat|Francois+One|Source+Sans+Pro' rel='stylesheet' type='text/css'>
+<link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/bootstrap-responsive.css" rel="stylesheet">
+<!-- link href="/css/bootstrap.min.css" rel="stylesheet" -->
+<link href="/css/customized-bs.css" rel="stylesheet">
+<link href="/css/social-media-widgets.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/custom_script.js"></script>
+<meta property="og:type" content="website" />
+   <meta property="og:title" content="{{ page.title }}" />
+   <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+   <meta property="fb:app_id" content="361201497409231" />
+   <meta property="og:description" content="{{ site.description }}" />
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65359714-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+  
+  <body class="site">
+<header>
+  <nav role="navigation" class="navbar navbar-default navbar-fixed-top">  
+   <div class="navbar-inner">
+  <div class="container-fluid">
+    <div class="navbar-header">
+	<button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+ <a class="navbar-brand blog-brand-title" href="/"><span class="brand-icon"><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>LEAN ON TREE</span></a>
+        </div>
+		<div id="navbarCollapse" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-list">
+        <li><a class="hometab" href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>&nbsp;Home</a></li>
+        <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-heart" aria-hidden="true"></span>&nbsp;Self Love <span class="caret"></span> </a>
+    <ul class="dropdown-menu dropdown-menu-items" >
+	{% for post in site.posts %}
+	{% if post.title == "Fifty Things I Love About Myself" %}	
+	<li>
+	<a href="{{ post.url }}">The Contest</a>
+	</li>
+	<li><a href="{{ post.url }}#how-to-join">How to join ?</a></li>
+	{% endif %}
+	{% endfor %}
+	
+    <li><a href="/entries/self-love/">Entries</a></li>
+  </ul>
+</li>
+<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">
+    <span class="glyphicon glyphicon-random" aria-hidden="true"></span>&nbsp;&nbsp;Twisted POV
+    <span class="caret"></span>
+</a>
+    <ul class="dropdown-menu dropdown-menu-items" >
+	{% for post in site.posts %}
+	{% if post.title == "Twisted POV" %}	
+	  <li>
+	<a href="{{ post.url }}">Introduction</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+  
+	
+    <li><a href="/entries/twistedPOV/">Posts</a></li>
+  </ul>
+</li>
+        </ul>
+    </div>
+    </div>
+  </div>
+</nav>
+</header>

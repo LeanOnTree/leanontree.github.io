@@ -1,0 +1,25 @@
+﻿source: .
+destination: ./_site
+name: "Lean On Tree"
+description : "Living, breathing, seeing, observing, existing. Sometimes, we all need to LeanOnTree.It's a story. It's life. Yours and mine."
+highlighter: rouge
+permalink: none
+paginate: 5
+url: http://leanontree.github.io
+paginate_path: "/page:num/"
+markdown: rdiscount
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+excerpt_separator: <!--more-->
+defaults:
+ -
+  scope:
+   path: ""
+  values:
+    layout: "default"
+    author: "Punyasloka Parida"
+gems:
+  - jekyll-sitemap
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-65359714-1'

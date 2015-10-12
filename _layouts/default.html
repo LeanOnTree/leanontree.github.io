@@ -1,0 +1,28 @@
+---
+---
+{% include header.html %}
+<main class="site-content">
+{% if page.title == "Fifty Things I love about Myself - Posts" %}
+{% include jumbotron-self-love-contest.html %}
+{% elsif page.title == "Twisted POV - Posts" %}
+{% include jumbotron-twisted-pov.html %}
+{% else %}
+{% include jumbotron.html %}
+{% endif %} 
+<div class="row-fluid ">
+ <div class="col-xs-12 col-sm-12 col-md-8 main-content">
+        {{ content }}
+		
+</div>
+<div class="col-md-4 col-xs-12 col-sm-12">
+        {% include sidebar.html %}
+</div>
+</div>
+</div>
+</main>
+<footer>
+<div class="row-fluid footer">
+<div class="col-md-12 col-xs-12 col-sm-12">
+ {% include footer.html %}
+
+

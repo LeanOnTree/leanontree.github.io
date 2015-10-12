@@ -1,0 +1,45 @@
+---
+title: LeanOnTree - Home
+layout: default
+---
+{% for post in paginator.posts %}
+  <div class="row-fluid main-content-item">
+  <div class="col-md-4 hidden-xs hidden-sm main-image" id="main-img-id">
+  <img class="img-responsive" src="/img/{{ post.contributors }}/index.jpg"  onerror="imgError(this);" />
+   </div>
+  <div id="main-text-id" class="col-md-8 col-xs-12 col-sm-12 main-text">
+  <div class="post-title">
+    <h2><a href="{{ post.url }}"> 
+	{% for postWithSpecificTag in site.tags.self-love  %} 
+	{% if postWithSpecificTag.title == post.title %}
+	<i class="glyphicon glyphicon-heart"></i>&nbsp;
+	{% endif %}
+	{% endfor %}
+	{% for postWithSpecificTag in site.tags.general  %} 
+	{% if postWithSpecificTag.title == post.title %}
+	<i class="glyphicon glyphicon-leaf" aria-hidden="true"></i>&nbsp;
+	{% endif %}
+	{% endfor %}
+	{% for postWithSpecificTag in site.tags.twisted-pov  %} 
+	{% if postWithSpecificTag.title == post.title %}
+	<i class="glyphicon glyphicon-random" aria-hidden="true"></i>&nbsp;
+	{% endif %}
+	{% endfor %}
+	{{ post.title }}</a></h2>
+	</div>
+		<div class="post-body ">
+	{{ post.excerpt }}
+	</div>
+
+	<div class="post-date"><h3><span class="label label-default">Posted on 
+    {{ post.date | date_to_long_string }}</span></h3>
+	</div>
+    <div class="read-post-link">
+      <a href="{{ post.url }}"  style="text-decoration: none;"><h3><span class="label label-danger">Read More &raquo;</span></h3></a>
+    </div>	
+
+	</div>
+	
+   </div><br/><br/><br/>
+{% endfor %}
+

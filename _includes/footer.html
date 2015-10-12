@@ -1,0 +1,63 @@
+{% if page.title == "LeanOnTree - Home" %}
+<div class="pages-index">
+ <nav>
+    <ul class="pagination">
+   {% if paginator.previous_page %}
+  <li><a href="{{ paginator.previous_page_path }}"></span>Previous Page</a></li>
+  {% else %}
+  <li class="disabled"><a>Previous Page</a></li>
+  {% endif %}
+  {% assign count_of_pages = paginator.total_pages %}
+  {% for pagecount in (1..count_of_pages) %}
+  {% if pagecount == paginator.page %}
+   <li class="hidden-md hidden-xs active"><span class="page_number">{{ pagecount }}</span></li>
+    {% elsif pagecount == 1 %}
+  <li class="hidden-md hidden-xs"><a href="/"> <span class="page_number">{{ pagecount }}</span></a> </li>
+  {% else %}
+  <li class="hidden-md hidden-xs"><a href="{{ site.paginate_path | replace: ':num', pagecount }}">{{ pagecount }}</a></li>
+  {% endif %}
+  {% endfor %}
+  {% if paginator.next_page %}
+    <li> <a href="{{ paginator.next_page_path }}">Next Page</a></li>
+	
+  {% else %}
+     <li class="disabled"><a>Next Page</span></a></li>
+  {% endif %}
+  </ul>
+</nav>
+</div>
+{% endif %}
+ </div>
+</div>
+<div class="social-wrapper row-fluid">
+  <div class="col-xs-12 col-md-12 col-sm-12 footer-section-a">
+<ul class="footer-elements">
+<li><a class="social-media-decoration" href="https://www.facebook.com/leanontreeblog"><span class="socialmediaiconlinks">f</span>
+<span class="socialmediatextlinks hidden-md hidden-xs">/leanontreeblog</span></a></li>
+<li><a class="social-media-decoration" href="http://twitter.com/leanontreeblog"><span class="socialmediaiconlinks">t</span><span class="socialmediatextlinks hidden-md hidden-xs">/leanontreeblog</span></a></li>
+<li><a class="social-media-decoration" href="https://instagram.com/leanontreeblog"><span class="socialmediaiconlinksextended">i</span><span class="socialmediatextlinks hidden-md hidden-xs">/leanontreeblog</span></a></li>
+<li><a class="social-media-decoration" href="https://plus.google.com/+Leanontreeblog"><span class="socialmediaiconlinksextended">h</span> <span class="socialmediatextlinks hidden-md hidden-xs">/leanontreeblog</span></a></li>
+</ul>
+</div>
+</div>
+
+</div> 
+  <div class="social-wrapper row-fluid">
+  <div class="col-xs-12 col-md-12 col-sm-12 footer-section-b">
+  <ul class="footer-elements">
+  <li role="presentation"><a class="footer-section-b-elements"  href="/"><i class="glyphicon glyphicon-home"></i>&nbsp;Home</a></li>
+  <li role="presentation"><a class="footer-section-b-elements"  href="/about/"><i class="glyphicon glyphicon-user"></i>&nbsp;About Us</a></li>
+   <!--li role="presentation"><a class="footer-section-b-elements" href="#"><i class="glyphicon glyphicon-map-marker"></i>&nbsp;Site-Map</a></li-->
+   <li role="presentation"><a class="footer-section-b-elements" href="/disclaimer/"><i class="glyphicon glyphicon-warning-sign"></i>&nbsp;Disclaimer</a></li>
+   <li role="presentation"><a class="footer-section-b-elements" href="/contact/"><i class="glyphicon glyphicon-envelope"></i>&nbsp;Contact</a></li>
+</ul>
+	</div>
+	<div class="col-xs-12 col-md-12 col-sm-12 footer-section-b">
+	  <ul class="footer-elements">
+     <li role="presentation" style="text-decoration:none;color:#8F8F8F;">&#169; 2015 LeanOnTree. All Rights Reserved</li>
+	 </ul>
+	</div>
+	</div>
+	</footer>
+</body> 
+</html>
