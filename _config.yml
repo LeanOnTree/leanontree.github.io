@@ -5,7 +5,7 @@ description : "Living, breathing, seeing, observing, existing. Sometimes, we all
 highlighter: rouge
 permalink: none
 paginate: 5
-url: http://leanontree.github.io
+url: http://leanontree.com
 paginate_path: "/page:num/"
 markdown: rdiscount
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
