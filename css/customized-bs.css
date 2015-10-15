@@ -66,22 +66,22 @@ overflow: hidden;
        url('../fonts/MaterialIcons-Regular.woff') format('woff'),
        url('../fonts/MaterialIcons-Regular.ttf') format('truetype');
 }
-@font-face 
+@font-face
 {
 font-family: "Socialico Plus";
 src: url('../fonts/Socialico Plus.otf');
 }
-@font-face 
+@font-face
 {
 font-family: "Socialico";
 src: url('../fonts/Socialico.otf');
 }
-@font-face 
+@font-face
 {
 font-family: "Bebas Neue";
 src: url('../fonts/BebasNeue.otf');
 }
-@font-face 
+@font-face
 {
 font-family: "Something-in-the-way";
 src: url('../fonts/Something-in-the-way.ttf');
@@ -124,13 +124,13 @@ background-color: #000000;
 font-family: 'Lobster', cursive;
 font-size: 18pt;
 }
-dialog {  
-    width: 500px;  
+dialog {
+    width: 500px;
     background:#e8e8e8;
     border: 1px solid #dadada;
     font-family:sans-serif;
     padding: 5px 10px 20px 20px;
-}  
+}
 .dropdown-menu-items
 {
 font-size: 14pt;
@@ -141,7 +141,7 @@ font-family: 'Bebas Neue', sans-serif;
 }
 .brand-icon
 {
-width: 30px; 
+width: 30px;
 height: 30px;
 position: relative;
 bottom: 0px;
@@ -216,9 +216,9 @@ margin: 0;
 .site-content {
   flex: 1;
   -webkit-flex: 1; /* Safari 6.1+ */
-    -ms-flex: 1; /* IE 10 */ 
+    -ms-flex: 1; /* IE 10 */
     flex: 1;
-	
+
 }
 .main-content-item
 {
@@ -240,7 +240,7 @@ float: left;
 overflow: hiddden;
 float: right;
 }
-.post-title 
+.post-title
 {
 font-family: 'Oswald', sans-serif;
 font-weight: 400;
@@ -451,7 +451,7 @@ a.social-media-decoration:link
 color: #CC3300;
 text-decoration: none;
 }
-a.social-media-decoration:visited 
+a.social-media-decoration:visited
 {
 color: #CC3300;
 text-decoration: none;
@@ -490,7 +490,26 @@ background-color:#3D001F;
 {
 background-color:#CC0000;
 }
+/*--icon floating on image on hover */
+.main-container
+{
+position: relative;
+clear:both;
+}
+.main-image-container
+{
+width:100%;
+height:100%;
+}
+.floating-social-media-icons
+{
+  font-family: 'Socialico Plus', sans-serif;
+  font-size: 50pt;
+  position: absolute;
+  /*bottom: 40px;*/
+}
 
+/* icon floating on image on hover--! */
 /*--TimeLineCSS--*/
 .badges-year {
 text-align: center;
@@ -577,7 +596,7 @@ font-family: 'Oswald', sans-serif;
                 border-bottom: 14px solid transparent;
                 content: " ";
             }
-				 
+
         .timeline > li > .timeline-badge {
             color: #fff;
             width: 50px;
@@ -634,7 +653,7 @@ font-family: 'Oswald', sans-serif;
 
 .timeline-badge.info {
     background-color: #5bc0de !important;
-	
+
 }
 
 .timeline-title {
