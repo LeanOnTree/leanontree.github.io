@@ -1,3 +1,7 @@
+body
+{
+  background: url(/img/lot/p6.png);
+}
 .jumbotron {
 background-position: 0% 30%;
 background-image: url(/img/lot/lotblogheader.jpg);
@@ -86,6 +90,11 @@ src: url('../fonts/BebasNeue.otf');
 font-family: "Something-in-the-way";
 src: url('../fonts/Something-in-the-way.ttf');
 }
+@font-face {
+font-family: "Social Shapes";
+src: url('../fonts/social_shapes.ttf')  ;
+}
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
@@ -501,12 +510,11 @@ clear:both;
 width:100%;
 height:100%;
 }
-.floating-social-media-icons
+
+.social-media-flat-icons
 {
-  font-family: 'Socialico Plus', sans-serif;
-  font-size: 50pt;
   position: absolute;
-  /*bottom: 40px;*/
+  bottom: 2em;
 }
 
 /* icon floating on image on hover--! */
