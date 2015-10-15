@@ -503,18 +503,36 @@ background-color:#CC0000;
 .main-container
 {
 position: relative;
-clear:both;
 }
 .main-image-container
 {
+position: relative;
 width:100%;
 height:100%;
 }
-
+.floating-social-icon-container
+{
+position: absolute;
+top:50%;
+left:25%;
+right:25%;
+text-align: center;
+display : none;
+}
+div.main-image-container:hover .img-responsive
+{
+opacity : 0.3;
+filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+div.main-image-container:hover .floating-social-icon-container
+{
+display: block;
+}
 .social-media-flat-icons
 {
-  position: absolute;
-  bottom: 2em;
+
+
+
 }
 
 /* icon floating on image on hover--! */

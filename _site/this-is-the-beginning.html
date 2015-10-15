@@ -219,14 +219,30 @@ I am these. These are me. I try hard to be me. I am me! <p>
 <div class="main-container">
 <div class="main-image-container">
 <img class="img-responsive center-block" alt="This is the begining" border="0" src="/img/this-is-the-beginning/this-is-the-beginning.jpg" />
-</div>
-<div>
+<div class="floating-social-icon-container">
   <ul class="footer-elements" style="text-align:center;">
-    <li><img class="social-media-flat-icons" id="facebook-flat-icon" alt="Facebook" src="/fonts/facebook.png" /></li>
+
+
+    <li>
+      <a class="facebook-sharing-icon-link" style="text-decoration: none;text-align:center;" onclick="FB.ui({
+        method: 'share_open_graph',
+        action_type: 'og.likes',
+        action_properties: JSON.stringify({
+          object:'/img/this-is-the-beginning/this-is-the-beginning.jpg',
+        })
+      }, function(response){
+        // Debug response (optional)
+        console.log(response);
+      });">
+      <img class="social-media-flat-icons" id="facebook-flat-icon" alt="Facebook" src="/fonts/facebook.png" />
+     </a>
+    </li>
     <li><img class="social-media-flat-icons" id="twitter-flat-icon" alt="Twitter" src="/fonts/twitter.png" /></li>
     <li><img class="social-media-flat-icons" id="google-flat-icon" alt="Google+" src="/fonts/google+.png" /></li>
   </ul>
 </div>
+</div>
+
 </div><br/><br/>
 
   </div>
