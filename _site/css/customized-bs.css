@@ -2,6 +2,7 @@ body
 {
   background: url(/img/lot/p6.png);
 }
+
 .jumbotron {
 background-position: 0% 30%;
 background-image: url(/img/lot/lotblogheader.jpg);
@@ -257,6 +258,17 @@ font-size: 32pt;
 position: relative;
 bottom: 25px;
 }
+.left-section
+{
+background: url('/img/lot/px_by_Gre3g.png');
+
+}
+
+.page-header
+{
+background: url('/img/lot/px_by_Gre3g.png');
+padding-bottom: 0px !important; /*overidding the default value in template which is 9px*/
+}
 .post-title a:link
 {
 color: #3B4343 !important;
@@ -285,27 +297,41 @@ float: left;
 font-size : 25px;
 position: relative;
 bottom: 25px;
+color: #FFFFFF;
 }
 .post-date-post-layout {
 font-family: 'Ubuntu Condensed', sans-serif;
 float: left;
 margin-right: 1em;
+color: #FFFFFF;
 }
 .post-author {
 font-family: 'Ubuntu Condensed', sans-serif;
 float: left;
 margin-right: 1em;
+color: #FFFFFF;
 }
 .post-body-post-layout {
 font-family: 'Droid Sans', sans-serif;
 font-weight: 400;
 font-size: 12pt;
+color: #FFFFFF;
+}
+.post-heading
+{
+  padding-bottom: 10px;
 }
 .post-title-post-layout
 {
-font-family: 'Oswald', sans-serif;
-font-weight: 400;
-font-size: 32pt;
+  margin-top: 30px;
+  margin-bottom: 0px;
+
+  font-family: 'Oswald', sans-serif;
+ font-size: 32pt;
+text-align: center;
+ text-shadow: 3px 3px 5px #FFFFFF;
+background: rgb(85, 85, 75);
+box-shadow: inset 0px 0px 70px 10px rgb(42, 42, 38);
 }
 .post-tag
 {
@@ -346,10 +372,17 @@ height: 100%;
 font-size: 14pt;
 
 }
-
+#sidebar-v1
+{
+  border-radius: 40px;
+  border: 2px solid #334C58;
+background : url('/img/lot/graphy.png');
+padding: 15px;
+}
 .gadget-title
 {
 font-family: 'Fjalla One', sans-serif;
+font-size: 36px;
 }
 .gadget-title a:link
 {
