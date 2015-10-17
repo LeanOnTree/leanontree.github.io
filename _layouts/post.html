@@ -1,16 +1,21 @@
 ---
 ---
-{% include header.html %}
+{% include header-v2.html %}
 <main class="site-content">
 <div class="row-fluid">
- <div class="col-xs-12 col-md-8 col-sm-12 left-section">
+ <div class="col-xs-12 col-md-12 col-sm-12 left-section">
 
  <div class="post-title-post-layout">
  <p class="post-heading">{{ page.title }}</p>
  </div>
+ <div id="post-sub-text" class="col-xs-12 col-md-12 col-sm-12">
+ <div class="contributor_picture"></div>
+ <div class="post-author"><h4>&nbsp; {{ page.author }}</h4></div>
   <div class="post-date-post-layout"> <h4><i class="glyphicon glyphicon-calendar"></i>&nbsp;{{ page.date | date_to_long_string }}</h4></div>
-  <div class="post-author"><h4><i class="glyphicon glyphicon-pencil"></i>&nbsp; {{ page.author }}</h4></div><br/><br/><br/>
+</div>
+
  <div class="post-body-post-layout">
+
   {{ content }}
   </div>
   <div class="post-tag" style="text-align:center;">
@@ -19,7 +24,7 @@
 <a href="/tag/{{ tagsAssociatedWithThePosts }}" style="text-decoration:none;"><span class="label label-bleed-purple">{{ tagsAssociatedWithThePosts }}</span></a>
 {% endfor %}
 </div><br/><br/>
-<p style="text-align:center;font-family:'Pacifico',sans-serif;font-size:2em;">Loved this post? Please #ShowYourLove here as well,</p>
+<p style="text-align:center;font-family:'Pacifico',sans-serif;font-size:2em;color:#FF9933;">Loved this post? Please #ShowYourLove here as well,</p>
 <div class="social-share-content" style="text-align:center;">
 <a class="twitter-sharing-icon-link" style="text-decoration: none;text-align:center;" onclick="socialSharePopup('https://twitter.com/share?url={{ site.url }}{{ page.url }}&text=Checkout%20this%20&via=leanontreeblog&hashtags={{post.tags}}')">
 <i class="icon-twitter" id="twitter-share-pop-up"></i></a>
@@ -56,11 +61,11 @@
 <!--End of GooglePlus Button-->
 </div></div>
 <br/>
-<div class="col-md-4 col-xs-12 col-sm-12">
+<!--div class="col-md-4 col-xs-12 col-sm-12">
 {% include sidebarv2.html %}
+</div-->
 </div>
-</div>
-<div class="col-xs-12 col-md-8 col-sm-12">
+<div class="col-xs-12 col-md-12 col-sm-12">
 <!--Disqus Comment Box-->
     {% if page.comments %}
 <div id="disqus_thread"></div>
