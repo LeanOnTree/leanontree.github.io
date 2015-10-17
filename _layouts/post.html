@@ -1,5 +1,6 @@
 ---
 ---
+
 {% include header-v2.html %}
 <main class="site-content">
 <div class="row-fluid">
@@ -9,9 +10,9 @@
  <p class="post-heading">{{ page.title }}</p>
  </div>
  <div id="post-sub-text" class="col-xs-12 col-md-12 col-sm-12">
- <div class="contributor_picture"></div>
- <div class="post-author"><h4>&nbsp; {{ page.author }}</h4></div>
-  <div class="post-date-post-layout"> <h4><i class="glyphicon glyphicon-calendar"></i>&nbsp;{{ page.date | date_to_long_string }}</h4></div>
+ <div class="contributor_picture" style="background: url('{{ page.profile-pic }}');"></div>
+ <div class="post-author"><h2>&nbsp;&nbsp; {{ page.author }}</h2></div>
+  <div class="post-date-post-layout"> <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="glyphicon glyphicon-calendar"></i>&nbsp;{{ page.date | date_to_long_string }}</h2s></div>
 </div>
 
  <div class="post-body-post-layout">

@@ -303,15 +303,19 @@ bottom: 25px;
 color: #FFFFFF;
 }
 #post-sub-text{
-  padding-bottom: 10px;
+  padding-bottom: 4em;
+  padding-top: 1em;
 }
 .contributor_picture{
   width: 100px;
 	height: 100px;
+
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: white url(/img/lot-icons/LeanOnTreeIcon.png) no-repeat  fixed center center;
+	background-repeat: no-repeat !important;
+  background-position: 50% 50% !important;
+  box-shadow: 1px 0px 5px 3px #C5C7C7;
   float:left;
 }
 .post-author {
@@ -319,20 +323,23 @@ font-family: 'Ubuntu Condensed', sans-serif;
 float: left;
 margin-right: 1em;
 color: #FFFFFF;
-padding-top: 30px;
+padding-top: 15px;
+
 }
 .post-date-post-layout {
 font-family: 'Ubuntu Condensed', sans-serif;
-float: right;
+
+float: left;
 margin-right: 1em;
 color: #FFFFFF;
-padding-top: 30px;
+padding-top: 15px;
+
 }
 
 .post-body-post-layout {
 font-family: 'Droid Sans', sans-serif;
 font-weight: 400;
-font-size: 12pt;
+font-size: 14pt;
 color: #FFFFFF;
 }
 .post-heading
@@ -401,6 +408,11 @@ font-size: 14pt;
   border: 2px solid #334C58;
 background : url('/img/lot/graphy.png');
 padding: 15px;
+}
+.about-us
+{
+  padding-left:5em ;
+  padding-right:5em ;
 }
 .gadget-title
 {
