@@ -261,7 +261,10 @@ bottom: 25px;
 .left-section
 {
 background: url('/img/lot/px_by_Gre3g.png');
-
+padding-left: 7em;
+padding-right: 7em;
+padding-top: 2em;
+padding-bottom: 2em;
 }
 
 .page-header
@@ -299,18 +302,33 @@ position: relative;
 bottom: 25px;
 color: #FFFFFF;
 }
-.post-date-post-layout {
-font-family: 'Ubuntu Condensed', sans-serif;
-float: left;
-margin-right: 1em;
-color: #FFFFFF;
+#post-sub-text{
+  padding-bottom: 10px;
+}
+.contributor_picture{
+  width: 100px;
+	height: 100px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: white url(/img/lot-icons/LeanOnTreeIcon.png) no-repeat  fixed center center;
+  float:left;
 }
 .post-author {
 font-family: 'Ubuntu Condensed', sans-serif;
 float: left;
 margin-right: 1em;
 color: #FFFFFF;
+padding-top: 30px;
 }
+.post-date-post-layout {
+font-family: 'Ubuntu Condensed', sans-serif;
+float: right;
+margin-right: 1em;
+color: #FFFFFF;
+padding-top: 30px;
+}
+
 .post-body-post-layout {
 font-family: 'Droid Sans', sans-serif;
 font-weight: 400;
@@ -320,6 +338,9 @@ color: #FFFFFF;
 .post-heading
 {
   padding-bottom: 10px;
+  color: #000000;
+  background: #FFCC00;
+  text-shadow: 0px 2px 3px #FFFF33;
 }
 .post-title-post-layout
 {
@@ -327,11 +348,13 @@ color: #FFFFFF;
   margin-bottom: 0px;
 
   font-family: 'Oswald', sans-serif;
- font-size: 32pt;
+ font-size: 64pt;
 text-align: center;
- text-shadow: 3px 3px 5px #FFFFFF;
-background: rgb(85, 85, 75);
-box-shadow: inset 0px 0px 70px 10px rgb(42, 42, 38);
+
+
+
+ /*
+box-shadow: inset 0px 0px 70px 10px rgb(42, 42, 38);*/
 }
 .post-tag
 {
@@ -560,12 +583,6 @@ filter: alpha(opacity=30); /* For IE8 and earlier */
 div.main-image-container:hover .floating-social-icon-container
 {
 display: block;
-}
-.social-media-flat-icons
-{
-
-
-
 }
 
 /* icon floating on image on hover--! */
