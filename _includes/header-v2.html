@@ -4,13 +4,20 @@
    <title>{{ page.title }}</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% if page.description %}<meta name="description" content="{{ page.description }}">
+  {% if page.description %}
+  {% if page.description == "" %}
+  {% for post in site.posts %}
+  {% if post.title == page.title %}
+  <meta name="description" content="{{ post.excerpt | strip_html}} ">
+  {% endif %}
+  {% endfor %}
+  {% else %}<meta name="description" content="{{ page.description }}">{% endif %}
   {% else %}<meta name="description" content="{{ site.description }}">{% endif %}
 
-  <link rel="icon" type="image/png" href="/img/lot-icons/LeanOnTreeIcon.png">
-  <link href='http://fonts.googleapis.com/css?family=Droid+Sans|Roboto:400,300italic,300,400italic|Cookie|Lobster|Fjalla+One|Yanone+Kaffeesatz:400,300,700|Grand+Hotel' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="/img/lot-icons/LeanOnTreeIcon.png">
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans|Roboto:400,300italic,300,400italic|Cookie|Lobster|Fjalla+One|Yanone+Kaffeesatz:400,300,700|Grand+Hotel' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Sue+Ellen+Francisco|Ubuntu:400,500,700|Quicksand:400,700|Roboto+Condensed:300italic,400italic,400,300|Oswald:400,700,300|Ubuntu+Condensed:400|Archivo+Narrow|Cuprum|Abel|Pacifico' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Bangers|Righteous|Montserrat|Francois+One|Source+Sans+Pro' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Bangers|Righteous|Montserrat|Francois+One|Source+Sans+Pro|Playball|Maiden+Orange|Rancho|Walter+Turncoat|Homenaje' rel='stylesheet' type='text/css'>
 <link href="/css/bootstrap.css" rel="stylesheet">
 <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 <!-- link href="/css/bootstrap.min.css" rel="stylesheet" -->
@@ -21,11 +28,19 @@
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/custom_script.js"></script>
 <meta property="og:type" content="website" />
-   <meta property="og:title" content="{{ page.title }}" />
-   <meta property="og:site_name" content="{{ site.name }}"/>
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-   <meta property="fb:app_id" content="361201497409231" />
-   <meta property="og:description" content="{{ site.description }}" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:site_name" content="{{ site.name }}"/>
+<meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+<meta property="fb:app_id" content="361201497409231" />
+{% if page.description %}
+{% if page.description == "" %}
+{% for post in site.posts %}
+{% if post.title == page.title %}
+<meta name="og:description" content="{{ post.excerpt | strip_html}} "/>
+{% endif %}
+{% endfor %}
+{% else %}<meta name="description" content="{{ page.description }}">{% endif %}
+{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

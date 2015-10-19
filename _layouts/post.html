@@ -16,7 +16,6 @@
 </div>
 
  <div class="post-body-post-layout">
-
   {{ content }}
   </div>
   <div class="post-tag" style="text-align:center;">
@@ -60,12 +59,35 @@
 <!--GooglePlus Button>
 <div class="googleshare-button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ page.url }}"></div></div>
 <!--End of GooglePlus Button-->
-</div></div>
+</div>
+<div class="row-fluid previous-and-next-post">
+<div class="col-xs-5 col-md-5 col-sm-5  previous-post">
+  {% if page.previous %}
+   <a class="post-page-link" href="{{ page.previous.url }}"><!--button type="button" class="btn btn-primary active"><span class="badge">&lt;&lt;</span-->&lt;&lt;&nbsp;{{ page.previous.title }}&nbsp;<!--/button--></a>
+   {% else %}
+   <!--button type="button" class="btn btn-primary" disabled="disabled"><span class="badge">&lt;&lt;</span--><!--/button-->
+  {% endif %}
+</div>
+<div class="clearfix visible-md-block"></div>
+<div class="col-xs-2 col-md-2 col-sm-2"></div>
+<div class="col-xs-5 col-md-5 col-sm-5 next-post">
+{% if page.next %}
+<a class="post-page-link" href="{{ page.next.url }}"><!--button type="button" class="btn btn-primary active"-->&nbsp;{{ page.next.title }}&nbsp;&gt;&gt;<!--span class="badge">&gt;&gt;&nbsp;</span></button--></a>
+{% else %}
+<!--button type="button" class="btn btn-primary" disabled="disabled"><span class="badge">&gt;&gt;</span--><!--/button-->
+{% endif %}
+</div>
+<div class="clearfix visible-md-block"></div>
+</div>
+</div>
 <br/>
 <!--div class="col-md-4 col-xs-12 col-sm-12">
 {% include sidebarv2.html %}
 </div-->
+
 </div>
+
+<!--Start of Disqus Comment Box section-->
 <div class="col-xs-12 col-md-12 col-sm-12">
 <!--Disqus Comment Box-->
     {% if page.comments %}
@@ -86,7 +108,7 @@
 
 {% endif %}
 </div>
-
+<!--End of Disqus Comment Box section-->
 </main>
 <footer>
 <div class="row-fluid">
