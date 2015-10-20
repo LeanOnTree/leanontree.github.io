@@ -242,6 +242,24 @@ margin: 0;
   -webkit-flex: 1; /* Safari 6.1+ */
     -ms-flex: 1; /* IE 10 */
     flex: 1;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -20px;
+}
+@media (min-width: 768px) {
+
+  .site-content {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+@media (min-width: 992px) {
+
+  .site-content {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: -20px;
+  }
 
 }
 .no-gutter > [class*='col-'] {
@@ -305,12 +323,18 @@ text-align: left;
 .left-section
 {
 background: url('/img/lot/px_by_Gre3g.png');
-padding-left: 7em;
-padding-right: 7em;
-padding-top: 2em;
-padding-bottom: 2em;
+padding: 0em;
 }
-
+@media (min-width: 768px) {
+  .left-section
+  {
+  background: url('/img/lot/px_by_Gre3g.png');
+  padding-left: 7em;
+  padding-right: 7em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  }
+}
 .page-header
 {
 background: url('/img/lot/px_by_Gre3g.png');
@@ -411,19 +435,38 @@ padding-top: 15px;
   color: #000000;
   background: #FFCC00;
   text-shadow: 0px 2px 3px #FFFF33;
-}
+  }
 .post-title-post-layout
 {
   margin-top: 30px;
   margin-bottom: 0px;
 
   font-family: 'Oswald', sans-serif;
- font-size: 64pt;
+ font-size: 32pt;
 text-align: center;
  /*
 box-shadow: inset 0px 0px 70px 10px rgb(42, 42, 38);*/
 }
+@media (min-width: 768px) {
+  .post-heading
+  {
+    padding-bottom: 10px;
+    color: #000000;
+    background: #FFCC00;
+    text-shadow: 0px 2px 3px #FFFF33;
+  }
+  .post-title-post-layout
+  {
+    margin-top: 30px;
+    margin-bottom: 0px;
 
+    font-family: 'Oswald', sans-serif;
+   font-size: 64pt;
+  text-align: center;
+   /*
+  box-shadow: inset 0px 0px 70px 10px rgb(42, 42, 38);*/
+  }
+}
 .previous-post
 {
   text-align: left;
@@ -455,11 +498,34 @@ a.post-page-link:hover
   text-decoration: none;
   background:#FFD119;
 }
-.post-tag
+#tag-container ul
 {
-font-family: 'Oswald', sans-serif;
-font-weight : 400;
-font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#tag-container li
+{
+display: inline;
+}
+@media (min-width : 768px){
+  #tag-container ul
+  {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  #tag-container li
+  {
+  display: inline;
+  padding-top: 1em;
+  }
+}
+
 }
 .post-body .separator .img-responsive {
     margin: 0 auto;

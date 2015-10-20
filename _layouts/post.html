@@ -18,12 +18,15 @@
  <div class="post-body-post-layout">
   {{ content }}
   </div>
-  <div class="post-tag" style="text-align:center;">
- <span class="label label-bleed-blue"><i class="glyphicon glyphicon-tags"></i>&nbsp;Tags :</span>
+  <div id="tag-container">
+  <ul class="post-tag" style="text-align:center;">
+<li> <span class="label label-bleed-blue"><i class="glyphicon glyphicon-tags"></i>&nbsp;Tags :</span></li>
 {% for tagsAssociatedWithThePosts in page.tags  %}
-<a href="/tag/{{ tagsAssociatedWithThePosts }}" style="text-decoration:none;"><span class="label label-bleed-not-so-red">{{ tagsAssociatedWithThePosts }}</span></a>
+<li><a href="/tag/{{ tagsAssociatedWithThePosts }}" style="text-decoration:none;"><span class="label label-bleed-not-so-red">{{ tagsAssociatedWithThePosts }}</span></a></li>
 {% endfor %}
-</div><br/><br/>
+</ul>
+</div>
+<br/><br/>
 <p style="text-align:center;font-family:'Pacifico',sans-serif;font-size:2em;color:#FF9933;">Loved this post? Please #ShowYourLove here as well,</p>
 <div class="social-share-content" style="text-align:center;">
 <a class="twitter-sharing-icon-link" style="text-decoration: none;text-align:center;" onclick="socialSharePopup('https://twitter.com/share?url={{ site.url }}{{ page.url }}&text=Checkout%20this%20&via=leanontreeblog&hashtags={{post.tags}}')">
@@ -110,7 +113,7 @@
 </div>
 <!--End of Disqus Comment Box section-->
 </main>
-<footer>
+<footer class="footer-responsive">
 <div class="row-fluid">
 <div class="col-md-12 col-xs-12 col-sm-12">
  {% include footer.html %}
