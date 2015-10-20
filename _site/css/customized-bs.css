@@ -1,6 +1,7 @@
 body
 {
   background: url(/img/lot/p6.png);
+
 }
 
 .jumbotron {
@@ -134,6 +135,9 @@ background-color: #000000;
 font-family: 'Lobster', cursive;
 font-size: 18pt;
 }
+.mobile-navbar{
+  margin-right: 20px;
+}
 dialog {
     width: 500px;
     background:#e8e8e8;
@@ -221,7 +225,7 @@ margin: 0;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  
+
 }
 @media (min-width: 992px) {
   .site {
@@ -532,6 +536,18 @@ text-decoration: none;
 overflow: hidden;
 display: inline-block;
 }
+.footer-responsive
+{
+margin-left: -20px;
+margin-right: -20px;
+}
+@media (min-width: 768px) {
+  .footer-responsive
+  {
+  margin-left: 0px;
+  margin-right: 0px;
+  }
+}
 .footer-elements
 {
 margin: 0;
@@ -541,7 +557,14 @@ list-style-type: none;
 ul.footer-elements li
 {
 display: inline-block;
-padding: .2em 1em;
+padding: .5em .5em;
+}
+@media (min-width: 768px) {
+  ul.footer-elements li
+  {
+  display: inline-block;
+  padding: .2em 1em;
+  }
 }
 .footer-section-a
 {
