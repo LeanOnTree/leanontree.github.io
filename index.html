@@ -3,7 +3,7 @@ title: LeanOnTree - Home
 layout: default
 ---
 {% for post in paginator.posts %}
-  <div class="row-fluid main-content-item">
+  <div class="no-gutter main-content-item">
   <div class="col-md-4 hidden-xs hidden-sm main-image" id="main-img-id">
   <img class="img-responsive" src="/img/{{ post.contributors }}/index.jpg"  onerror="imgError(this);" />
    </div>
@@ -40,5 +40,6 @@ layout: default
 
 	</div>
 
-   </div><br/><br/><br/>
+   </div>
+
 {% endfor %}
