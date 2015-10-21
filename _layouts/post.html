@@ -9,23 +9,32 @@
  <div class="post-title-post-layout">
  <p class="post-heading">{{ page.title }}</p>
  </div>
- <div id="post-sub-text" class="col-xs-12 col-md-12 col-sm-12">
+ <div id="post-sub-text" class="col-xs-12 hidden-sm hidden-md hidden-lg">
+ <div class="contributor_picture" style="background: url('{{ page.profile-pic }}');"></div>
+<div id="author-and-date">
+ <ul>
+ <li class="post-author "><h4>&nbsp;&nbsp;{{ page.author }}</h4></li>
+ <li class="post-date-post-layout"><h4>&nbsp;&nbsp;<i class="glyphicon glyphicon-calendar"></i>&nbsp;{{ page.date | date_to_long_string }}</h4></li>
+ </ul></div></div>
+ <div id="post-sub-text" class="hidden-xs col-md-12 col-sm-12">
  <div class="contributor_picture" style="background: url('{{ page.profile-pic }}');"></div>
  <div class="post-author"><h2>&nbsp;&nbsp; {{ page.author }}</h2></div>
-  <div class="post-date-post-layout"> <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="glyphicon glyphicon-calendar"></i>&nbsp;{{ page.date | date_to_long_string }}</h2s></div>
+  <div class="post-date-post-layout"> <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="glyphicon glyphicon-calendar"></i>&nbsp;{{ page.date | date_to_long_string }}</h2></div>
 </div>
 
  <div class="post-body-post-layout">
-
   {{ content }}
   </div>
-  <div class="post-tag" style="text-align:center;">
- <span class="label label-bleed-blue"><i class="glyphicon glyphicon-tags"></i>&nbsp;Tags :</span>
+  <div id="tag-container">
+  <ul class="post-tag" style="text-align:center;">
+<li> <span class="label label-bleed-blue"><i class="glyphicon glyphicon-tags"></i>&nbsp;Tags :</span></li>
 {% for tagsAssociatedWithThePosts in page.tags  %}
-<a href="/tag/{{ tagsAssociatedWithThePosts }}" style="text-decoration:none;"><span class="label label-bleed-not-so-red">{{ tagsAssociatedWithThePosts }}</span></a>
+<li><a href="/tag/{{ tagsAssociatedWithThePosts }}" style="text-decoration:none;"><span class="label label-bleed-not-so-red">{{ tagsAssociatedWithThePosts }}</span></a></li>
 {% endfor %}
-</div><br/><br/>
-<p style="text-align:center;font-family:'Pacifico',sans-serif;font-size:2em;color:#FF9933;">Loved this post? Please #ShowYourLove here as well,</p>
+</ul>
+</div>
+<br/><br/>
+<p id="social-sharing-request">Loved this post? Please #ShowYourLove here as well,</p>
 <div class="social-share-content" style="text-align:center;">
 <a class="twitter-sharing-icon-link" style="text-decoration: none;text-align:center;" onclick="socialSharePopup('https://twitter.com/share?url={{ site.url }}{{ page.url }}&text=Checkout%20this%20&via=leanontreeblog&hashtags={{post.tags}}')">
 <i class="icon-twitter" id="twitter-share-pop-up"></i></a>
@@ -60,12 +69,49 @@
 <!--GooglePlus Button>
 <div class="googleshare-button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ page.url }}"></div></div>
 <!--End of GooglePlus Button-->
-</div></div>
+</div>
+<div class="row-fluid previous-and-next-post">
+<div class="hidden-xs col-md-5 col-sm-5  previous-post">
+  {% if page.previous %}
+   <a class="post-page-link" href="{{ page.previous.url }}"><!--button type="button" class="btn btn-primary active"><span class="badge">&lt;&lt;</span-->&lt;&lt;&nbsp;{{ page.previous.title }}&nbsp;<!--/button--></a>
+   {% else %}
+   <!--button type="button" class="btn btn-primary" disabled="disabled"><span class="badge">&lt;&lt;</span--><!--/button-->
+  {% endif %}
+</div>
+<div class="col-xs-5 hidden-md hidden-sm hidden-lg  previous-post">
+  {% if page.previous %}
+   <a class="post-page-link" href="{{ page.previous.url }}"><button type="button" class="btn btn-primary active">&lt;&lt;&nbsp;Previous Post&nbsp;</button></a>
+   {% else %}
+   <!--button type="button" class="btn btn-primary" disabled="disabled"><span class="badge">&lt;&lt;</span--><!--/button-->
+  {% endif %}
+</div>
+<div class="clearfix visible-md-block"></div>
+<div class="col-xs-2 col-md-2 col-sm-2"></div>
+<div class="hidden-xs col-md-5 col-sm-5 next-post">
+{% if page.next %}
+<a class="post-page-link" href="{{ page.next.url }}"><!--button type="button" class="btn btn-primary active"-->&nbsp;{{ page.next.title }}&nbsp;&gt;&gt;<!--span class="badge">&gt;&gt;&nbsp;</span></button--></a>
+{% else %}
+<!--button type="button" class="btn btn-primary" disabled="disabled"><span class="badge">&gt;&gt;</span--><!--/button-->
+{% endif %}
+</div>
+<div class="col-xs-5 hidden-md hidden-sm hidden-lg next-post">
+{% if page.next %}
+<a class="post-page-link" href="{{ page.next.url }}"><button type="button" class="btn btn-primary active">&nbsp;Next Post&nbsp;&gt;&gt;<!--span class="badge">&gt;&gt;&nbsp;</span--></button></a>
+{% else %}
+<!--button type="button" class="btn btn-primary" disabled="disabled"><span class="badge">&gt;&gt;</span--><!--/button-->
+{% endif %}
+</div>
+<div class="clearfix visible-md-block"></div>
+</div>
+</div>
 <br/>
 <!--div class="col-md-4 col-xs-12 col-sm-12">
 {% include sidebarv2.html %}
 </div-->
+
 </div>
+
+<!--Start of Disqus Comment Box section-->
 <div class="col-xs-12 col-md-12 col-sm-12">
 <!--Disqus Comment Box-->
     {% if page.comments %}
@@ -86,9 +132,9 @@
 
 {% endif %}
 </div>
-
+<!--End of Disqus Comment Box section-->
 </main>
-<footer>
+<footer class="footer-responsive">
 <div class="row-fluid">
 <div class="col-md-12 col-xs-12 col-sm-12">
  {% include footer.html %}
