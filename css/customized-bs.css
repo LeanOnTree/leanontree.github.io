@@ -439,7 +439,6 @@ bottom: 25px;
 	-moz-border-radius: 150px;
 	background-repeat: no-repeat !important;
   background-position: 50% 50% !important;
-  box-shadow: 1px 0px 5px 3px #C5C7C7;
   float:left;
 }
 #author-and-date{
@@ -471,7 +470,7 @@ margin: 0px;
   	-moz-border-radius: 150px;
   	background-repeat: no-repeat !important;
     background-position: 50% 50% !important;
-    box-shadow: 1px 0px 5px 3px #C5C7C7;
+
     float:left;
   }
   .post-author {
