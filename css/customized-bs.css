@@ -241,9 +241,9 @@ margin: 0;
 
 }
 .site-content {
-     flex: 1;
+     flex: 1 0 auto;
     -webkit-flex: 1; /* Safari 6.1+ */
-    /* IE 10 */
+    -ms-flex: 1 0 auto;/* IE 10 */
     margin-left: -20px;
     margin-right: -20px;
     margin-top: -20px;
@@ -264,6 +264,7 @@ margin: 0;
   }
 
 }
+
 .no-gutter > [class*='col-'] {
     padding-right:0;
     padding-left:0;
@@ -722,9 +723,18 @@ margin-right: -20px;
 }
 .footer-elements
 {
-margin: 0;
+margin-left:-20px;
+margin-right: -20px;
 padding: 0;
 list-style-type: none;
+}
+@media (min-width: 768px) {
+  .footer-elements
+  {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  }
 }
 ul.footer-elements li
 {
