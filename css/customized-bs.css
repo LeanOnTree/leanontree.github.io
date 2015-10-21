@@ -153,43 +153,20 @@ font-size: 14pt;
 {
 font-family: 'Bebas Neue', sans-serif;
 }
-.brand-icon
+.navbar-brand
 {
-width: 30px;
-height: 30px;
-position: relative;
-font-size: 24pt;
-bottom: 7px;
-}
-.blog-brand-title
-{
-font-family: 'Bebas Neue', sans-serif;
-display: inline-block;
-padding-left: 5%;
-padding-right: 10%;
-font-size: 24pt;
-padding-top: 4px;
-position: relative;
-bottom: 0px;
+ font-family: 'Bebas Neue', sans-serif;
+ font-size: 24pt;
+ position: relative;
+ bottom: 7px;
 }
 @media (min-width: 768px) {
-  .brand-icon
+   .navbar-brand
   {
-  width: 30px;
-  height: 30px;
-
-  font-size: 24pt;
-  position: relative;
-  bottom: 7px;
-  }
-  .blog-brand-title
-  {
-  font-family: 'Bebas Neue', sans-serif;
-  padding-left: 0px;
-  padding-top: 4px;
-  font-size: 24pt;
-  position: relative;
-  bottom: 0px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24pt;
+    position: relative;
+    bottom: 7px;
   }
 }
 .jumbotron-blog-tag
@@ -246,35 +223,27 @@ margin: 0;
 }
 .site {
   /* padding-top: 50px; */
+  display: -ms-flexbox;
   display: flex;
-  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-         /* OLD - Firefox 19- (buggy but mostly works) */
-display: -ms-flexbox;      /* TWEENER - IE 10 */
-display: -webkit-flex;     /* NEW - Chrome */
+  display: -webkit-flex;
   min-height: 100vh;
   flex-direction: column;
 
 }
 @media (min-width: 992px) {
   .site {
-     padding-top: 50px;
+    padding-top: 50px;
     display: flex;
-    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-  display: -ms-flexbox;      /* TWEENER - IE 10 */
-  display: -webkit-flex;     /* NEW - Chrome */
+    display: -webkit-flex;
     min-height: 100vh;
     flex-direction: column;
   }
 
 }
 .site-content {
-  flex: 1;
-  -webkit-flex: 1; /* Safari 6.1+ */
-    -ms-flex: 1; /* IE 10 */
-  -moz-flex: 1;
-  -webkit-box-flex: 1;
-  -moz-box-flex: 1;
+     flex: 1;
+    -webkit-flex: 1; /* Safari 6.1+ */
+    /* IE 10 */
     margin-left: -20px;
     margin-right: -20px;
     margin-top: -20px;
