@@ -281,9 +281,12 @@ display: flex;
 padding-top: 15px;
 }
 @media (min-width: 992px) {
-  .main-content-item
-  {
-padding: 15px;
+.main-content-item
+{
+padding-top: 15px;
+padding-bottom: 15px;
+padding-right: 15px;
+padding-left: 15px;
 }
 }
 .main-image
@@ -321,7 +324,7 @@ text-align: left;
   font-size: 32pt;
   position: relative;
   bottom: 25px;
-  
+
   }
 }
 .left-section
@@ -670,6 +673,11 @@ padding: 15px;
     padding-right:5em ;
   }
 
+
+}
+
+.aboutus-layout-section {
+  padding-top: 15px;
 }
 .gadget-title
 {
