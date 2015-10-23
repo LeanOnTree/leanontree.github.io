@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://leanontree.com/leanontree/you-are-perfect-and-good-at-it.html</loc>
+    <loc>http://leanontree.com/leanontree/the-guy-with-a-signboard-and-a-purpose.html</loc>
     <lastmod>2015-10-23T00:00:00+05:30</lastmod>
   </url>
   <url>
-    <loc>http://leanontree.com/leanontree/the-guy-with-a-signboard-and-a-purpose.html</loc>
-    <lastmod>2015-10-23T00:00:00+05:30</lastmod>
+    <loc>http://leanontree.com/leanontree/you-are-perfect-and-good-at-it.html</loc>
+    <lastmod>2015-10-22T00:00:00+05:30</lastmod>
   </url>
   <url>
     <loc>http://leanontree.com/self-love/the-art-of-taking-compliments.html</loc>
@@ -191,7 +191,19 @@
     <loc>http://leanontree.com/timeline/</loc>
   </url>
   <url>
+    <loc>http://leanontree.com/page2/</loc>
+  </url>
+  <url>
+    <loc>http://leanontree.com/page3/</loc>
+  </url>
+  <url>
+    <loc>http://leanontree.com/page4/</loc>
+  </url>
+  <url>
+    <loc>http://leanontree.com/page5/</loc>
+  </url>
+  <url>
     <loc>http://leanontree.com/fonts/demo.html</loc>
-    <lastmod>1445-06-01T22:00:00+05:30</lastmod>
+    <lastmod>2015-10-16T23:51:10+05:30</lastmod>
   </url>
 </urlset>
