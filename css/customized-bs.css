@@ -395,8 +395,19 @@ color: #FFFFFF;
 .post-body-question-format{
   font-family: 'Francois One', sans-serif;
 }
+.post-body-list-container ol{
+  padding-left: 20px;
+}
 .post-body-list-container ul{
-  padding: 0px;
+  padding-left: 0px;
+}
+@media (min-width: 992px){
+  .post-body-list-container ul{
+    padding-left:40px;
+  }
+  .post-body-list-container ol{
+    padding-left: 40px;
+  }
 }
 .post-body {
 font-family: 'Droid Sans', sans-serif;
