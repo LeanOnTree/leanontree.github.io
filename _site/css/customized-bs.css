@@ -336,6 +336,16 @@ padding: 0px 0px 8px 0px;
   .left-section
   {
   background: url('/img/lot/px_by_Gre3g.png');
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  }
+}
+@media (min-width: 992px) {
+  .left-section
+  {
+  background: url('/img/lot/px_by_Gre3g.png');
   padding-left: 7em;
   padding-right: 7em;
   padding-top: 2em;
@@ -382,7 +392,12 @@ color: #FFFFFF;
 .post-text-format{
   text-align: justify;
 }
-
+.post-body-question-format{
+  font-family: 'Francois One', sans-serif;
+}
+.post-body-list-container ul{
+  padding: 0px;
+}
 .post-body {
 font-family: 'Droid Sans', sans-serif;
 font-weight: 400 ;
@@ -610,8 +625,9 @@ margin-bottom: 8px;
   }
   #tag-container li
   {
-  display: inline;
-  padding-top: 1em;
+  display: inline-block;
+  padding-top: 0.1em;
+
   }
 }
 #social-sharing-request{
