@@ -1,6 +1,6 @@
 language: ruby
 install:
-    - bundle-install
+    - bundle-install --gemfile=./
 script:
     - bundle exec rspec
     - bundle exec jekyll doctor
