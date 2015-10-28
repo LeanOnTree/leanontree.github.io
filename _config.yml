@@ -19,7 +19,8 @@ defaults:
     author: "Punyasloka Parida"
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 analytics :
-  provider : google 
-  google : 
+  provider : google
+  google :
       tracking_id : 'UA-65359714-1'
