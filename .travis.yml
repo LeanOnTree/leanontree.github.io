@@ -20,17 +20,17 @@ env:
 
 deploy:
   - provider: s3
-  access_key_id: $AWS_SECRET_ID
-  secret_access_key: $AWS_SECRET_KEY
-  bucket: $AWS_BUCKET
-  skip_cleanup: true
-  region: us-west-2
-  upload-dir: _site
-  detect_encoding: true
-  cache_control: "max-age=60"
-  on:
-    branch: master
-  - provider: s3
+    access_key_id: $AWS_SECRET_ID
+    secret_access_key: $AWS_SECRET_KEY
+    bucket: $AWS_BUCKET
+    skip_cleanup: true
+    region: us-west-2
+    upload-dir: _site
+    detect_encoding: true
+    cache_control: "max-age=60"
+    on:
+      branch: master
+- provider: s3
   access_key_id: $AWS_SECRET_ID
   secret_access_key: $AWS_SECRET_KEY
   bucket: $AWS_BUCKET_DEV
@@ -38,5 +38,3 @@ deploy:
   upload-dir: _site
   detect_encoding: true
   cache_control: "max-age=60"
-  on:
-    branch: dev_leanontree_v1_changes_and_fixes
