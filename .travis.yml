@@ -38,3 +38,5 @@ deploy:
     upload-dir: _site
     detect_encoding: true
     cache_control: "max-age=60"
+    on:
+      branch: dev_leanontree_v1_changes_and_fixes
