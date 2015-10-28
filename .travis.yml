@@ -1,4 +1,5 @@
 language: ruby
+before-install: gem install bundler
 install:
     - bundle-install --gemfile=./
 script:
