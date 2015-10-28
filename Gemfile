@@ -6,3 +6,4 @@ gem 'jekyll-watch'
 gem 'json'
 gem 'rspec'
 gem 'jekyll-paginate'
+gem "html-proofer"
