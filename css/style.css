@@ -17,18 +17,37 @@
 	font-variant: normal;
 	text-transform: none;
     height: 1em;
-    overflow: visible; 
+    overflow: visible;
     width: 1em;
-    background-image: none; 
-    display: inline; 
-    font-size: 5em; 
+    background-image: none;
+    display: inline;
+    font-size: 3em;
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+@media (min-width:768px){
+	[class^="icon-"], [class*=" icon-"] {
+		font-family: 'icomoon';
+		speak: none;
+		font-style: normal;
+		font-weight: normal;
+		font-variant: normal;
+		text-transform: none;
+	    height: 1em;
+	    overflow: visible;
+	    width: 1em;
+	    background-image: none;
+	    display: inline;
+	    font-size: 5em;
+		/* Better Font Rendering =========== */
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+}
 a.twitter-sharing-icon-link,a.twitter-sharing-icon-link:visited,a.facebook-sharing-icon-link,a.facebook-sharing-icon-link:visited,a.google-plus-sharing-icon-link,a.google-plus-sharing-icon-link:visited
 {
-color: #000000 !important;
+color: #E0E0EB !important;
 }
 a.twitter-sharing-icon-link:hover
 {
