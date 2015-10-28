@@ -25,7 +25,7 @@ deploy:
     bucket: $AWS_BUCKET
     skip_cleanup: true
     region: us-west-2
-    upload-dir: _site
+    upload-dir: _site/
     detect_encoding: true
     cache_control: "max-age=60"
     on:
@@ -35,7 +35,7 @@ deploy:
     secret_access_key: $AWS_SECRET_KEY
     bucket: $AWS_BUCKET_DEV
     skip_cleanup: true
-    upload-dir: _site
+    upload-dir: _site/
     detect_encoding: true
     cache_control: "max-age=60"
     on:
