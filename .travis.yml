@@ -30,6 +30,7 @@ deploy:
   cache_control: "max-age=60"
   on:
     branch: master
+
   - provider: s3
    access_key_id: $AWS_SECRET_ID
    secret_access_key: $AWS_SECRET_KEY
