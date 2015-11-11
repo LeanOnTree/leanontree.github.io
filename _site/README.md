@@ -11,12 +11,7 @@
 
 >LeanOnTree is an initiative to go back to the beginning. To discover that underneath the piles of whatever it is that we are submerged in, there lies potential - infinite, untapped, unadulterated.
 
- > They tried to bury us,
-   They didn't know we were seeds
+ > *They tried to bury us,*
+   *They didn't know we were seeds*
 
 This repository maintains the source code of our website http://leanontree.com. If you wish to contribute, please write to us at leanontreeblog@gmail.com
-<<<<<<< HEAD
-=======
-
- 
->>>>>>> dev_leanontree_v1_changes_and_fixes

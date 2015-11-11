@@ -104,34 +104,31 @@
     <loc>http://leanontree.com/404.html</loc>
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://leanontree.com/tag/POV/</loc>
-=======
-    <loc>http://leanontree.com/tag/journey/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
+    <loc>http://leanontree.com/response/</loc>
   </url>
   <url>
     <loc>http://leanontree.com/contact/</loc>
   </url>
   <url>
-<<<<<<< HEAD
+    <loc>http://leanontree.com/tag/spiritual/</loc>
+  </url>
+  <url>
     <loc>http://leanontree.com/tag/leanontreeblog/</loc>
-=======
-    <loc>http://leanontree.com/disclaimer/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
   </url>
   <url>
     <loc>http://leanontree.com/tag/life/</loc>
   </url>
   <url>
-    <loc>http://leanontree.com/response/</loc>
+    <loc>http://leanontree.com/tag/general/</loc>
   </url>
   <url>
-<<<<<<< HEAD
+    <loc>http://leanontree.com/tag/lovingyourself/</loc>
+  </url>
+  <url>
+    <loc>http://leanontree.com/tag/You-are-perfect/</loc>
+  </url>
+  <url>
     <loc>http://leanontree.com/tag/learning/</loc>
-=======
-    <loc>http://leanontree.com/about/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
   </url>
   <url>
     <loc>http://leanontree.com/tag/journey/</loc>
@@ -140,29 +137,19 @@
     <loc>http://leanontree.com/tag/lessonsoflife/</loc>
   </url>
   <url>
-    <loc>http://leanontree.com/tag/</loc>
-  </url>
-  <url>
     <loc>http://leanontree.com/tag/introduction/</loc>
   </url>
   <url>
     <loc>http://leanontree.com/tag/selflove/</loc>
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://leanontree.com/tag/general/</loc>
+    <loc>http://leanontree.com/tag/POV/</loc>
+  </url>
+  <url>
+    <loc>http://leanontree.com/tag/self-worth/</loc>
   </url>
   <url>
     <loc>http://leanontree.com/tag/foodie/</loc>
-=======
-    <loc>http://leanontree.com/tag/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/tag/introduction/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
   </url>
   <url>
     <loc>http://leanontree.com/tag/self-love/</loc>
@@ -177,71 +164,109 @@
     <loc>http://leanontree.com/tag/healing/</loc>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>http://leanontree.com/tag/exorcism/</loc>
-=======
-    <loc>http://leanontree.com/tag/lovingyourself/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/tag/POV/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
   </url>
   <url>
     <loc>http://leanontree.com/tag/weathercheck/</loc>
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://leanontree.com/</loc>
-=======
-    <loc>http://leanontree.com/tag/self-worth/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/tag/selflove/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
+    <loc>http://leanontree.com/tag/</loc>
   </url>
   <url>
     <loc>http://leanontree.com/timeline/</loc>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>http://leanontree.com/disclaimer/</loc>
-=======
-    <loc>http://leanontree.com/tag/spiritual/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/tag/twisted-pov/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
   </url>
   <url>
     <loc>http://leanontree.com/entries/self-love/</loc>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>http://leanontree.com/entries/twistedPOV/</loc>
   </url>
   <url>
     <loc>http://leanontree.com/about/</loc>
-=======
-    <loc>http://leanontree.com/tag/You-are-perfect/</loc>
   </url>
   <url>
-    <loc>http://leanontree.com/timeline/</loc>
->>>>>>> dev_leanontree_v1_changes_and_fixes
+    <loc>http://leanontree.com/</loc>
   </url>
-  <url>
-    <loc>http://leanontree.com/page2/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/page3/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/page4/</loc>
-  </url>
-  <url>
-    <loc>http://leanontree.com/page5/</loc>
-  </url>
+    <url>
+      <loc>http://leanontree.com/this-is-the-beginning.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/leanontree/i-know-you-know-sometimes-we-all-need-to-leanontree.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/the-face-off-with-the-ultimate-enemy.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-intro.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-sahil-verma.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-payal-mahajan.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-megha.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-tanya-kharbanda.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-pallavi-gupta.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-punyasloka-parida.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-manish-agarwal.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-saksham.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-kanika-goyal.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-subhalaxmi-parida.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/a-learners-response-to-corporate-worlds-toxicity-and-viciousness.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-rachna.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-pompi-banarjee.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-anjana-gopinath.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-anjali-bissa.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/twisted-pov/twisted-pov-intro.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/contest-annie-singhal.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/twisted-pov/2-cafe-chronicles-and-the-twisted-povs.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/self-love/the-art-of-taking-compliments.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/leanontree/you-are-perfect-and-good-at-it.html</loc>
+    </url>
+    <url>
+      <loc>http://leanontree.com/leanontree/the-guy-with-a-signboard-and-a-purpose.html</loc>
+    </url>
   <url>
     <loc>http://leanontree.com/fonts/demo.html</loc>
-    <lastmod>2015-10-22T09:41:42+05:30</lastmod>
+    <lastmod>2015-10-22T10:00:06+05:30</lastmod>
   </url>
 </urlset>
