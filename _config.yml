@@ -10,6 +10,7 @@ paginate_path: "/page:num/"
 markdown: rdiscount
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 excerpt_separator: <!--more-->
+exclude: [vendor]
 defaults:
  -
   scope:
