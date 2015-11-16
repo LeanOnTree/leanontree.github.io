@@ -3,28 +3,27 @@ title: "Fifty Things I love about Myself - Posts"
 layout: default
 ---
 {% for postWithSpecificTag in site.tags.self-love %}
-<div class="row-fluid main-content-item">
+<div class="no-gutter main-content-item">
 		<div class="col-md-4 hidden-xs hidden-sm main-image" id="main-img-id">
   <img class="img-responsive" src="/img/{{ postWithSpecificTag.contributors }}/index.jpg"  onerror="imgError(this);" />
    </div>
 <div id="main-text-id" class="col-md-8 col-xs-12 col-sm-12 main-text">
 <div class="post-title">
-  <a href="{{ postWithSpecificTag.url }}">
-    <h2> 
+<h2><a href="{{ postWithSpecificTag.url }}">
 	<span class="glyphicon glyphicon-heart" aria-hidden="true"></span>&nbsp;&nbsp;
-	{{ postWithSpecificTag.title }}</h2></a>
+	{{ postWithSpecificTag.title }}</a></h2>
 
 	</div>
 	<div class="post-body ">
-	{{ postWithSpecificTag.excerpt }}
+	{{ postWithSpecificTag.excerpt | strip_html }}
 	</div>
-		<div class="row-fluid">	
-	<div class="post-date col-md-6 col-sm-6 col-xs-12"><h3><span class="label label-default">Posted on 
+		<div class="row-fluid">
+	<div class="post-date col-md-6 col-sm-6 col-xs-12"><h3><span class="label label-default">Posted on
     {{ postWithSpecificTag.date | date_to_long_string }}</span></h3>
 	</div >
     <div class="read-post-link col-md-6 col-sm-6 col-xs-12">
       <a href="{{ postWithSpecificTag.url }}"  style="text-decoration: none;"><h3><span class="label label-danger">Read More &raquo;</span></h3></a>
-    </div>	
+    </div>
 	</div>
 	</div>
 
@@ -33,20 +32,20 @@ layout: default
 <!--div class="row-fluid">
   <div class="span12" style="text-align: center">
     <div class="pagination">
-  <ul class="nav nav-tabs nav-justified">	
+  <ul class="nav nav-tabs nav-justified">
   {% if paginator.previous_page %}
 
   <li><a href="{{ paginator.previous_page_path }}" class="previous"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>Previous Page</a></li>
-    
+
   {% else %}
-    
+
   <li><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="previous">Previous Page</span></li>
 
   {% endif %}
   <li> <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> </li>
   {% if paginator.next_page %}
     <li>   <a href="{{ paginator.next_page_path }}" class="next" >Next Page<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></li>
-	
+
   {% else %}
      <li>  <span class="next">Next Page</span><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></li>
   {% endif %}
