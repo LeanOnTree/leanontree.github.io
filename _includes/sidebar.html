@@ -15,7 +15,7 @@ It came to me one night when life appeared unkinder than what it actually is.You
 </p>
 </div><br/><br/>
 <div class="tags-random">
-<p class="gadget-title"><i class="glyphicon glyphicon glyphicon-tags"></i>&nbsp;&nbsp;Site Tags</p>
+<p class="gadget-title"><i class="glyphicon glyphicon-tags"></i>&nbsp;&nbsp;Site Tags</p>
 <div class="gadget-content ">
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
@@ -25,4 +25,9 @@ It came to me one night when life appeared unkinder than what it actually is.You
 {% endfor %}
 </ul>
 </div></div>
+<br/><br/>
+<div class="blog-subscription">
+  <p class="gadget-title"><i class="glyphicon glyphicon-envelope"></i>&nbsp;&nbsp;Subscription</p>
+  <p> Subscribe to our RSS Feed <a href="/feed.xml"><i class="icon-feed2" id="twitter-share-pop-up"></i></a> </p>
+</div>
 </div>
