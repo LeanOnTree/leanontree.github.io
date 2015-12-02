@@ -1,0 +1,22 @@
+---
+title: LeanOnTree - Newsletter
+layout: lot-newsletter
+---
+{% for post_latest in site.posts limit:5 %}
+<div style="margin-left: 7em;margin-right: 7em;">
+  <table class="table">
+    <tr>
+    <td><img class="img-responsive" src="/img/{{ post_latest.contributors }}/index.jpg"  onerror="imgError(this);" width="100%" height="100%" /></td>
+    <td>
+  <table><tr>
+   <td><h4><a href="{{ post.url }}">{{ post_latest.title }}</a></h4></td>
+     </tr>
+     <tr>
+       <td><p style="font-family: 'Ubuntu', sans-serif">{{ post_latest.excerpt | strip_html }}<p></td>
+     </tr>
+   </table>
+    </td>
+    </tr>
+    </table>
+  </div>
+{% endfor %}
