@@ -117,6 +117,21 @@
     <li><a href="/entries/twistedPOV/">Posts</a></li>
   </ul>
 </li>
+<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">
+    <span class="glyphicon glyphicon-bed" aria-hidden="true"></span>&nbsp;&nbsp;myDecember
+    <span class="caret"></span>
+</a>
+    <ul class="dropdown-menu dropdown-menu-items" >
+	{% for post in site.posts %}
+	{% if post.title == "My December" %}
+	  <li>
+	<a href="{{ post.url }}">The Event</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+    <li><a href="/entries/myDecember/">Posts</a></li>
+  </ul>
+</li>
         </ul>
     </div>
     </div>
