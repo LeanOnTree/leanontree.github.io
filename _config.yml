@@ -11,6 +11,7 @@ markdown: rdiscount
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 excerpt_separator: <!--more-->
 exclude: [vendor]
+timezone: IN
 defaults:
  -
   scope:
