@@ -32,14 +32,21 @@
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/custom_script.js"></script>
 <meta property="og:type" content="website" />
+{% if page.og-title %}
+<meta property="og:title" content="{{ page.og-title }}" />
+{% else %}
 {% if page.meta-title %}
 <meta property="og:title" content="{{ page.meta-title }}" />
 {% else %}
 <meta property="og:title" content="{{ page.title }}" />
 {% endif %}
+{% endif %}
 <meta property="og:site_name" content="{{ site.name }}"/>
 <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
 <meta property="fb:app_id" content="361201497409231" />
+{% if page.og-description %}
+<meta name="og:description" content="{{ page.og-description }}">
+{% else %}
 {% if page.meta-description %}
 <meta name="og:description" content="{{ page.meta-description }}">
 {% else %}
@@ -52,6 +59,7 @@
 {% endfor %}
 {% else %}<meta name="og:description" content="{{ page.description }}"/>{% endif %}
 {% else %}<meta name="og:description" content="{{ site.description }}"/>{% endif %}
+{% endif %}
 {% endif %}
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <script>
