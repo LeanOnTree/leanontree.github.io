@@ -1,29 +1,22 @@
 ---
-title: "LeanOnTree - Posts related to the tag &#58; $TAG_TO_BE_REPLACED"
+title: CSA - Posts
 layout: default
 ---
-{% for postWithSpecificTag in site.tags.$TAG_TO_BE_REPLACED %}
-<div class="row-fluid main-content-item">
+{% for postWithSpecificTag in site.tags.CSA %}
+<div class="no-gutter main-content-item">
+	<div class="col-md-4 hidden-xs hidden-sm main-image" id="main-img-id">
+  <img class="img-responsive" src="/img/{{ postWithSpecificTag.contributors }}/index.jpg"  onerror="imgError(this);" />
+   </div>
 <div id="main-text-id" class="col-md-8 col-xs-12 col-sm-12 main-text">
 <div class="post-title">
-   <a href="{{ postWithSpecificTag.url }}" ><h2>
-   {% capture tagName %}{{ postWithSpecificTag.categories }}{% endcapture %}
-  {% case tagName %}
-  {% when 'self-love' %}
-  <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>&nbsp;&nbsp;
-  {% when 'twisted-pov' %}
-  <span class="glyphicon glyphicon-random" aria-hidden="true"></span>&nbsp;&nbsp;
-  {% when 'my-december' %}
-  <span class="glyphicon glyphicon-bed" aria-hidden="true"></span>&nbsp;&nbsp;
-  {% when 'CSA' %}
-  <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>&nbsp;&nbsp;
-  {% else %}
-  <span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>&nbsp;&nbsp;
-{% endcase %}
+  <a href="{{ postWithSpecificTag.url }}">
+    <h2>
+	<span class="glyphicon glyphicon-bed" aria-hidden="true"></span>&nbsp;&nbsp;
 	{{ postWithSpecificTag.title }}</h2></a>
+
 	</div>
 	<div class="post-body ">
-  <p style="font-family: 'Ubuntu', sans-serif">{{ postWithSpecificTag.excerpt | strip_html }}</p>
+	{{ postWithSpecificTag.excerpt | strip_html }}
 	</div>
 		<div class="post-date"><h3><span class="label label-default">Posted on
     {{ postWithSpecificTag.date | date_to_long_string }}</span></h3>
@@ -32,9 +25,7 @@ layout: default
       <a href="{{ postWithSpecificTag.url }}"  style="text-decoration: none;"><h3><span class="label label-danger">Read More &raquo;</span></h3></a>
     </div>
 	</div>
-	<div class="col-md-4 hidden-xs hidden-sm main-image" id="main-img-id">
-  <img class="img-responsive" src="/img/{{ postWithSpecificTag.contributors }}/index.jpg"  onerror="imgError(this);" />
-   </div>
+
    </div><br/><br/><br/>
 {% endfor %}
 <!-- div class="row-fluid">

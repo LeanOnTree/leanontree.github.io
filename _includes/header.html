@@ -140,6 +140,21 @@
     <li><a href="/entries/myDecember/">Posts</a></li>
   </ul>
 </li>
+<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">
+    <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>&nbsp;&nbsp;Child Sexual Abuse (CSA)
+    <span class="caret"></span>
+</a>
+    <ul class="dropdown-menu dropdown-menu-items" >
+	{% for post in site.posts %}
+	{% if post.title == "Child Sexual Abuse (CSA)" %}
+	  <li>
+	<a href="{{ post.url }}">The Event</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+    <li><a href="/entries/CSA/">Posts</a></li>
+  </ul>
+</li>
         </ul>
     </div>
     </div>

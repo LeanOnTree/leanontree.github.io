@@ -240,6 +240,7 @@ margin: 0;
   }
 
 }
+
 .site-content {
      flex: 1 0 auto;
     -webkit-flex: 1; /* Safari 6.1+ */
@@ -391,6 +392,9 @@ color: #FFFFFF;
 }
 .post-text-format{
   text-align: justify;
+}
+.post-text-format-for-traditional-poems{
+  text-align: center;
 }
 .post-body-question-format{
   font-family: 'Francois One', sans-serif;

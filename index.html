@@ -30,6 +30,12 @@ layout: default
   <i class="glyphicon glyphicon-bed" aria-hidden="true"></i>&nbsp;
   {% endif %}
   {% endfor %}
+  {% for postWithSpecificTag in site.tags.CSA  %}
+  {%
+     if postWithSpecificTag.title == post.title %}
+  <i class="glyphicon glyphicon-eye-close" aria-hidden="true"></i>&nbsp;
+  {% endif %}
+  {% endfor %}
 	{{ post.title }}</a></h2>
 	</div>
 		<div class="post-body ">
