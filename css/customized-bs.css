@@ -328,6 +328,15 @@ text-align: left;
 
   }
 }
+.inpost-title {
+border: 4px solid #f2f2f2;
+padding: 0.5em;
+}
+@media (min-width: 768px) {
+  .inpost-title {
+
+  }
+}
 .left-section
 {
 background: url('/img/lot/px_by_Gre3g.png');
