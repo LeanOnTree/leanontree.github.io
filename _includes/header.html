@@ -18,9 +18,9 @@
   {% else %}<meta name="description" content="{{ site.description }}">{% endif %}
   {% endif %}
 <link rel="icon" type="image/png" href="/img/lot-icons/LeanOnTreeIcon.png">
-<link href='http://fonts.googleapis.com/css?family=Droid+Sans|Roboto:400,300italic,300,400italic|Cookie|Lobster|Fjalla+One|Yanone+Kaffeesatz:400,300,700|Grand+Hotel' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans|Roboto:400,300italic,300,400italic|Cookie|Lobster|Fjalla+One|Yanone+Kaffeesatz:400,300,700|Grand+Hotel|Delius+Unicase' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Sue+Ellen+Francisco|Ubuntu:400,500,700|Quicksand:400,700|Roboto+Condensed:300italic,400italic,400,300|Oswald:400,700,300|Ubuntu+Condensed:400|Archivo+Narrow|Cuprum|Abel|Pacifico' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Bangers|Righteous|Montserrat|Francois+One|Source+Sans+Pro|Playball|Maiden+Orange|Rancho|Walter+Turncoat|Homenaje' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Bangers|Righteous|Montserrat|Francois+One|Source+Sans+Pro|Playball|Maiden+Orange|Rancho|Walter+Turncoat|Homenaje|Arvo' rel='stylesheet' type='text/css'>
 <link href="/css/bootstrap.css" rel="stylesheet">
 <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 <!-- link href="/css/bootstrap.min.css" rel="stylesheet" -->
@@ -76,10 +76,19 @@
 
 <body class="site">
 <header>
+  <nav class="header-nav-bar navbar navbar-default">
+    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></i>About</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></i>Self Love</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a class="site-brand"href="/">LEAN ON TREE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></i>Initiatives</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></i>Contact</a>
+
+  </nav>
+  <div class="site-brand"></div>
   {% if page.layout == 'post'%}
-  <nav role="navigation" class="navbar navbar-inverse navbar-fixed-top">
+  <nav role="navigation" class="navbar navbar-inverse">
     {% else %}
-  <nav role="navigation" class="navbar navbar-default navbar-fixed-top">
+  <nav role="navigation" class="navbar navbar-default">
     {% endif %}
   <div class="container-fluid">
   <div class="navbar-header">

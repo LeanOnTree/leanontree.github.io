@@ -169,6 +169,34 @@ font-family: 'Bebas Neue', sans-serif;
     bottom: 7px;
   }
 }
+.header-nav-bar {
+  text-align :center;
+}
+.site-brand {
+  text-align :center;
+  font-family:'Arvo', cursive;
+  font-size: 48pt;
+  text-decoration: none;
+}
+.site-header-nav-elements {
+  text-align :center;
+  vertical-align: 8pt;
+  font-family: 'Delius Unicase', cursive;
+  font-size: 14pt;
+}
+.site-header-nav-elements a:link {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.site-header-nav-elements a:visited {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.site-header-nav-elements a:hover {
+text-decoration: none;
+color: #FFFFFF;
+}
+  text-decoration: none;
 .jumbotron-blog-tag
 {
 text-align: center;
