@@ -172,18 +172,6 @@ font-family: 'Bebas Neue', sans-serif;
 .header-nav-bar {
   text-align :center;
 }
-.site-brand {
-  text-align :center;
-  font-family:'Arvo', cursive;
-  font-size: 48pt;
-  text-decoration: none;
-}
-.site-header-nav-elements {
-  text-align :center;
-  vertical-align: 8pt;
-  font-family: 'Delius Unicase', cursive;
-  font-size: 14pt;
-}
 .site-header-nav-elements a:link {
   text-decoration: none;
   color: #FFFFFF;
@@ -196,7 +184,43 @@ font-family: 'Bebas Neue', sans-serif;
 text-decoration: none;
 color: #FFFFFF;
 }
+a.site-brand:link {
+ text-decoration: none;
+ color: #000000;
+}
+a.site-brand:visited {
+ text-decoration: none;
+ color: #000000;
+}
+a.site-brand:hover {
+text-decoration: none;
+color: #000000;
+}
+.site-brand {
+  text-align :center;
+  font-family: inconsolata, sans-serif;
+  font-size: 48pt;
   text-decoration: none;
+}
+ a.site-header-nav-elements:link {
+  text-decoration: none;
+  color: #000000;
+}
+ a.site-header-nav-elements:visited {
+  text-decoration: none;
+  color: #000000;
+}
+ a.site-header-nav-elements:hover {
+text-decoration: none;
+color: #000000;
+}
+.site-header-nav-elements {
+  text-align :center;
+  vertical-align: 8pt;
+  font-family: advent-pro, sans-serif;
+  font-size: 16pt;
+}
+
 .jumbotron-blog-tag
 {
 text-align: center;
