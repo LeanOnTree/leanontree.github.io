@@ -943,6 +943,10 @@ font-size: 16px;
   font-size:32px;
   }
 }
+.label-dull-yellow
+{
+background-color:#cacc00;
+}
 .label-black
 {
 background-color:#000000;
