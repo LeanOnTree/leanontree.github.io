@@ -481,6 +481,16 @@ font-size: 12pt ;
 position: relative;
 bottom: 25px;
 }
+.post-image-customsize {
+  height: inherit;
+  width: inherit;
+}
+@media (min-width: 992px) {
+.post-image-customsize {
+  height: 50%;
+  width: 50%;
+}
+}
 .lot-text{
 font-family: 'Walter Turncoat', sans-serif;
 font-size: 14pt;
