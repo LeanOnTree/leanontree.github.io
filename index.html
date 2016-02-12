@@ -9,7 +9,7 @@ layout: default
    </div>
   <div id="main-text-id" class="col-md-8 col-xs-12 col-sm-12 main-text">
   <div class="post-title">
-    <h2><a href="{{ post.url }}">
+    <h2><b><a href="{{ post.url }}">
 	{% for postWithSpecificTag in site.tags.self-love  %}
 	{% if postWithSpecificTag.title == post.title %}
 	<i class="glyphicon glyphicon-heart"></i>&nbsp;
@@ -36,7 +36,7 @@ layout: default
   <i class="glyphicon glyphicon-eye-close" aria-hidden="true"></i>&nbsp;
   {% endif %}
   {% endfor %}
-	{{ post.title }}</a></h2>
+	{{ post.title }}</a></b></h2>
 	</div>
 		<div class="post-body ">
 	<p style="font-family: 'Ubuntu', sans-serif">{{ post.excerpt | strip_html }}<p>
