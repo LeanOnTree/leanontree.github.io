@@ -1,9 +1,7 @@
 body
 {
   background: url(/img/lot/p6.png);
-
 }
-
 .jumbotron {
 background-position: 0% 30%;
 background-image: url(/img/lot/lotblogheader.jpg);
@@ -169,6 +167,7 @@ font-family: 'Bebas Neue', sans-serif;
     bottom: 7px;
   }
 }
+/*
 .header-nav-bar {
   text-align :center;
 }
@@ -220,7 +219,7 @@ color: #000000;
   font-family: advent-pro, sans-serif;
   font-size: 16pt;
 }
-
+*/
 .jumbotron-blog-tag
 {
 text-align: center;
@@ -284,7 +283,7 @@ margin: 0;
 }
 @media (min-width: 992px) {
   .site {
-    
+    padding-top: 50px;
     display: flex;
     display: -webkit-flex;
     min-height: 100vh;
