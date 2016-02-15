@@ -359,6 +359,9 @@ text-align: justify;
   }
 
 }
+.instagram-media {
+  margin: 0 auto !important;
+}
 .post-title
 {
 font-family: 'Oswald', sans-serif;
