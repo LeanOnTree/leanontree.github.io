@@ -7,3 +7,6 @@ gem 'json'
 gem 'rspec'
 gem 'jekyll-paginate'
 gem "html-proofer"
+gem 'nokogiri'
+gem 'rack', '~>1.1'
+gem 'rspec', :require => 'spec'
