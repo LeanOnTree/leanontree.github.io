@@ -36,6 +36,12 @@ layout: default
   <i class="glyphicon glyphicon-eye-close" aria-hidden="true"></i>&nbsp;
   {% endif %}
   {% endfor %}
+  {% for postWithSpecificTag in site.tags.theStoryHour  %}
+  {%
+     if postWithSpecificTag.title == post.title %}
+  <i class="glyphicon glyphicon-lamp" aria-hidden="true"></i>&nbsp;
+  {% endif %}
+  {% endfor %}
 	{{ post.title }}</a></b></h2>
 	</div>
 		<div class="post-body ">
