@@ -1,5 +1,7 @@
 # Lean On Tree
 
+[![Build Status](https://travis-ci.org/LeanOnTree/leanontree.svg?branch=master)](https://travis-ci.org/LeanOnTree/leanontree)
+
 >We wish we knew where to start, from where it all started, or from where 'we' started.
 
 >It came to me one night when life appeared unkinder than what it actually is.You see, it is easy to lose sight of what we truly are and what we truly can do, when put in a setting laced with lies, adulterated with antagonizing visions.I had submerged myself in a pile of work. And deep down a voice questioned - is there an end to this or is this the end? You know that voice. The voice speaks to us, only if we are open enough to listen. It took me a life of shambles (quite literally) to finally hear it!
