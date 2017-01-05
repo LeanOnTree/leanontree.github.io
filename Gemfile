@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
-gem 'jekyll', '3.0'
+gem 'jekyll', '3.3.1'
 gem 'jekyll-sitemap'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'jekyll-watch'
 gem 'json'
-gem 'rspec'
-gem 'jekyll-paginate'
+gem 'jekyll-paginate-v2'
+gem 'jekyll-feed'
+gem 'jekyll-gist'
 gem "html-proofer"
 gem 'nokogiri'
 gem 'rack', '~>1.1'
