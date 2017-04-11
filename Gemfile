@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '3.3.1'
+gem 'jekyll', '3.4.3'
 gem 'jekyll-sitemap'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'jekyll-watch'
@@ -9,5 +9,5 @@ gem 'jekyll-feed'
 gem 'jekyll-gist'
 gem "html-proofer"
 gem 'nokogiri'
-gem 'rack', '~>1.1'
-gem 'rspec', :require => 'spec'
+gem 'rspec'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
