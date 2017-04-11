@@ -19,6 +19,7 @@ branches:
   only:
   - master     # test the gh-pages branch
   - dev_leanontree_v1_changes_and_fixes
+  - lot_article_publish
 
 env:
   global:
@@ -46,3 +47,13 @@ deploy:
     cache_control: "max-age=60"
     on:
       branch: dev_leanontree_v1_changes_and_fixes
+  - provider: s3
+    access_key_id: $AWS_SECRET_ID
+    secret_access_key: $AWS_SECRET_KEY
+    bucket: $AWS_BUCKET_DEV
+    skip_cleanup: true
+    local-dir: _site
+    detect_encoding: true
+    cache_control: "max-age=60"
+    on:
+      branch: lot_article_publish      
