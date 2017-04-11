@@ -25,6 +25,7 @@ defaults:
 gems:
 - jekyll-coffeescript
 - jekyll-watch
+#- jekyll-sitemap
 - jekyll-assets
 - jekyll-paginate
 - jekyll-admin
