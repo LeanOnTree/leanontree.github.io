@@ -7,7 +7,7 @@ permalink: none
 paginate: 5
 url: http://leanontree.com
 paginate_path: "/page:num/"
-markdown: rdiscount
+markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 excerpt_separator: <!--more-->
 exclude: [vendor]

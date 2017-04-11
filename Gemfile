@@ -11,3 +11,4 @@ gem "html-proofer"
 gem 'nokogiri'
 gem 'rspec'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'kramdown'
