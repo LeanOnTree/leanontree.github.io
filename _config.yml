@@ -26,7 +26,6 @@ gems:
 - jekyll-coffeescript
 - jekyll-watch
 - jekyll-assets
-- jekyll-sitemap
 - jekyll-paginate
 - jekyll-admin
 analytics:
