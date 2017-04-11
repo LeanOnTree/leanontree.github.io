@@ -1,15 +1,23 @@
 ---
-title: 'The Story Hour'
-meta-title: 'Attend Story Hour with LeanOnTree. Come. Stay. Be!'
+title: The Story Hour
+meta-title: Attend Story Hour with LeanOnTree. Come. Stay. Be!
 layout: post
-tags: [Story, Storytelling, eventsInDelhi, theStoryHour]
-meta-tags: [Story, Storytelling, events in Delhi]
+tags:
+- Story
+- Storytelling
+- eventsInDelhi
+- theStoryHour
+meta-tags:
+- Story
+- Storytelling
+- events in Delhi
 comments: true
-contributors: "the-story-hour"
-author: "Annie Singhal"
-categories: "TheStoryHour"
-description: "LeanOnTree invites you to take an hour off and spend time in the company of stories and people who love them! Click for more details!"
-profile-pic: '/img/annie-singhal/annie-singhal-profile-pic.jpg'
+contributors: the-story-hour
+author: Annie Singhal
+categories: TheStoryHour
+description: LeanOnTree invites you to take an hour off and spend time in the company
+  of stories and people who love them! Click for more details!
+profile-pic: "/img/annie-singhal/annie-singhal-profile-pic.jpg"
 ---
 
 <p class="lot-text">"It's a story. It's life. Yours and mine."</p>

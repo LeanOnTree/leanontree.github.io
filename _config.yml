@@ -1,28 +1,36 @@
-﻿source: .
-destination: ./_site
-name: "Lean On Tree"
-description : "Living, breathing, seeing, observing, existing. Sometimes, we all need to LeanOnTree.It's a story. It's life. Yours and mine."
+---
+source: "."
+destination: "./_site"
+name: Lean On Tree
+description: Living, breathing, seeing, observing, existing. Sometimes, we all need
+  to LeanOnTree.It's a story. It's life. Yours and mine.
 highlighter: rouge
 permalink: none
 paginate: 5
 url: http://leanontree.com
 paginate_path: "/page:num/"
 markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-excerpt_separator: <!--more-->
-exclude: [vendor]
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+excerpt_separator: "<!--more-->"
+exclude:
+- vendor
 timezone: Asia/Kolkata
 defaults:
- -
-  scope:
-   path: ""
+- scope:
+    path: ''
   values:
-    layout: "default"
-    author: "Punyasloka Parida"
+    layout: default
+    author: Punyasloka Parida
+    title: Lean On Tree
 gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-65359714-1'
+- jekyll-coffeescript
+- jekyll-watch
+- jekyll-assets
+- jekyll-sitemap
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-admin
+analytics:
+  provider: google
+  google:
+    tracking_id: UA-65359714-1
