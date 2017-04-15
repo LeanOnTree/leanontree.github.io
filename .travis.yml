@@ -1,25 +1,22 @@
 language: ruby
 rvm:
 - 2.2.3
-node_js:
-  - "6"
-  - "6.1"
-  - "5.11"
-  - "0.6"
-  - "iojs"
-before_script:
- - chmod +x ./build_script/cibuild # or do this locally and commit
 
+install:
+  - bundle install
+  
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: ./build_script/cibuild
-
+script: 
+- bundle exec jekyll build
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master     # test the gh-pages branch
-  - dev_leanontree_v1_changes_and_fixes
+  - master  # test the gh-pages branch
+  - lot_bug_fixes
   - lot_article_publish
+  - dev_leanontree_refactoring
+  - lot_design_lang_2
 
 env:
   global:
@@ -37,7 +34,7 @@ deploy:
     cache_control: "max-age=60"
     on:
       branch: master
-deploy:      
+     
   - provider: s3
     access_key_id: $AWS_SECRET_ID
     secret_access_key: $AWS_SECRET_KEY
@@ -48,7 +45,7 @@ deploy:
     cache_control: "max-age=60"
     on:
       branch: lot_bug_fixes
-deploy:
+
   - provider: s3
     access_key_id: $AWS_SECRET_ID
     secret_access_key: $AWS_SECRET_KEY
@@ -59,7 +56,7 @@ deploy:
     cache_control: "max-age=60"
     on:
       branch: lot_article_publish
-deploy:
+
   - provider: s3
     access_key_id: $AWS_SECRET_ID
     secret_access_key: $AWS_SECRET_KEY
@@ -70,7 +67,7 @@ deploy:
     cache_control: "max-age=60"
     on:
       branch: dev_leanontree_refactoring
-deploy:
+
   - provider: s3
     access_key_id: $AWS_SECRET_ID
     secret_access_key: $AWS_SECRET_KEY
