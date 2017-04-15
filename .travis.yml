@@ -46,7 +46,7 @@ deploy:
     detect_encoding: true
     cache_control: "max-age=60"
     on:
-      branch: dev_leanontree_v1_changes_and_fixes
+      branch: lot_bug_fixes
   - provider: s3
     access_key_id: $AWS_SECRET_ID
     secret_access_key: $AWS_SECRET_KEY
