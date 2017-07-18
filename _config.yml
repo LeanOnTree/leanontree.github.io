@@ -22,7 +22,7 @@ defaults:
     layout: default
     author: Punyasloka Parida
     title: Lean On Tree
-gems:
+plugins:
 - jekyll-watch
 - jekyll-sitemap
 - jekyll-assets
