@@ -1,16 +1,41 @@
 ---
 title: 'Turmoil of Peace ~ #twersty'
-meta-title: '#MyDecember: Turmoil of Peace | LEANONTREE'
+date: 2015-12-12 00:00:00 +05:30
+categories:
+- my-december
+tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
+meta-title: "#MyDecember: Turmoil of Peace | LEANONTREE"
 layout: post
-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
-meta-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
+meta-tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
 comments: true
-contributors: "my-december-turmoil-of-peace"
-categories: "my-december"
+contributors: my-december-turmoil-of-peace
 author: "#twersty"
-description: "Dormant underneath the sheets, what reflections does December bring? Our guest author Tushar articulates about his only permanent thing in a temporary life."
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+description: Dormant underneath the sheets, what reflections does December bring?
+  Our guest author Tushar articulates about his only permanent thing in a temporary
+  life.
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p class="lot-text">We bring you the third entry in the My December event, beautifully composed by #twersty. Here’s an ode to the evanescence of life when viewed against the eternity of winters resting underneath the sheets. Relish in the short-composition, articulating the deserted chaos amidst the December chills.</p><br/>
 
 <div class="separator" style="clear: both; text-align: center;">

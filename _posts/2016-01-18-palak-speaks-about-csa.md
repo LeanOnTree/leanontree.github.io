@@ -1,16 +1,32 @@
 ---
 title: 'Trigger Warning: Contains Life-Story About Child Sexual Abuse &amp; Incest'
-meta-title: 'Triger Alert! Palak Speaks Up About CSA &amp; Incest- LEANONTREE'
+date: 2016-01-18 00:00:00 +05:30
+categories:
+- CSA
+tags:
+- ChildSexualAbuse
+- SexualAbuse
+- Trauma
+- LifeStories
+- IncestVictim
+- CSA
+meta-title: Triger Alert! Palak Speaks Up About CSA &amp; Incest- LEANONTREE
 layout: post
-tags: [ChildSexualAbuse, SexualAbuse, Trauma, LifeStories, IncestVictim, CSA]
-meta-tags: [Child Sexual Abuse, Sexual Abuse, Trauma, Life Stories, Incest Victim]
+meta-tags:
+- Child Sexual Abuse
+- Sexual Abuse
+- Trauma
+- Life Stories
+- Incest Victim
 comments: true
-contributors: "palak-speaks-about-csa"
-author: "Palak Sharma"
-categories: "CSA"
-description: "Palak recounts the earliest memories of her child sexual abuse &amp; incest. She also mentions the conflict, if the instances influenced her orientation today? #ShowYourLove"
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+contributors: palak-speaks-about-csa
+author: Palak Sharma
+description: 'Palak recounts the earliest memories of her child sexual abuse &amp;
+  incest. She also mentions the conflict, if the instances influenced her orientation
+  today? #ShowYourLove'
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p class="lot-text"><span class="label label-danger">Caution!</span></p>
 
 <p class="lot-text">

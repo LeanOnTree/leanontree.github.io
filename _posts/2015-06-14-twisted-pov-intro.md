@@ -1,13 +1,18 @@
 ---
 title: Twisted POV
+date: 2015-06-14 00:00:00 +05:30
+categories:
+- twisted-pov
+tags:
+- twisted-pov
+- introduction
 layout: post
-tags: [twisted-pov,introduction]
-categories: twisted-pov
 contributors: twisted-pov
-author: "LeanOnTree"
-description: ""
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+author: LeanOnTree
+description: ''
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p style="text-align: justify;">No! They don’t understand. How can they? Do you? We don’t! Because we know we are both victims and victimizers. We exist, somewhere between the axis of love and indifference, friendship and solitude, ecstasy and sobriety.</p>
 <p style="text-align: justify;">Are you ever really just one person? One gender? One caste? One creed? One definition? Don’t you hear multiple voices in your head? Don’t you second guess? And yet, the first and the second, and a whole lot more exist in a single place. A unified entity!<!--more--></p>
 <div class="separator" style="clear: both; text-align: center;">

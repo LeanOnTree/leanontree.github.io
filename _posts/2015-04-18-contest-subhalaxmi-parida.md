@@ -1,14 +1,21 @@
 ---
 title: My Life, My Way&#58; Subhalaxmi Parida Talks About Self Love, Life, and Positivity
+date: 2015-04-18 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- leanontreeblog
+- lessonsoflife
+- self-love
+- selflove
 layout: post
-tags: [leanontreeblog,lessonsoflife,self-love,selflove]
 comments: true
-categories: self-love
 contributors: subhalaxmi-parida
-author: "Subhalaxmi Parida"
-description: ""
-profile-pic: '/img/subhalaxmi-parida/subhalaxmi-parida-profile-pic.jpg'
+author: Subhalaxmi Parida
+description: ''
+profile-pic: "/img/subhalaxmi-parida/subhalaxmi-parida-profile-pic.jpg"
 ---
+
 <p class="lot-text">
 "Realized that it had been a long time since I had appreciated myself."</p>
 <p class="lot-text">

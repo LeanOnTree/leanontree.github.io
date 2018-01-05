@@ -1,14 +1,19 @@
 ---
 title: Megha Loves Being Herself and 49 Things More
+date: 2015-03-23 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- leanontreeblog
+- self-love
 layout: post
-tags: [leanontreeblog,self-love]
 comments: true
-categories: self-love
 contributors: megha
-author: "Megha"
-description: ""
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+author: Megha
+description: ''
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p class="lot-text">
 <i>While flipping through the mails of friends and family members that we have received as entries for the Self Love Challenge, we were pleasantly surprised to receive this one entry in particular.</i></p>
 <p class="lot-text">

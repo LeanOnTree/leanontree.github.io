@@ -1,16 +1,22 @@
 ---
-title: 'My December'
-meta-title: 'My December'
+title: My December
+date: 2015-12-01 00:00:00 +05:30
+categories:
+- my-december
+tags:
+- myDecember
+meta-title: My December
 layout: post
-tags: [myDecember]
-meta-tags: [myDecember]
+meta-tags:
+- myDecember
 comments: true
-contributors: "my-december"
-author: "LeanOnTree"
-categories: "my-december"
-description: What does winter mean to you? Do you dread the numbing stillness? Does your heart aches for someone to keep you company? Or is it the season of bloom?
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+contributors: my-december
+author: LeanOnTree
+description: What does winter mean to you? Do you dread the numbing stillness? Does
+  your heart aches for someone to keep you company? Or is it the season of bloom?
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p class="lot-text">Archive the year before it is over!</p>
 <p class="lot-text">LeanOnTree invites you to share you selected writings with us. The theme is December. What meanings do you attach to it? Celebrations? The closing? The beginning? The end?</p>
 <div  class="separator" style="clear: both; text-align: center;">

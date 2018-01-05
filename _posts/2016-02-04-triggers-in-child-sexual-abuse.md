@@ -1,16 +1,33 @@
 ---
-title: 'Triggers in Child Sexual Abuse'
-meta-title: 'Triggers in Child Sexual Abuse - LEANONTREE'
+title: Triggers in Child Sexual Abuse
+date: 2016-02-04 00:00:00 +05:30
+categories:
+- CSA
+tags:
+- ChildSexualAbuse
+- SexualAbuse
+- Trauma
+- LifeStories
+- MentalAbuse
+- Survivor
+- CSA
+meta-title: Triggers in Child Sexual Abuse - LEANONTREE
 layout: post
-tags: [ChildSexualAbuse, SexualAbuse, Trauma, LifeStories, MentalAbuse, Survivor, CSA]
-meta-tags: [ChildSexualAbuse, SexualAbuse, Trauma, LifeStories, MentalAbuse, Survivor]
+meta-tags:
+- ChildSexualAbuse
+- SexualAbuse
+- Trauma
+- LifeStories
+- MentalAbuse
+- Survivor
 comments: true
-contributors: "triggers-in-child-sexual-abuse"
-author: "Annie Singhal"
-categories: "CSA"
-description: "Triggers are a challenge faced by every survivor or victim of Child Sexual Abuse. This insightful narrative looks into CSA triggers. #ShowYourLove"
-profile-pic: '/img/annie-singhal/annie-singhal-profile-pic.jpg'
+contributors: triggers-in-child-sexual-abuse
+author: Annie Singhal
+description: 'Triggers are a challenge faced by every survivor or victim of Child
+  Sexual Abuse. This insightful narrative looks into CSA triggers. #ShowYourLove'
+profile-pic: "/img/annie-singhal/annie-singhal-profile-pic.jpg"
 ---
+
 <h1  style="text-align:center;"> Do You Know About Triggers? </h1></br>
 
 <p class="post-text-format">I have decided to write this as a break from making up my mind, to write about another experience of my Child Sexual Abuse.</p>

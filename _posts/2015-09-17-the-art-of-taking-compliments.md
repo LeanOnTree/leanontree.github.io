@@ -1,14 +1,21 @@
 ---
 title: The Art of Taking Compliments
+date: 2015-09-17 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- journey
+- leanontreeblog
+- self-love
+- selfworth
 layout: post
-tags: [journey,leanontreeblog,self-love,selfworth]
 comments: true
-categories: self-love
 contributors: the-art-of-taking-compliments
-author: "Annie Singhal"
-description: ""
-profile-pic: '/img/annie-singhal/annie-singhal-profile-pic.jpg'
+author: Annie Singhal
+description: ''
+profile-pic: "/img/annie-singhal/annie-singhal-profile-pic.jpg"
 ---
+
 <p style="text-align: justify;">
 There has been a realization and a revelation to me less than 24 hours ago. Someone I barely knew but admired came up to me and complimented me, saying I have really sharp insights to offer in the workshop (that's where I met her). I thanked her, tried controlling my face from bursting into a warm red, and walked back to my friend. After gulping down a glass of water and coming close to him, I whispered hesitantly, “A counsellor just now complimented...." "I know!”<!--more--> he reverted in his usual manner.</p>
 

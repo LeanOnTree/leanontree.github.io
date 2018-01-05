@@ -1,15 +1,24 @@
 ---
-title: 'On Hurting and Healing Through Self-Love'
-meta-title: 'Lessons learned via self-love by Avnika | LEANONTREE'
+title: On Hurting and Healing Through Self-Love
+date: 2017-07-18 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- Self-love
+- love yourself
+- lessons in life
+meta-title: Lessons learned via self-love by Avnika | LEANONTREE
 layout: post
-tags: [Self-love, love yourself, lessons in life]
-meta-tags: [Self-love, love yourself, lessons in life]
+meta-tags:
+- Self-love
+- love yourself
+- lessons in life
 comments: true
-contributors: "on-hurting-and-healing"
-author: "Avnika Gupta"
-categories: "self-love"
-description: "Avnika writes for the Leanontreeblog, sharing her journey towards self-love, narrating the tale of experiences that hurt and healed, as she began loving herself.  "
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+contributors: on-hurting-and-healing
+author: Avnika Gupta
+description: 'Avnika writes for the Leanontreeblog, sharing her journey towards self-love,
+  narrating the tale of experiences that hurt and healed, as she began loving herself.  '
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

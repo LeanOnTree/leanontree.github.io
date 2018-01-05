@@ -1,14 +1,21 @@
 ---
 title: Punyasloka Parida&#58; A Geek! A Movie Buff! And Now, A Self-Lover!
+date: 2015-04-02 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- journey
+- leanontreeblog
+- lessonsoflife
+- self-love
 layout: post
-tags: [journey,leanontreeblog,lessonsoflife,self-love]
 comments: true
-categories: self-love
 contributors: punyasloka-parida
-author: "Punyasloka Parida"
-description: ""
+author: Punyasloka Parida
+description: ''
 profile-pic: "/img/punyasloka-parida/punyasloka-parida-profile-pic.jpg"
 ---
+
 <p class="lot-text">Have you wondered what amazing journey life is? It was quite heartening for us to see how by writing 50 Things He Loved About Himself, Punyasloka Parida gave us a glimpse of his journey so far. We feel honored that he could trust us enough, to share his personal odyssey!</p>
 <p class="lot-text">C'mon Leaners, let us discover how well he fared on the Self Love Challenge<!--more-->nbsp;</p>
 <h3 style="text-align: center;">

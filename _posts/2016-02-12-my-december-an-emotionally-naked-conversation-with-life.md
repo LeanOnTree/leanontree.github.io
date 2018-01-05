@@ -1,15 +1,26 @@
 ---
-title: 'मेरी सख्त हेडमास्टर, मेरी हमनवा…ज़िन्दगी!'
-meta-title: 'An Emotionally Naked Conversation with Life- LEANONTREE'
+title: मेरी सख्त हेडमास्टर, मेरी हमनवा…ज़िन्दगी!
+date: 2016-02-12 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- Self-Love
+- Journey
+- Life
+- myDecember
+meta-title: An Emotionally Naked Conversation with Life- LEANONTREE
 layout: post
-tags: [Self-Love,Journey,Life,myDecember]
-meta-tags: [Self-Love, Journey, Life,myDecember]
+meta-tags:
+- Self-Love
+- Journey
+- Life
+- myDecember
 comments: true
-contributors: "my-december-an-emotionally-naked-conversation-with-life"
-author: "Sahil Verma"
-categories: "self-love"
-description: "What happens when the narrator returns home to an empty bed? An empty life? #ShowYourLove as the narrator shares an honest conversation with life."
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+contributors: my-december-an-emotionally-naked-conversation-with-life
+author: Sahil Verma
+description: 'What happens when the narrator returns home to an empty bed? An empty
+  life? #ShowYourLove as the narrator shares an honest conversation with life.'
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 ---
 
 <p class="lot-text">ISN’T VALENTINE’S WEEK THE HARDEST OF SOLITARY WANDERERS? AS YOU EASE YOURSELF INTO READING THIS POST, WE SUGGEST YOU MAY JUST SURRENDER COMFORTABLY NOW. ENJOY THIS BI-LINGUAL POST IN WHICH THE NARRATOR RETURNS HOME TO EMPTINESS AND FINALLY STRIKES A CONVERSATION WITH OUR ONE TRUE COMPANION, LIFE IN ITSELF. <!--more-->READ THE HINDI PART, SINCE THE POST WAS ORIGINALLY WRITTEN IN A MIX OF HINDI &amp; URDU. THE SAME HAS BEEN TRANSLATED FOR OUR ENGLISH-CENTRIC READERS.</p>

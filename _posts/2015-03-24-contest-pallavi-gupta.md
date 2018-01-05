@@ -1,14 +1,20 @@
 ---
 title: I Love That I Could Find So Many Ways to Love Myself - Pallavi Gupta
+date: 2015-03-24 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- journey
+- leanontreeblog
+- self-love
 layout: post
-tags: [journey,leanontreeblog,self-love]
 comments: true
-categories: self-love
 contributors: pallavi-gupta
-author: "Pallavi Gupta"
-description: ""
+author: Pallavi Gupta
+description: ''
 profile-pic: "/img/pallavi-gupta/pallavi-gupta-profile-pic.jpg"
 ---
+
 <p class="lot-text">Leanontree warning: This particular entry in our Self Love Challenge, could be a bit of a roller-coaster ride! Happy Reading!&nbsp;</p>
 <p>"I am excited. I like to take up challenges and follow them. <br/>Let’s see what this one brings out for me."</p>
 <div class="post-body-list-container"><ol style="text-align:justify">

@@ -1,12 +1,18 @@
 ---
 title: Pompi's Procrastination, Resilience and Selflove at LeanOnTree
+date: 2015-05-05 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- exorcism
+- healing
+- journey
+- self-love
 layout: post
-tags: [exorcism,healing,journey,self-love]
 comments: true
-categories: self-love
 contributors: pompi-banarjee
-author: "Pompi Banarjee"
-description: ""
+author: Pompi Banarjee
+description: ''
 profile-pic: "/img/pompi-banarjee/pompi-banarjee-profile-pic.jpg"
 ---
 

@@ -1,17 +1,32 @@
 ---
-title: '&#34;You&#39;re Perfect! And Good At It!&#34; &#45; Tarun Gidwani!'
+title: "&#34;You&#39;re Perfect! And Good At It!&#34; &#45; Tarun Gidwani!"
+date: 2015-10-23 00:00:00 +05:30
+categories:
+- leanontree
+tags:
+- You-are-perfect
+- self-love
+- self-worth
+- lovingyourself
 meta-title: You&#39;re Perfect by Tarun Gidwani at Leanontree.com
 layout: post
-tags: [You-are-perfect, self-love, self-worth, lovingyourself]
-meta-tags: [You're perfect, self-love, self-worth, loving yourself]
+meta-tags:
+- You're perfect
+- self-love
+- self-worth
+- loving yourself
 comments: true
-categories: leanontree
 contributors: tarun-gidwani-b
-author: "Tarun Gidwani"
-description: 'You&#39;ve seen Tarun Gidwani carrying the &#34;You&#39;re Perfect&#34; signboard on the streets! Now have the man talk more about why &#34;You’re Perfect!&#34;And, #ShowYourLove'
-meta-description: 'You&#39;ve seen Tarun Gidwani carrying the &#34;You&#39;re Perfect&#34; signboard on the streets! Now have the man talk more about why &#34;You’re Perfect!&#34;And, #ShowYourLove'
-profile-pic: '/img/tarun-gidwani-b/tarun-gidwani-profile-pic.jpg'
+author: Tarun Gidwani
+description: 'You&#39;ve seen Tarun Gidwani carrying the &#34;You&#39;re Perfect&#34;
+  signboard on the streets! Now have the man talk more about why &#34;You’re Perfect!&#34;And,
+  #ShowYourLove'
+meta-description: 'You&#39;ve seen Tarun Gidwani carrying the &#34;You&#39;re Perfect&#34;
+  signboard on the streets! Now have the man talk more about why &#34;You’re Perfect!&#34;And,
+  #ShowYourLove'
+profile-pic: "/img/tarun-gidwani-b/tarun-gidwani-profile-pic.jpg"
 ---
+
 <p class="lot-text"><i>
 When we first heard of his “You’re Perfect” campaign, we fell in love with the idea so much so, that we decided to interview this kind stranger. Few exchange of emails revealed a beautiful composition, hither to kept under the wraps.</i><p>
 

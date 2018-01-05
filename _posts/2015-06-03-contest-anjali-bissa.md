@@ -1,14 +1,21 @@
 ---
 title: Lazy to Type but Not to Love Self! That's Anjali Bissa for You all!
+date: 2015-06-03 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- journey
+- self-love
+- selflove
+- selfworth
 layout: post
-tags: [journey,self-love,selflove,selfworth]
 comments: true
-categories: "self-love"
 contributors: anjali-bissa
-author: "Anjali Bissa"
-description: ""
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+author: Anjali Bissa
+description: ''
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p class="lot-text">
 <i>So here is a self lover who is ready to make her self-love declaration go live! However, she doesn't wish to put her pictures on the Blog? Does that mean she isn't real? No! She is one us! You might have shared your metro ride to office this morning with her. Perhaps she is classmates with your daughter.Perhaps she is your daughter. Or a son just trying to accept his gender.</i><!--more--></p>
 <p class="lot-text">

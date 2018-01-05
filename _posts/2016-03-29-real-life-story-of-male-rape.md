@@ -1,16 +1,29 @@
 ---
-title: '[Trigger Alert] Real Life Story of Male Rape'
-meta-title: '[Trigger Alert] Real Life Story of Male Rape - LEANONTREE'
+title: "[Trigger Alert] Real Life Story of Male Rape"
+date: 2016-03-29 00:00:00 +05:30
+tags:
+- rape
+- consent
+- life
+- general
+meta-title: "[Trigger Alert] Real Life Story of Male Rape - LEANONTREE"
 layout: post
-tags: [rape, consent, life, general]
-meta-tags: [rape, Journey, consent, life, story, male-rape]
+meta-tags:
+- rape
+- Journey
+- consent
+- life
+- story
+- male-rape
 comments: true
-contributors: "story-of-male-rape"
-author: "Anonymous"
-categories: ""
-description: "He is gay. He met friends. He said NO but couldn’t fight back. His drink was spiked. He was raped. This is his story. This needs your attention &amp; your love, now!"
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+contributors: story-of-male-rape
+author: Anonymous
+description: He is gay. He met friends. He said NO but couldn’t fight back. His drink
+  was spiked. He was raped. This is his story. This needs your attention &amp; your
+  love, now!
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p class="lot-text">Before you go ahead further and read this real-life incident, please make sure you are comfortable. The incident narrates the haunting tale of rape. of Male Rape. As you decide to read the incident, and support the rape-victim, reconnect with your own strength and power. Feel completely safe now as you go ahead and read about the Incident.</p>
 
 <p class="post-text-format">“Anupam and I had been friends since three years when this incident happened. <!--more-->That evening I was returning to my PG from my CAT classes when Rahul, a friend who I worked for, called me up. He asked me to come to a bar named Suswagatam. Anupam was also there. And I affirmed. So, we met up at that bar, and Anupam filled a quarter of a glass with beer for me. I was a drinker back then and surely I wouldn't have gotten high with that little amount of beer. But as soon as I stood up, I could feel the Earth spinning. I sat down again. Rahul told me to stay back at Anupam's place as it was nearby. I could not have gone back to the PG in that condition anyway. So, yet again, I affirmed.</p>

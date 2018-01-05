@@ -1,16 +1,27 @@
 ---
-title: 'Love, Sex and Valentine’s Day'
-meta-title: 'Why I’m Unwilling to Commit – LEANONTREE'
+title: Love, Sex and Valentine’s Day
+date: 2016-02-13 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- self-love
+- valentine
+- Life
+- selflove
+meta-title: Why I’m Unwilling to Commit – LEANONTREE
 layout: post
-tags: [self-love,valentine,Life,selflove]
-meta-tags: [Self-Love, Journey, valentine]
+meta-tags:
+- Self-Love
+- Journey
+- valentine
 comments: true
-contributors: "love-sex-and-valentines-day"
-author: "Sahil Verma"
-categories: "self-love"
-description: "Finally, I am not blinded by the idea of love. I understand my desires far better than love. I am unwilling to commit. But yes, I do want love but..."
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+contributors: love-sex-and-valentines-day
+author: Sahil Verma
+description: Finally, I am not blinded by the idea of love. I understand my desires
+  far better than love. I am unwilling to commit. But yes, I do want love but...
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 ---
+
 <p class="post-text-format">No offence but it is that wretched time of the year again. There are only three times in a year when I feel like being in a relationship. One: On Valentine’s Day. Two: On my birthday. And Three: well, all of the winters actually.</p>
 
 <p class="post-text-format">Okay, before you begin to read between the lines, please know that I know – perhaps better than most around me that other people are not medicines. I will not let a person in, hoping against hope it will be an antidote to my depression and melancholy. I will not use a body, just because I am lonely and in a position to use somebody.<!--more--></p>

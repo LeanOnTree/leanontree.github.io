@@ -1,13 +1,22 @@
 ---
 title: A Leaner's Response To Corporate World's Toxicity And Viciousness
+date: 2015-04-27 00:00:00 +05:30
+tags:
+- exorcism
+- healing
+- learning
+- lessonsoflife
+- selflove
+- selfworth
+- general
 layout: post
-tags: [exorcism,healing,learning,lessonsoflife,selflove,selfworth,general]
 comments: true
 contributors: toxic-corporate-world
-author: "Sahil Verma"
-description: ""
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+author: Sahil Verma
+description: ''
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 ---
+
 <p style="text-align: justify;">Dear Leaner,<br/>Life was going good, and then tough times happened. The way they always do. More than for me, I was sad for the people around me. You know how certain people are like sponges; they sort of absorb the aura and the energies of the place. I am that sponge.</p>
 <p style="text-align: justify;">And so, when the company I work for, decided to make Annual Performance Evaluations as toxic and vicious as humanly possible<!--more-->, I, more than anything else, just wanted my colleagues to feel better. Perhaps to see the light at the end of the tunnel or something like that. Hence, I did what I I could do best..</p>
 <p style="text-align: justify;">I wrote something!</p>

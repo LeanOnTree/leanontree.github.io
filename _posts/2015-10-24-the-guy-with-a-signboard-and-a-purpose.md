@@ -1,16 +1,31 @@
 ---
 title: Tarun Gidwani&#58; The Guy with a Signboard and a Purpose
+date: 2015-10-24 00:00:00 +05:30
+categories:
+- leanontree
+tags:
+- You-are-perfect
+- selflove
+- leanontreeblog
+- spiritual
+- journey
+- general
 meta-title: Tarun Gidwani on why &#34;You&#39;re Perfect&#34; and more at Leanontree.com
 layout: post
-tags: [You-are-perfect, selflove, leanontreeblog, spiritual, journey, general]
-meta-tags: [self love, loving yourself, Tarun Gidwani You’re Perfect, self-worth]
+meta-tags:
+- self love
+- loving yourself
+- Tarun Gidwani You’re Perfect
+- self-worth
 comments: true
-categories: leanontree
 contributors: tarun-gidwani
-author: "Tarun Gidwani"
-description: Read about Tarun Gidwani's interview on Lean On Tree here. He is a Traveler, Believer, and works magic on strangers by holding his sign 'You're Perfect' wherever he goes.
-profile-pic: '/img/tarun-gidwani/tarun-gidwani-profile-pic.jpg'
+author: Tarun Gidwani
+description: Read about Tarun Gidwani's interview on Lean On Tree here. He is a Traveler,
+  Believer, and works magic on strangers by holding his sign 'You're Perfect' wherever
+  he goes.
+profile-pic: "/img/tarun-gidwani/tarun-gidwani-profile-pic.jpg"
 ---
+
 <p class="lot-text">Among the vast sea of Facebook posts one day, we chanced upon this amazing human, thanks to the Logical Indian. What followed was the “perfect one-time phenomenon of life” as Tarun himself puts it.A little curiosity and shamelessness on our part, led us to having an amazing conversation with this kind random stranger who likes to carry the “You’re Perfect” signboard on the streets!</p><!--more-->
 <p class="lot-text">Curious, right? Without much ado, let us fill you in with how our (profound and ADORABLE!) conversation transpired!</p>
 <div class="separator" style="clear: both; text-align: center;">
