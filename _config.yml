@@ -31,9 +31,7 @@ excerpt_separator: "<!--more-->"
 exclude:
 - vendor
 plugins:
-- jekyll-watch
 - jekyll-sitemap
-- jekyll-assets
 - jekyll-paginate
 analytics:
   provider: google
