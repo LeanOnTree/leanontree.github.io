@@ -1,18 +1,43 @@
 ---
-title: 'My Cold Cold Beloved (Delhi)'
+title: My Cold Cold Beloved (Delhi)
+date: 2015-12-16 00:00:00 +05:30
+categories:
+- my-december
+tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
 meta-title: 'Delhi Winters: My Cold Cold Beloved | LEANONTREE'
-og-title: 'My Cold Delhi Winter Romance'
+og-title: My Cold Delhi Winter Romance
 layout: post
-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
-meta-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
+meta-tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
 comments: true
-contributors: "my-december-cold-cold-beloved"
-categories: "my-december"
-author: "Varun Dhingra "
-description: "Ever got stuck by a winter romance? Varun paints Delhi Winters in the epitome of a cold lover leaving everyone bereft. More at #MyDecember by #Leanontreeblog."
-og-description: "Delhi Winters, like an unrequited love affair leaves everyone cold and bereft. Indulge in a short poem dedicated to the same. #MyDecember #Leanontreeblog"
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+contributors: my-december-cold-cold-beloved
+author: 'Varun Dhingra '
+description: 'Ever got stuck by a winter romance? Varun paints Delhi Winters in the
+  epitome of a cold lover leaving everyone bereft. More at #MyDecember by #Leanontreeblog.'
+og-description: 'Delhi Winters, like an unrequited love affair leaves everyone cold
+  and bereft. Indulge in a short poem dedicated to the same. #MyDecember #Leanontreeblog'
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p class="lot-text">We are glad to bring you the fourth entry in our My December collection, submitted by a reader. Varun Dhingra paints Delhi Winters in the epitome of a cold lover. If you have indulged in a winter romance, you would discover how easily you can relate to the same.</p><br/>
 
 <div class="separator" style="clear: both; text-align: center;">

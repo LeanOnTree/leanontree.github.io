@@ -1,14 +1,22 @@
 ---
 title: 50 Things Payal Mahajan Love About Herself!
+date: 2015-03-21 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- journey
+- leanontreeblog
+- learning
+- life
+- self-love
 layout: post
-tags: [journey,leanontreeblog,learning,life,self-love]
-categories: self-love
 comments: true
 contributors: payal-mahajan
-author: "Payal Mahajan"
-description: ""
+author: Payal Mahajan
+description: ''
 profile-pic: "/img/payal-mahajan/payal-mahajan-profile-pic.JPG"
 ---
+
 <p style="text-align: justify;">I accepted this challenge thinking it would be fun, and then I just forgot about it.</p>
 <p style="text-align: justify;">But when I saw <a href="/self-love/contest-sahil-verma.html">Sahil's post</a> I realized that I need to do this...if I say I will, then I will. </p>
 <p style="text-align: justify;">So here are the 50 things :)</p>

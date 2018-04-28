@@ -1,13 +1,21 @@
 ---
 title: This is the beginning
+date: 2015-02-22 00:00:00 +05:30
+tags:
+- healing
+- leanontreeblog
+- learning
+- life
+- selflove
+- general
 layout: post
-tags: [healing,leanontreeblog,learning,life,selflove,general]
 comments: true
 contributors: this-is-the-beginning
-author: "LeanOnTree"
-description: ""
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+author: LeanOnTree
+description: ''
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p style="text-align: justify;">
 From where I stand right now, nothing was this way ever before. And nothing will ever be.
 It always feels like this. When asked to describe the present, I am flooded with flashes of past and dreams of future.</p>

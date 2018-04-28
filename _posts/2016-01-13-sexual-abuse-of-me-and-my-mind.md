@@ -1,16 +1,34 @@
 ---
 title: 'Sexual Abuse of Me and my Mind: The Earliest Memory'
-meta-title: 'My mental and physical abuse as a child'
+date: 2016-01-13 00:00:00 +05:30
+categories:
+- CSA
+tags:
+- ChildSexualAbuse
+- SexualAbuse
+- Trauma
+- LifeStories
+- MentalAbuse
+- Survivor
+- CSA
+meta-title: My mental and physical abuse as a child
 layout: post
-tags: [ChildSexualAbuse, SexualAbuse, Trauma, LifeStories, MentalAbuse, Survivor, CSA]
-meta-tags: [ChildSexualAbuse, SexualAbuse, Trauma, LifeStories, MentalAbuse, Survivor]
+meta-tags:
+- ChildSexualAbuse
+- SexualAbuse
+- Trauma
+- LifeStories
+- MentalAbuse
+- Survivor
 comments: true
-contributors: "sexual-abuse-of-me-and-my-mind"
-author: "Annie Singhal"
-categories: "CSA"
-description: "Recounting her first ever incident of sexual abuse as a child, she writes to speak out her story and admit it to the world that this is her story and she still struggles with it today."
-profile-pic: '/img/annie-singhal/annie-singhal-profile-pic.jpg'
+contributors: sexual-abuse-of-me-and-my-mind
+author: Annie Singhal
+description: Recounting her first ever incident of sexual abuse as a child, she writes
+  to speak out her story and admit it to the world that this is her story and she
+  still struggles with it today.
+profile-pic: "/img/annie-singhal/annie-singhal-profile-pic.jpg"
 ---
+
 <p class="post-text-format">My blood boils. You think it will evaporate, leaving me dead and pale after all the irregular menstruation every month, but no. I exist. I still feel the anger in multi folds that I used to. Even after almost a decade now. Wow! About ten years. And it still feels like yesterday.</p>
 <div class="separator" style="clear: both; text-align: center;">
 <img class="img-responsive center-block" alt="CSA" src="/img/sexual-abuse-of-me-and-my-mind/sexual-abuse-of-me-and-my-mind-1.jpg" width=50% heigth=50% /></div></br>

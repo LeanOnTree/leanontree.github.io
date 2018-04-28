@@ -1,12 +1,15 @@
 ---
 title: The Story Hour
-meta-title: Attend Story Hour with LeanOnTree. Come. Stay. Be!
-layout: post
+date: 2016-06-21 00:00:00 +05:30
+categories:
+- TheStoryHour
 tags:
 - Story
 - Storytelling
 - eventsInDelhi
 - theStoryHour
+meta-title: Attend Story Hour with LeanOnTree. Come. Stay. Be!
+layout: post
 meta-tags:
 - Story
 - Storytelling
@@ -14,7 +17,6 @@ meta-tags:
 comments: true
 contributors: the-story-hour
 author: Annie Singhal
-categories: TheStoryHour
 description: LeanOnTree invites you to take an hour off and spend time in the company
   of stories and people who love them! Click for more details!
 profile-pic: "/img/annie-singhal/annie-singhal-profile-pic.jpg"

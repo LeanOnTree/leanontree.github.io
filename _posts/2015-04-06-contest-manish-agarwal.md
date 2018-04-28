@@ -1,14 +1,22 @@
 ---
 title: 50 Things Manish Love About Himself, That Will Make You Go Awwww!!!
+date: 2015-04-06 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- healing
+- journey
+- leanontreeblog
+- learning
+- self-love
 layout: post
-tags: [healing,journey,leanontreeblog,learning,self-love]
 comments: true
-categories: self-love
 contributors: manish-agarwal
-author: "Manish Agarwal"
-description: ""
+author: Manish Agarwal
+description: ''
 profile-pic: "/img/manish-agarwal/manish-agarwal-profile-pic.jpg"
 ---
+
 <p class="lot-text">Awww!!! Honestly speaking, we never had THESE many AWW-moments while proof-reading any other entry in the Self-Love Challenge. And no, we will not divulge any more details. Why don't you read Manish Aggarwal's flamboyant, innocent and very honest declaration of self-love, and figure it out for yourself? Okay fine, we will help you with the inputs, as and where required. Winkss!<!--more--><p/>
 <p class="lot-text">Dear Manish, here's to getting better in time! Sharing your entry, with lots of love and hugs!!!<p/>
 

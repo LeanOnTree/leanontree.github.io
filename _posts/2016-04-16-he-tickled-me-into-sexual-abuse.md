@@ -1,15 +1,23 @@
 ---
-title: 'गुदगुदी'
-meta-title: '[TRIGGER: CSA] He Tickled Me Into Sexual Abuse | LEANONTREE'
+title: गुदगुदी
+date: 2016-04-16 00:00:00 +05:30
+categories:
+- CSA
+tags:
+- ChildSexualAbuse
+- CSA
+meta-title: "[TRIGGER: CSA] He Tickled Me Into Sexual Abuse | LEANONTREE"
 layout: post
-tags: [ChildSexualAbuse, CSA]
-meta-tags: [CSA, Child Sexual Abuse,]
+meta-tags:
+- CSA
+- Child Sexual Abuse
 comments: true
-contributors: "he-tickled-me-into-sexual-abuse"
-author: "अnanत"
-categories: "CSA"
-description: "2 cousins were enjoying a balmy summer afternoon, playing &amp; tickling each other. What happened next left one of them scarred for life. Be careful before reading ahead!"
-profile-pic: '/img/anant/anant-profile-pic.png'
+contributors: he-tickled-me-into-sexual-abuse
+author: अnanत
+description: 2 cousins were enjoying a balmy summer afternoon, playing &amp; tickling
+  each other. What happened next left one of them scarred for life. Be careful before
+  reading ahead!
+profile-pic: "/img/anant/anant-profile-pic.png"
 ---
 
 <p class="post-text-format">" ‘आटे बाटे चने चबा के,कोकलिया के कान कटा के’ , कोमल सी हथेली पुचकारते हुए  'ये बिल्ली का चौका' ,बच्चे का अंगूठा हिलाकर 'ये गैया  का खूँटा' ,  बड़ी से छोटी उंगलिया पकड़ते हुए " ये अम्मा की, ये बाबा की, ये पापा की , ये मम्मी की , ये मेरी ,नोनू की बछिया     खो गई ..खो गई .... खो गई ......, (फिर उंगलिया नाज़ुक सी कलाई से ऊपर धीरे धीरे बगल की तरफ जाती), पा गई... पा गई... पा गई .. और फिर एक बड़ी ही निश्छल ठहाकेदार हँसी  पूरे घर को अपनी मासूमियत से महका देती  है ।  मैं जब भी अपने घर जाता तो  मेरी भतीजी मेरे पास आकर कहती  ' चाचा , आटे बाटे करो ना " और मैं हर बार उसकी इस बचकानी चाहत को पूरा कर देता।<!--more--> गुदगुदाते हुए  उसके चेहरे से आँखे कही गायब सी हो जाती और दांत चेहरे  को सुसज्जित करने लगते है I हँसी होती ही इतनी प्यारी है, शहद सी मीठी  ये हँसी  ज्यादातर लोगो को उनके बचपन की याद दिला  देती है । बचपन में  किसी न किसी तरीके से बड़ो ने हमारे  गुदगुदी की है , चाहे वो रूठे हुए चेहरे पे मुस्कराहट लाने के लिए हो  या सिर्फ बस हमारा खिलखिलाता हुआ वो ललाट  देखने के लिए जो भगवान के समान मनोहित है ।</p>

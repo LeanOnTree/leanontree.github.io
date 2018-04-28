@@ -1,16 +1,28 @@
 ---
-title: 'Christmas; You’re Perfect Signboard &amp; Conversations'
-meta-title: 'You’re Perfect reaches CP on Christmas | LEANONTREE'
+title: Christmas; You’re Perfect Signboard &amp; Conversations
+date: 2015-12-25 00:00:00 +05:30
+categories:
+- leanontree
+tags:
+- Youre-Perfect
+- self-love
+- self-acceptance
+- loving-yourself
+meta-title: You’re Perfect reaches CP on Christmas | LEANONTREE
 layout: post
-tags: [Youre-Perfect,self-love,self-acceptance,loving-yourself]
-meta-tags: [You’re Perfect, Self-love, self-acceptance, loving yourself]
+meta-tags:
+- You’re Perfect
+- Self-love
+- self-acceptance
+- loving yourself
 comments: true
-contributors: "youre-perfect-cp"
-categories: "leanontree"
-author: "Sahil Verma"
-description: "You’re perfect! A ONE TIME LIVING PHENOMENON. Here’s what happened (with pictures) when we at LeanOnTree took to the streets of CP, spreading the same message."
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+contributors: youre-perfect-cp
+author: Sahil Verma
+description: You’re perfect! A ONE TIME LIVING PHENOMENON. Here’s what happened (with
+  pictures) when we at LeanOnTree took to the streets of CP, spreading the same message.
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 ---
+
 <h2 style="text-align:center;"><span class="label label-bleed-grey">Beginning: The Seed is Planted</span></h2></br>
 <div class="separator" style="clear: both; text-align: center;">
 <img class="img-responsive center-block" alt="Your're Perfect" src="/img/youre-perfect-cp/youre-perfect-cp-1.jpg" width=50% heigth=50% /></div></br>

@@ -1,14 +1,23 @@
 ---
-title: Full of Self-Love, Life, and Lemon Zest&#58; 50 Things Kanika Goyal Loves About Herself
+title: Full of Self-Love, Life, and Lemon Zest&#58; 50 Things Kanika Goyal Loves About
+  Herself
+date: 2015-04-09 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- foodie
+- leanontreeblog
+- lessonsoflife
+- self-love
+- selflove
 layout: post
-tags: [foodie,leanontreeblog,lessonsoflife,self-love,selflove]
 comments: true
-categories: self-love
 contributors: kanika-goyal
-author: "Kanika Goyal"
-description: ""
-profile-pic: '/img/kanika-goyal/kanika-goyal-profile-pic.jpg'
+author: Kanika Goyal
+description: ''
+profile-pic: "/img/kanika-goyal/kanika-goyal-profile-pic.jpg"
 ---
+
 <p class="lot-text">
 "It's still rather overwhelming that I could complete this. After the first ten, I did it all in one go. Lots of love."</p>
 <p class="lot-text">

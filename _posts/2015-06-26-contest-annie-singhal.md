@@ -1,14 +1,19 @@
 ---
-title: '&#34;I am a Possibility&#34; Annie Reaffirms Her Self Love!'
+title: "&#34;I am a Possibility&#34; Annie Reaffirms Her Self Love!"
+date: 2015-06-26 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- self-love
+- foodie
 layout: post
-tags: [self-love,foodie]
 comments: true
-categories: "self-love"
 contributors: annie-singhal
-author: "Annie Singhal"
-description: ""
-profile-pic: '/img/annie-singhal/annie-singhal-profile-pic.jpg'
+author: Annie Singhal
+description: ''
+profile-pic: "/img/annie-singhal/annie-singhal-profile-pic.jpg"
 ---
+
 <p class="lot-text">Childish! Foodie! Maternal! Voyeuristic! </p>
 <p class="lot-text">Some of the many parts that Annie finds in her heart to love and accept completely. Completely? Or "it is a process..." as she often quips! Let us welcome this brand new and long awaited addition to our Self Love Challenge! </p>
 <p class="lot-text">Without much ado, here's telling you what all Annie loves about herself.</p>

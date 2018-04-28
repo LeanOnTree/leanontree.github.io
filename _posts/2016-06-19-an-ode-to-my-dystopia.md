@@ -1,14 +1,24 @@
 ---
 title: An Ode to my Dystopia
+date: 2016-06-19 00:00:00 +05:30
+categories:
+- leanontree
+tags:
+- Dystopia
+- Ode
+- exorcism
+- Modern Poetry
+- general
 layout: post
-tags: [Dystopia,Ode,exorcism,Modern Poetry,general]
 comments: true
-categories: leanontree
 contributors: an-ode-to-my-dystopia
-author: "Annie Singhal"
-description: "While the life happens, someone discovers about what's happening to her might not be just her one-off story. It just might be a constant state of hysteria since childhood for the ones born with a vagina."
-profile-pic: '/img/annie-singhal/annie-singhal-profile-pic.jpg'
+author: Annie Singhal
+description: While the life happens, someone discovers about what's happening to her
+  might not be just her one-off story. It just might be a constant state of hysteria
+  since childhood for the ones born with a vagina.
+profile-pic: "/img/annie-singhal/annie-singhal-profile-pic.jpg"
 ---
+
 <p class="post-text-format-for-traditional-poems">
 Stay, because I heard it somewhere,<br/>
 Stay, because it sounded shinier<br/>

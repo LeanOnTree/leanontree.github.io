@@ -1,13 +1,18 @@
 ---
 title: Anjana aka Shruthyy's Smashing Self Love at LeanOnTree
+date: 2015-05-13 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- self-love
+- selflove
+- selfworth
 layout: post
-tags: [self-love,selflove,selfworth]
 comments: true
-categories: self-love
 contributors: anjana-gopinath
-author: "Anjana Gopinath"
-description: ""
-profile-pic: '/img/anjana-gopinath/anjana-gopinath-profile-pic.jpg'
+author: Anjana Gopinath
+description: ''
+profile-pic: "/img/anjana-gopinath/anjana-gopinath-profile-pic.jpg"
 ---
 
 <p class="lot-text">

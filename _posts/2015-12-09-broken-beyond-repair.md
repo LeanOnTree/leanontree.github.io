@@ -1,16 +1,40 @@
 ---
-title: 'Broken Beyond Repair'
-meta-title: 'I Love You But I’m Broken Beyond Repair-LEANONTREE'
+title: Broken Beyond Repair
+date: 2015-12-09 00:00:00 +05:30
+categories:
+- my-december
+tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
+meta-title: I Love You But I’m Broken Beyond Repair-LEANONTREE
 layout: post
-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
-meta-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
+meta-tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
 comments: true
-contributors: "my-december-broken-beyond-repair"
-categories: "my-december"
-author: "Sahil Verma"
-description: "I thought love would put back the broken pieces of my broken battered heart. But reality had a different story to tell. #MyDecember #Leanontreeblog"
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+contributors: my-december-broken-beyond-repair
+author: Sahil Verma
+description: 'I thought love would put back the broken pieces of my broken battered
+  heart. But reality had a different story to tell. #MyDecember #Leanontreeblog'
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 ---
+
 <p class="lot-text">Note: This is the second blog in the My December series by Sahil. The post has been inspired by something Berlin Artparasites once shared on its Facebook page. Here’s an ode to the moment when you want to love someone, and it’s not that you don’t love them but…</p>
 <p class="post-text-format">It’s not that I don’t love you, it’s just that this one time, I was in school, and my class teacher punished me for something I did not do. And she made everyone in the class come and shame-slap me.<!--more--> And I looked at my then best friends and she whispered sorry but she did slap me. And I came back home, in a state of crying mess, and my brothers saw and laughed. They asked me to be stop being a sissy and my mother didn’t say anything at all.</p>
 <p class="post-text-format">It’s not that I don’t love you, but when I was 16, I was so alone that I lied to everyone, even to myself, about having a girlfriend. When the lies got too bad, and everyone wanted to meet her, I freaked out so bad, I faked killed her. Even now I get guilt pangs because each of those friends cried the whole night they got to know that my girlfriend committed suicide.</p>

@@ -1,14 +1,23 @@
 ---
 title: Depressed, Yet Loving Self! A Soulful Entry by Saksham!
+date: 2015-04-07 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- exorcism
+- leanontreeblog
+- lessonsoflife
+- life
+- self-love
+- selflove
 layout: post
-tags: [exorcism,leanontreeblog,lessonsoflife,life,self-love,selflove]
 comments: true
-categories: self-love
 contributors: saksham
-author: "Saksham"
-description: ""
-profile-pic: '/img/saksham/saksham-profile-pic.jpg'
+author: Saksham
+description: ''
+profile-pic: "/img/saksham/saksham-profile-pic.jpg"
 ---
+
 <p style="text-align: justify;">
 &#34;My life has had so many influences, and all
 of them have worked together to make me who I am right now. Being from an upper

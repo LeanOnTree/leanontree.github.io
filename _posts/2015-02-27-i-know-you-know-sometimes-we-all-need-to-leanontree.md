@@ -1,14 +1,22 @@
 ---
 title: I know You Know Sometimes We All Need To LeanOnTree
+date: 2015-02-27 00:00:00 +05:30
+categories:
+- leanontree
+tags:
+- exorcism
+- journey
+- leanontreeblog
+- selflove
+- general
 layout: post
-tags: [exorcism,journey,leanontreeblog,selflove,general]
 comments: true
-categories: leanontree
 contributors: sometimes-we-all-need-to-leanontree
-author: "LeaonOnTree"
-description: ""
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+author: LeaonOnTree
+description: ''
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <p style="text-align: justify;">
 He was a boy. He was scared of Gurgaon; the wide roads and the by-lanes – cemeteries carrying the clingy colossal of countless dreams caught and abandoned.</p>
 <p style="text-align: justify;">

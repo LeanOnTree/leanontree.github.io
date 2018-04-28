@@ -1,4 +1,20 @@
 ---
+title: Leanontree
+timezone: Asia/Kolkata
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+    author: Punyasloka Parida
+    title: Lean On Tree
 source: "."
 destination: "./_site"
 name: Lean On Tree
@@ -14,20 +30,11 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 excerpt_separator: "<!--more-->"
 exclude:
 - vendor
-timezone: Asia/Kolkata
-defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-    author: Punyasloka Parida
-    title: Lean On Tree
 plugins:
 - jekyll-watch
 - jekyll-sitemap
 - jekyll-assets
 - jekyll-paginate
-
 analytics:
   provider: google
   google:

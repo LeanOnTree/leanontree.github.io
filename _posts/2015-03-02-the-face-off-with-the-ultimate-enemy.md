@@ -1,13 +1,20 @@
 ---
 title: The Face-Off With The Ultimate Enemy
+date: 2015-03-02 00:00:00 +05:30
+tags:
+- exorcism
+- leanontreeblog
+- selflove
+- weathercheck
+- general
 layout: post
-tags: [exorcism,leanontreeblog,selflove,weathercheck,general]
 comments: true
 contributors: the-face-off
-author: "Palavi Gupta"
-description: ""
+author: Palavi Gupta
+description: ''
 profile-pic: "/img/pallavi-gupta/pallavi-gupta-profile-pic.jpg"
 ---
+
 <p style="text-align: justify;">
 Fear takes hold of me as I feel her standing behind me and slowly stepping towards me as a tactful predator. A chill runs through my spine, making me shiver, and I don't have the courage to turn around and see her. The weather seems to be resonating with my thoughts; dark clouds filling every inch of the infinite sky. I know this time she's not alone. She is here with a plan to end my story there and then with a weapon; a knife. Would she just stab me in the back without even confronting me? Or this time, we will get to discuss our fears.<!--more--></p>
 <p style="text-align: justify;">

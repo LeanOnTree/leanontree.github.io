@@ -1,17 +1,26 @@
 ---
-title: '[Adult] I want to write a story. Of lust. Of you and me'
-meta-title: 'A Story. Of Lust. Of You and I – LEANONTREE'
+title: "[Adult] I want to write a story. Of lust. Of you and me"
+date: 2016-02-12 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- Journey
+- self-love
+- selflove
+meta-title: A Story. Of Lust. Of You and I – LEANONTREE
 layout: post
-tags: [Journey,self-love,selflove]
-meta-tags: [self love,selflove]
+meta-tags:
+- self love
+- selflove
 comments: true
-contributors: "a-story-of-lust-of-you-and-i"
-author: "Sahil Verma"
-categories: "self-love"
-description: "As I let go of the thoughts of love, the pursuit of love, the very idea of love, I enjoy something I haven’t enjoyed in a long while. I enjoy a human body."
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+contributors: a-story-of-lust-of-you-and-i
+author: Sahil Verma
+description: As I let go of the thoughts of love, the pursuit of love, the very idea
+  of love, I enjoy something I haven’t enjoyed in a long while. I enjoy a human body.
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 youtubeId: DKL4X0PZz7M
 ---
+
 <h3  style="text-align:center;"> Song in Loop: My Silver Lining – First Aid Kit </h3></br>
 <div style="text-align:center;">{% include youTubePlayer.html id=page.youtubeId %}<div></br>
 

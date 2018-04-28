@@ -1,14 +1,19 @@
 ---
 title: 50 things "I" love about Tanya Kharbanda
+date: 2015-03-23 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- leanontreeblog
+- self-love
 layout: post
-tags: [leanontreeblog,self-love]
 comments: true
-categories: self-love
 contributors: tanya-kharbanda
-author: "Tanya Kharbanda"
-description: ""
+author: Tanya Kharbanda
+description: ''
 profile-pic: "/img/tanya-kharbanda/tanya-kharbanda-profile-pic.jpg"
 ---
+
 <p style="text-align: justify;">
 I have written about myself from a third person’s point of view , doing so has helped me see a lot of things which I would not be able to see if I wrote it by embodying my own-self.</p>
 <p style="text-align: justify;">

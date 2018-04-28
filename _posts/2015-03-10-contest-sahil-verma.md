@@ -1,14 +1,20 @@
 ---
 title: The 50 Things I Love About Myself, By Sahil Verma
+date: 2015-03-10 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- exorcism
+- journey
+- self-love
 layout: post
-tags: [exorcism,journey,self-love]
 comments: true
-categories: self-love
 contributors: sahil-verma
-author: "Sahil Verma"
-description: ""
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+author: Sahil Verma
+description: ''
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 ---
+
 <p class="lot-text">This is the first post of the <a href="/self-love/contest-intro.html">#SelfLoveChallenge</a>. Please check the event details and send us your entries declaring your love for self. Now, over to Sahil. </p>
 
 <p style="text-align: justify;">So, I had to take the challenge, like obviously! More than wanting to set up an example and help other self-lovers come up with their posts, I really wanted this experience.</p>

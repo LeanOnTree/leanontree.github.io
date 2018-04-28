@@ -1,14 +1,21 @@
 ---
-title: '2 Cafe Chronicles and the TwistedPOVs'
+title: 2 Cafe Chronicles and the TwistedPOVs
+date: 2015-07-21 00:00:00 +05:30
+categories:
+- twisted-pov
+tags:
+- journey
+- lessonsoflife
+- POV
+- twisted-pov
 layout: post
-tags: [journey,lessonsoflife,POV,twisted-pov]
 comments: true
 contributors: 2-cafe-chronicles
-categories: twisted-pov
-author: "LeanOnTree"
-description: ""
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+author: LeanOnTree
+description: ''
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 {% if page.title == "LeanOnTree - Home" %}
 <p class ="post-text-format">
 {% else %}

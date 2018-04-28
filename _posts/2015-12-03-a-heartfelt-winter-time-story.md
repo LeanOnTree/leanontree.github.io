@@ -1,18 +1,40 @@
 ---
-title: 'What Is Winter, If Not The Way My Heart Aches For Your Touch?'
-meta-title: 'A Heartfelt Winter Time Story by LEANONTREE'
+title: What Is Winter, If Not The Way My Heart Aches For Your Touch?
+date: 2015-12-03 00:00:00 +05:30
+categories:
+- my-december
+tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
+meta-title: A Heartfelt Winter Time Story by LEANONTREE
 layout: post
-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
-meta-tags: [soul,Euphoria,Christmas,Gratitude,Gloom,Nostalgia,Joy,Melancholy,Indifference,myDecember]
+meta-tags:
+- soul
+- Euphoria
+- Christmas
+- Gratitude
+- Gloom
+- Nostalgia
+- Joy
+- Melancholy
+- Indifference
+- myDecember
 comments: true
-contributors: "my-december"
-author: "Sahil Verma"
-categories: "my-december"
-
-author: "Sahil Verma"
-description: What does winter mean to you? Do you dread the numbing stillness? Does your heart aches for someone to keep you company? Or is it the season of bloom?
-profile-pic: '/img/sahil-verma/sahil-verma-profile-pic.jpg'
+contributors: my-december
+author: Sahil Verma
+description: What does winter mean to you? Do you dread the numbing stillness? Does
+  your heart aches for someone to keep you company? Or is it the season of bloom?
+profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 ---
+
 <p class="lot-text">Note: This is first in series of the myDecember Posts by LeanOnTree. Please do #ShowYourLove by sharing your selective entries with us at <span class="label label-primary">leanontreeblog@gmail.com.</span> We’ll post the same on our blog. Remember, it’s a story. It’s life. Yours and Mine.</p><br/>
 <p class="post-text-format">Inspiration: #WeatherCheck #Berlin-ArtParasites</p>
 <p class="post-text-format">Anyone who has lived in Delhi knows the extreme notes our weather may touch.<!--more-->  Where summers are particularly dry and hot, winters can be categorically chilly. Although it’s December, and comparatively last December was warmer, I have already gotten the winter cold.</p>

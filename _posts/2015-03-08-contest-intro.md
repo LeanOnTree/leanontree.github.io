@@ -1,13 +1,18 @@
 ---
-title: "Fifty Things I Love About Myself"
+title: Fifty Things I Love About Myself
+date: 2015-03-08 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- introduction
+- self-love
 layout: post
-tags: [introduction,self-love]
 contributors: contest
-categories: self-love
-author: "LeanOnTree"
-description: ""
-profile-pic: '/img/lot-icons/lot-default-profile-pic.png'
+author: LeanOnTree
+description: ''
+profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
+
 <i><p style="text-align: center; font-size: 20px">
 Do you love yourself? Do you want to love yourself but don't know how? Do you want to take on this journey of loving self with all of us? Then this challenge is exclusively for you.</p></i>
 <i><p style="text-align: center;font-size: 20px">

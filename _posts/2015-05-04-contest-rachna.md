@@ -1,14 +1,22 @@
 ---
 title: Not Perfect But Improving! Rachna’s Declaration of Self-Love!
+date: 2015-05-04 00:00:00 +05:30
+categories:
+- self-love
+tags:
+- journey
+- leanontreeblog
+- self-love
+- selflove
+- selfworth
 layout: post
-tags: [journey,leanontreeblog,self-love,selflove,selfworth]
 comments: true
-categories: self-love
 contributors: rachna
-author: "Rachna"
-description: ""
+author: Rachna
+description: ''
 profile-pic: "/img/rachna/rachna-profile-pic.jpg"
 ---
+
 <p class="lot-text">
 Rachna…A Hindi word that fundamentally means &#34;Creation!&#34; </p>
 <p class="lot-text">Let us figure out below, what all the Creation aka Rachna loves about herself.</p>
