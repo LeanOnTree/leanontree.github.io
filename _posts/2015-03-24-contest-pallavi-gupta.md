@@ -60,7 +60,7 @@ I am ready to give myself experiences to grow and learn and be a better and more
 I am a closed person. Yet I can talk at length and have good conversations even with acquaintances.</li><br/>
 <div class="separator" style="clear: both; text-align: center;">
 <img class="img-responsive center-block"  src="/img/pallavi-gupta/pallavi-gupta-2.jpg" alt="Pallavi Gupta"/></div>
-</br>
+<br/>
 <li>
 I always am ready to help others and assist them in their growth/ healing processes.</li><br/>
 <li>
@@ -74,7 +74,7 @@ I totally love my habit of organizing. Rather I am obsessed with it. Clearing al
 <li>
 I love this scar mark on my nose and this one near my left eye. I think this is cute. :*</li><br/>
 
-<i>"I am doing well till now. 24 and still I am writing without pause." Ahaha!</i></br>
+<i>"I am doing well till now. 24 and still I am writing without pause." Ahaha!</i><br/>
 
 <li>
 I accept people the way they are without being judgmental. It wasn't easy but now I have learnt that they all are cool the way they are.</li><br/>

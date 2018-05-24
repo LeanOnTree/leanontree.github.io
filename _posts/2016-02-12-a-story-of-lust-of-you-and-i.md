@@ -21,8 +21,8 @@ profile-pic: "/img/sahil-verma/sahil-verma-profile-pic.jpg"
 youtubeId: DKL4X0PZz7M
 ---
 
-<h3  style="text-align:center;"> Song in Loop: My Silver Lining – First Aid Kit </h3></br>
-<div style="text-align:center;">{% include youTubePlayer.html id=page.youtubeId %}<div></br>
+<h3  style="text-align:center;"> Song in Loop: My Silver Lining – First Aid Kit </h3><br/>
+<div style="text-align:center;">{% include youTubePlayer.html id=page.youtubeId %}<div><br/>
 
 <p class="post-text-format">I want to write a story. About lust. I know you don’t belong to me. I know you know where your home is and it is not in me. I, I am the temporary refuge. And as you finally drop your filters, perhaps with whiskey kicking in and rest your head nonchalantly on my chest, telling me more about your depression, I know I am just a refuge for you.</p><!--more-->
 

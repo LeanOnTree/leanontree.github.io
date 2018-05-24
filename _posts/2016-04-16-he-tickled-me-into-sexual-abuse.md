@@ -23,7 +23,7 @@ profile-pic: "/img/anant/anant-profile-pic.png"
 <p class="post-text-format">" ‘आटे बाटे चने चबा के,कोकलिया के कान कटा के’ , कोमल सी हथेली पुचकारते हुए  'ये बिल्ली का चौका' ,बच्चे का अंगूठा हिलाकर 'ये गैया  का खूँटा' ,  बड़ी से छोटी उंगलिया पकड़ते हुए " ये अम्मा की, ये बाबा की, ये पापा की , ये मम्मी की , ये मेरी ,नोनू की बछिया     खो गई ..खो गई .... खो गई ......, (फिर उंगलिया नाज़ुक सी कलाई से ऊपर धीरे धीरे बगल की तरफ जाती), पा गई... पा गई... पा गई .. और फिर एक बड़ी ही निश्छल ठहाकेदार हँसी  पूरे घर को अपनी मासूमियत से महका देती  है ।  मैं जब भी अपने घर जाता तो  मेरी भतीजी मेरे पास आकर कहती  ' चाचा , आटे बाटे करो ना " और मैं हर बार उसकी इस बचकानी चाहत को पूरा कर देता।<!--more--> गुदगुदाते हुए  उसके चेहरे से आँखे कही गायब सी हो जाती और दांत चेहरे  को सुसज्जित करने लगते है I हँसी होती ही इतनी प्यारी है, शहद सी मीठी  ये हँसी  ज्यादातर लोगो को उनके बचपन की याद दिला  देती है । बचपन में  किसी न किसी तरीके से बड़ो ने हमारे  गुदगुदी की है , चाहे वो रूठे हुए चेहरे पे मुस्कराहट लाने के लिए हो  या सिर्फ बस हमारा खिलखिलाता हुआ वो ललाट  देखने के लिए जो भगवान के समान मनोहित है ।</p>
 
 <div class="separator" style="clear: both; text-align: center;">
-<img class="img-responsive center-block" alt="CSA" src="/img/he-tickled-me-into-sexual-abuse/he-tickled-me-into-sexual-abuse-1.jpg" height="50%" width="50%"/></div></br>
+<img class="img-responsive center-block" alt="CSA" src="/img/he-tickled-me-into-sexual-abuse/he-tickled-me-into-sexual-abuse-1.jpg" height="50%" width="50%"/></div><br/>
 
 <p class="post-text-format">मेरी गुदगुदी  की यादें कुछ अलग है । बचपन में गर्मिओ की छुटियाँ मैं  ज्यादातार माँ के साथ  शहर से दूर  ग्रामीण परिवेश में मनाया करता था हम सब बच्चे खेतों में घूमते , गन्ने छील के खाते, गाय का ताज़ा-ताज़ा दूध  पीते और रात को  तारों की चादर के नीचे सो जाते । एक बच्चे के लिए शायद ही ये किसी स्वर्ग से कम हो,आपको हर उस चीज़  का अनुभव मिलता है जो या तो आपने किताबो में देखी हो या  अपने परिवार के सदस्यों से सुनी हो । मेरे लिए भी कुछ ऐसा ही था ये अनुभव,एक दम अदभुत।</p>
 
@@ -38,7 +38,7 @@ profile-pic: "/img/anant/anant-profile-pic.png"
 आज भी वो छिपकली मेरे मन में कही रेंगती है , और मुझे याद दिलाती है हर एक वो चीज़ जो मेरे साथ उन छुटियों  में हुई थी ।</p>
 
 <div class="separator" style="clear: both; text-align: center;">
-<img class="img-responsive center-block" alt="CSA" src="/img/he-tickled-me-into-sexual-abuse/he-tickled-me-into-sexual-abuse-2.JPG" /></div></br>
+<img class="img-responsive center-block" alt="CSA" src="/img/he-tickled-me-into-sexual-abuse/he-tickled-me-into-sexual-abuse-2.JPG" /></div><br/>
 
 <p class="post-text-format">मेरे  जीवन में गुदगुदी की परिभाषा ही बदल गई है -</p>
 <p class="post-text-format">जिस्म को सिकोड़ती हुई,</p>

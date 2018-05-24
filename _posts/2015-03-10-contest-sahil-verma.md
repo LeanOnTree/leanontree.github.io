@@ -82,12 +82,12 @@ Here goes the list:
 <br/>
 <li> I type fast. Rather quickly! Sometimes it’s funny how fast I can type.LOL!</li><br/>
 <li>  I am competitive. But I always strive to keep the competition healthy. I want to grow, and learn, and win the race. Yet, I do not want to dim someone else’s light so that I could shine brighter.</li><br/>
-<li>  There is a part of me that wants to reach out to people. I take up community projects for that. I am a part of the LGBTQ support group, Harmless Hugs and also volunteering with HeadStart: Startup Saturday ; (as of Feb, 2016.)  I readily grab volunteer opportunities. I love it that I have a natural desire to make it a better world, not just for myself, but for others as well.</li></br></br>
+<li>  There is a part of me that wants to reach out to people. I take up community projects for that. I am a part of the LGBTQ support group, Harmless Hugs and also volunteering with HeadStart: Startup Saturday ; (as of Feb, 2016.)  I readily grab volunteer opportunities. I love it that I have a natural desire to make it a better world, not just for myself, but for others as well.</li><br/><br/>
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/-uWWD1Bmuu/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Sahil (@leanonsahil)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-30T21:33:46+00:00">Nov 30, 2015 at 1:33pm PST</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
-</br>
+<br/>
 
 <li>  Having said that, I also love the fact that I am getting around being detached while caring about someone. People take their own time to learn. Just because I was quick about it, doesn’t mean others would be too. And if they do not want to learn (at least as of now,) I let that be too. I can respect the choices someone is making for themselves, without needing to approve or disapprove. More than detachment, we can call it co-existence perhaps.</li><br/>
 <li>  And yes, that reminds me, I also love that I try to look for the perfect words. I have always been fascinated by words. I value the hidden powers the right words possess. And the easiest way for me to have a good day is by reading dictionary!</li><br/>
@@ -101,7 +101,7 @@ After I guess, what seemed like an hour…</span>
 <li> I don’t discriminate. I am not an ageist. I am not going to respect someone just because they are old. I am not going to love someone just because they look gorgeous. If I feel for you, I feel for you, if I don’t, I don’t. Nothing else matters.</li><br/>
 
 <div class="separator" style="clear: both; text-align: center;">
-<img class="img-responsive center-block"  src="/img/sahil-verma/sahil-verma-2.jpg" alt="Sahil Verma"/></div></br></br>
+<img class="img-responsive center-block"  src="/img/sahil-verma/sahil-verma-2.jpg" alt="Sahil Verma"/></div><br/><br/>
 
 <li> I love how I take care of my books. Even if I have to get drenched, I’d still keep my books safe.</li><br/>
 <li>  Books remind me, I am a good friend! I am the friend who would travel at 12 midnight just to give you Eat Pray Love, because the conversation that we were having, you opening up after your break-up, makes it perfect sense for me to make you read the novel. And yea, that’s just an example.</li><br/>
@@ -112,9 +112,9 @@ After I guess, what seemed like an hour…</span>
 <li>  I drive safe! I take responsibility of the idiots behind the wheels on the road. I’d never get behind wheels if I were tipsy.</li>
 <br/><br/>
 <span style="font-style:italic;">C’mon self-love! No time for languishing now! Just 8 more left!</span>
-</br></br>
+<br/><br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img class="img-responsive center-block"  src="/img/sahil-verma/sahil-verma-3.jpg" alt="Sahil Verma"/></div></br></br>
+<img class="img-responsive center-block"  src="/img/sahil-verma/sahil-verma-3.jpg" alt="Sahil Verma"/></div><br/><br/>
 <li>  Sometimes I pamper myself! I buy expensive Body Shop products; I indulge in delicious and rich chocolate sundaes; sometimes I just call a cab because I deserve the comforts that I can now afford. I love that about me. Especially when I come from an upbringing that sternly discourages such behavior. To an extent of condemning it as well. You see, we were all taught to think about others. Gladly, I grew up to be different. I am just as important as anyone else. [And if you are going to refer Point 22 to me, I suggest you first re-read Point 13].</li><br/>
 <li>  I love how I have unlearned a great deal of stuff, in order to become what I am right now. I have unlearned the way I used to think, because it was serving me no good. I wasn’t this cool since always. It happened gradually, over time. And at times, in order to learn something, I had to unlearn something that I was already carrying in my system. I could do it. I could let go the familiar territory of what I have known to be true, and embark upon the pursuit of what is actually true! And I love that about me. I think that was brave, heroic in fact.</li><br/>
 <li>  My collar bones. The neck area is sort of my strength when it comes to playing the game of seduction.</li><br/>
@@ -126,5 +126,5 @@ After I guess, what seemed like an hour…</span>
 <li>  I can sincerely let go, and hold on. And somehow, I love that I am intuitive enough to know when to let go and when to hold on.</li><br/>
 <li>  I accept the brutal reality of life – that we all have been rapists and rape victims. That we are all just victims of victims. That my pain and your pain are incomparable. Pain is absolute. And somehow, we are all connected in the pain that we feel. I don’t belittle my pain if I come across an HIV+ or a widow. Similarly, when someone shares their pain with me, I don’t go on at lengths describing how my pain is so much more exquisite, more severe. And the fact that it happens naturally now – that I am able to stay focused in the given context, is what I really love about myself.</li><br/>
 <li> The very fact of writing the 53rd. I have always been the one to give more…more than what I receive often. And I love that. The fact that I can make good with receiving less, and yet finding it in my heart to give out more. Moreover, I put forth the same luxury to myself as well. So, when a part of me is criticizing me, judging me, I am compassionate. When another part of my soul is battered and bereft, I yield out warmth, love and compassion. I learned the skill to give out more than I receive, and now I am able to direct that to self as well. And that’s freaking awesome, isn’t it? </li><br/>
-</ol></div></br>
+</ol></div><br/>
 <span class="lot-text"><b>We thank Sahil for completing his list. Do send us your entries as well.</b></span>

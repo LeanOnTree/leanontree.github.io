@@ -33,7 +33,7 @@ profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 <p class="post-text-format">I don't exactly remember what happened next; all I remember is that he pushed three fingers inside me and I screamed in pain. I was what people call, a Virgin back then. All I could feel was darkness and pain. All I could hear was me saying 'NO'. He did not listen. Then, he pushed his manhood inside me. I already felt dead by then. In a few minutes, he had found his orgasm. And somehow, he made me ejaculate.</p>
 
 <div class="separator" style="clear: both; text-align: center;">
-<img class="img-responsive center-block" alt="CSA" src="/img/story-of-male-rape/story-of-male-rape-1.jpg" /></div></br>
+<img class="img-responsive center-block" alt="CSA" src="/img/story-of-male-rape/story-of-male-rape-1.jpg" /></div><br/>
 
 
 <p class="post-text-format">It wasn’t the usual orgasm. It was painful. My abdomen hurt. Everything hurt. He then shoved me towards the bathroom. I found water and splashed in on my face. I had come to my senses. When you have an orgasm, you usually come back to your senses. Or so happened with me at least. All I could see was blood dripping down my legs and staining the white tiles of the bathroom. I came out of the bathroom limping and saw him. He was trying to call Rahul. Probably to fabricate the entire episode.</p>

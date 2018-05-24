@@ -33,16 +33,16 @@ profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 Speak Up About CSA is another segment introduced by LeanOnTree. We know it is a difficult subject and has a potential of causing an emotional riot within the reader. Please do not read this entry, if you can get emotionally vulnerable, overwhelmed or unsettled. Even if you choose to read this, please take good care of yourself. Have comfort food, be around with people who care about you,<!--more--> or pamper yourself in one way or the other.</p>
 
 
-<p class="lot-text">We intend to create a community for the Adult Survivors of CSA. As of now, we are based out of Delhi. If ever you feel like talking to us, you can approach us through Facebook or email us at <span class="label label-primary">leanontreeblog@gmail.com.</span> Yes, you can also meet us. We do not come with answers, we come with experiences. We can share experiences with each other, and hope in honest sharing and bonding, we’ll find our answers. If you are ready, let us join Palak as she recounts her CSA &amp; Incest.</p></br></br>
+<p class="lot-text">We intend to create a community for the Adult Survivors of CSA. As of now, we are based out of Delhi. If ever you feel like talking to us, you can approach us through Facebook or email us at <span class="label label-primary">leanontreeblog@gmail.com.</span> Yes, you can also meet us. We do not come with answers, we come with experiences. We can share experiences with each other, and hope in honest sharing and bonding, we’ll find our answers. If you are ready, let us join Palak as she recounts her CSA &amp; Incest.</p><br/><br/>
 
 <h1 class="lot-text"><span class="label label-success">PROLOGUE</span></h1>
 <p class="lot-text">
-On meeting her for the first time, Palak seemed like a witty, bold, and opinionated person. And she still is. But what we didn't know is that there is more to her. Isn't that the case always with the people we perceive or judge to be a certain someone on the surface? With this first guest entry on CSA, Palak speaks out about her abuse as a child. She takes the first step to deal with the aftermath, silence, and residue of one of the darkest memory of her life.</p></br></br>
+On meeting her for the first time, Palak seemed like a witty, bold, and opinionated person. And she still is. But what we didn't know is that there is more to her. Isn't that the case always with the people we perceive or judge to be a certain someone on the surface? With this first guest entry on CSA, Palak speaks out about her abuse as a child. She takes the first step to deal with the aftermath, silence, and residue of one of the darkest memory of her life.</p><br/><br/>
 
-<h1 class="inpost-title" style="text-align:center;">Palak Speaks Up About CSA</h1></br>
+<h1 class="inpost-title" style="text-align:center;">Palak Speaks Up About CSA</h1><br/>
 
 <div class="separator" style="clear: both; text-align: center;">
-<img class="img-responsive center-block" alt="CSA" src="/img/palak-speaks-about-csa/palak-speaks-about-csa-1.jpg" /></div></br>
+<img class="img-responsive center-block" alt="CSA" src="/img/palak-speaks-about-csa/palak-speaks-about-csa-1.jpg" /></div><br/>
 
 <p class="post-text-format">This is the first time I am writing about my sexual abuse on a digital platform. Not that I thought I will ever write down a mail to someone telling them about my trauma and plight. However, there comes a saturation point wherein you try to settle down and suppress the issue inside you, considering it to be the worst nightmare.</p>
 
@@ -78,7 +78,7 @@ On meeting her for the first time, Palak seemed like a witty, bold, and opiniona
 <p class="post-text-format">Slowly and steadily we stopped visiting my Nani's place and eventually deserted our family ties for reasons more than just my experiences.</p>
 
 <div class="separator" style="clear: both; text-align: center;">
-<img class="img-responsive center-block" alt="CSA" src="/img/palak-speaks-about-csa/palak-speaks-about-csa-2.jpg" /></div></br>
+<img class="img-responsive center-block" alt="CSA" src="/img/palak-speaks-about-csa/palak-speaks-about-csa-2.jpg" /></div><br/>
 
 <p class="post-text-format">The rape was over! The abuse was over! Those people were gone. And the bitterness and shame was gone too. But the only thing left were scars and bruises of compelling, hatred to disowning my own body, and also to start touching my private parts. I wanted to feel them and assume how it would feel like if I ever got touched again by any cousin of mine (for that matter.)</p>
 

@@ -7,7 +7,7 @@ background-position: 0% 30%;
 background-image: url(/img/lot/lotblogheader.jpg);
 background-size: cover;
 background-repeat:no-repeat;
-#background-color: #FFD700;
+/* background-color: #FFD700; */
 color: white;
 overflow: hidden;
 }
@@ -327,9 +327,9 @@ margin: 0;
 display: -ms-flexbox;
 display: -webkit-flex;
 display: flex;
-#border-style: dashed;
-#border-width: 1px;
-#border-color: #000000;
+/*border-style: dashed;
+border-width: 1px;
+border-color: #000000; */
 padding-top: 15px;
 }
 @media (min-width: 992px) {
@@ -918,7 +918,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 font-weight: 400;
 font-size: 15pt;
 float: left;
-#margin-right: 70px;
+/* margin-right: 70px; */
 }
 a.social-media-decoration:link
 {
