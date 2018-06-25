@@ -13,14 +13,16 @@ description: ''
 profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
 
-<i><p style="text-align: center; font-size: 20px">
-Do you love yourself? Do you want to love yourself but don't know how? Do you want to take on this journey of loving self with all of us? Then this challenge is exclusively for you.</p></i>
-<i><p style="text-align: center;font-size: 20px">
-Tell us 50 Things You Love About Yourself!</p></i><i>
+<p style="text-align: center; font-size: 20px"><i>
+Do you love yourself? Do you want to love yourself but don't know how? Do you want to take on this journey of loving self with all of us? Then this challenge is exclusively for you.</i></p>
+<p style="text-align: center;font-size: 20px"><i>
+Tell us 50 Things You Love About Yourself!</i></p>
+
 <p style="text-align: center;font-size: 20px">
-Yes. You love about yourself. Yes. 50.</p>
+<i>Yes. You love about yourself. Yes. 50.</i></p>
 <p style="text-align: center;font-size: 20px">
-It's difficult right? We know! That's why it's a challenge!</p></i>
+<i>It's difficult right? We know! That's why it's a challenge!</i></p>
+
 <div  class="separator" style="clear: both; text-align: center;">
 <img class="img-responsive center-block" src="/img/contest/contest-1.jpg" alt="Self-Love Contest Poster"/></div>
 <br/>

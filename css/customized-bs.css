@@ -25,6 +25,11 @@ background-repeat:no-repeat;
 color: white;
 overflow: hidden;
 }
+.jumbotron-custom-asha {
+
+background-image: url(/img/header/asha.png) !important;
+color: #D65454 !important;
+}
 .jumbotron-custom h1,
 .jumbotron-custom .h1 {
   color: inherit;
@@ -232,6 +237,11 @@ text-align: right;
 opacity: 0.5;
 background-color: #000000;
 padding: 5em;
+}
+.jumbotron-blog-tag-custom-asha
+{
+opacity: 1 !important;
+background-color: transparent !important;
 }
 .jumbotron-blog-tag-custom span
 {

@@ -103,7 +103,7 @@
         </div>
 		<div class="collapse navbar-collapse" id="navbarCollapse" >
         <ul class="nav navbar-nav navbar-list">
-        <li><a class="hometab" href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>&nbsp;Home</a></li>
+        <!--li><a class="hometab" href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>&nbsp;Home</a></li-->
         <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-heart" aria-hidden="true"></span>&nbsp;Self Love <span class="caret"></span> </a>
     <ul class="dropdown-menu dropdown-menu-items" >
 	{% for post in site.posts %}
@@ -179,6 +179,22 @@
 	{% endfor %}
     <li><a href="/entries/thestoryhour/">Posts</a></li>
   </ul>
+</li>
+
+<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">
+  <span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span>&nbsp;&nbsp;ASHA
+  <span class="caret"></span>
+</a>
+  <ul class="dropdown-menu dropdown-menu-items" >
+{% for post in site.posts %}
+{% if post.title == "ASHA" %}
+  <li>
+<a href="{{ post.url }}">Introduction</a>
+</li>
+{% endif %}
+{% endfor %}
+  <li><a href="/entries/ASHA/">Posts</a></li>
+</ul>
 </li>
         </ul>
     </div>
