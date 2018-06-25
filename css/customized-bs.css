@@ -1249,3 +1249,47 @@ padding-top: 5px;
         }
 }
 /*--TimeLineCSS--*/
+
+/* Free glyphs */
+.custom-glyph-free-png
+{
+
+
+
+}
+.glyph-flower{
+  background:url(/img/glyph/glyphicons-311-flower.png) no-repeat top left;
+  height: 25px;
+width: 19px;
+display: inline-block;
+}
+.glyph-lamp{
+  background:url(/img/glyph/glyphicons-543-lamp.png) no-repeat top left;
+  height: 25px;
+  width: 19px;
+  display: inline-block;
+}
+.glyph-eye-close{
+  background:url(/img/glyph/glyphicons-53-eye-close.png) no-repeat top left;
+  height: 24px;
+width: 31px;
+display: inline-block;
+}
+.glyph-bed{
+  background:url(/img/glyph/glyphicons-474-bed.png) no-repeat top left;
+  width: 24px;
+  height: 21px;
+  display: inline-block;
+}
+.glyph-random{
+  background:url(/img/glyph/glyphicons-84-random.png) no-repeat top left;
+  width: 28px;
+  height: 20px;
+  display: inline-block;
+}
+.glyph-heart{
+  background:url(/img/glyph/glyphicons-13-heart.png) no-repeat top left;
+  display: inline-block;
+  width: 24px;
+  height: 22px;
+}
