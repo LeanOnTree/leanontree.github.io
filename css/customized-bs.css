@@ -469,8 +469,8 @@ padding-top: 1vh;
 padding-bottom: 1vh;
 }
 .contributor_picture{
-  width: 90px;
-	height: 90px;
+  width: 60px;
+	height: 60px;
   border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
@@ -1185,4 +1185,5 @@ text-align: center;
 }
 .table-custom > tbody > tr > td > .center-button-wrapper {
 text-align: center;
+font-size: 2.5vmin;
 }
