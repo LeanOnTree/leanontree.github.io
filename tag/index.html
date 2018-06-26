@@ -11,17 +11,19 @@ layout: default
    {% capture tagName %}{{ postWithSpecificTag.categories }}{% endcapture %}
   {% case tagName %}
   {% when 'self-love' %}
-  <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>&nbsp;&nbsp;
+  <span class="glyphicon glyph-heart" aria-hidden="true"></span>&nbsp;&nbsp;
   {% when 'twisted-pov' %}
-  <span class="glyphicon glyphicon-random" aria-hidden="true"></span>&nbsp;&nbsp;
+  <span class="glyphicon glyph-random" aria-hidden="true"></span>&nbsp;&nbsp;
   {% when 'my-december' %}
-  <span class="glyphicon glyphicon-bed" aria-hidden="true"></span>&nbsp;&nbsp;
+  <span class="glyphicon glyph-bed" aria-hidden="true"></span>&nbsp;&nbsp;
   {% when 'CSA' %}
-  <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>&nbsp;&nbsp;
+  <span class="glyphicon glyph-eye-close" aria-hidden="true"></span>&nbsp;&nbsp;
   {% when 'TheStoryHour' %}
-  <span class="glyphicon glyphicon-lamp" aria-hidden="true"></span>&nbsp;&nbsp;
+  <span class="glyphicon glyph-lamp" aria-hidden="true"></span>&nbsp;&nbsp;
+  {% when 'ASHA' %}
+  <span class="glyphicon glyph-flower" aria-hidden="true"></span>&nbsp;&nbsp;
   {% else %}
-  <span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>&nbsp;&nbsp;
+  <span class="glyphicon glyph-leaf" aria-hidden="true"></span>&nbsp;&nbsp;
 {% endcase %}
 	{{ postWithSpecificTag.title }}</h2></a>
 	</div>

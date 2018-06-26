@@ -32,17 +32,17 @@ tags: timeline
               <h4 class="timeline-title"><a href="{{ post.url}}">
 	{% for postWithSpecificTag in site.tags.self-love  %}
 	{% if postWithSpecificTag.title == post.title %}
-	<span class="glyphicon glyphicon-heart"></span>&nbsp;&nbsp;
+	<span class="glyphicon glyph-heart"></span>&nbsp;&nbsp;
 	{% endif %}
 	{% endfor %}
 	{% for postWithSpecificTag in site.tags.general  %}
 	{% if postWithSpecificTag.title == post.title %}
-	<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>&nbsp;&nbsp;
+	<span class="glyphicon glyph-leaf" aria-hidden="true"></span>&nbsp;&nbsp;
 	{% endif %}
 	{% endfor %}
 	{% for postWithSpecificTag in site.tags.twisted-pov  %}
 	{% if postWithSpecificTag.title == post.title %}
-	<span class="glyphicon glyphicon-random" aria-hidden="true"></span>&nbsp;&nbsp;
+	<span class="glyphicon glyph-random" aria-hidden="true"></span>&nbsp;&nbsp;
 	{% endif %}
 	{% endfor %}{{ post.title }}</a></h4>
               <p><small class="text-muted" style="font-family:'Fjalla One', sans-serif;"><i class="glyphicon glyphicon-time"></i>&nbsp;{{ post.date | date_to_long_string }}</small></p>

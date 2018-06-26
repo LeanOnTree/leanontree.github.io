@@ -4,13 +4,13 @@ date: 2017-07-18 00:00:00 +05:30
 categories:
 - self-love
 tags:
-- Self-love
+- self-love
 - love yourself
 - lessons in life
 meta-title: Lessons learned via self-love by Avnika | LEANONTREE
 layout: post
 meta-tags:
-- Self-love
+- self-love
 - love yourself
 - lessons in life
 comments: true

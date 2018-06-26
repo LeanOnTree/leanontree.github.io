@@ -76,18 +76,9 @@
 </head>
 
 <body class="site">
-<!--header>
-  <nav class="header-nav-bar navbar navbar-default">
-    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></i>&nbsp;ABOUT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-heart" aria-hidden="true"></i>&nbsp;SELF LOVE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a class="site-brand"href="/">LEAN ON TREE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-leaf" aria-hidden="true"></i>&nbsp;INITIATIVES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a class="site-header-nav-elements" href="/"><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>&nbsp;CONTACT</a>
 
-  </nav>
-  <div class="site-brand"></div-->
   {% if page.layout == 'post'%}
-  <nav role="navigation" class="navbar navbar-inverse navbar-fixed-top">
+  <nav role="navigation" class="navbar navbar-default navbar-fixed-top">
     {% else %}
   <nav role="navigation" class="navbar navbar-default navbar-fixed-top">
     {% endif %}
@@ -188,7 +179,7 @@
 </a>
   <ul class="dropdown-menu dropdown-menu-items" >
 {% for post in site.posts %}
-{% if post.title == "ASHA" %}
+{% if post.title == "ASHA against CSA" %}
   <li>
 <a href="{{ post.url }}">Introduction</a>
 </li>

@@ -13,34 +13,37 @@ layout: default
     <h2><b><a href="{{ post.url }}">
 	{% for postWithSpecificTag in site.tags.self-love  %}
 	{% if postWithSpecificTag.title == post.title %}
-	<i class="glyphicon glyphicon-heart"></i>&nbsp;
+	<i class="glyphicon glyph-heart"></i>&nbsp;
 	{% endif %}
 	{% endfor %}
 	{% for postWithSpecificTag in site.tags.general  %}
 	{% if postWithSpecificTag.title == post.title %}
-	<i class="glyphicon glyphicon-leaf" aria-hidden="true"></i>&nbsp;
+	<i class="glyphicon glyph-leaf" aria-hidden="true"></i>&nbsp;
 	{% endif %}
 	{% endfor %}
 	{% for postWithSpecificTag in site.tags.twisted-pov  %}
 	{% if postWithSpecificTag.title == post.title %}
-	<i class="glyphicon glyphicon-random" aria-hidden="true"></i>&nbsp;
+	<i class="glyphicon glyph-random" aria-hidden="true"></i>&nbsp;
 	{% endif %}
 	{% endfor %}
   {% for postWithSpecificTag in site.tags.myDecember  %}
   {% if postWithSpecificTag.title == post.title %}
-  <i class="glyphicon glyphicon-bed" aria-hidden="true"></i>&nbsp;
+  <i class="glyphicon glyph-bed" aria-hidden="true"></i>&nbsp;
   {% endif %}
   {% endfor %}
   {% for postWithSpecificTag in site.tags.CSA  %}
-  {%
-     if postWithSpecificTag.title == post.title %}
-  <i class="glyphicon glyphicon-eye-close" aria-hidden="true"></i>&nbsp;
+  {% if postWithSpecificTag.title == post.title %}
+  <i class="glyphicon glyph-eye-close" aria-hidden="true"></i>&nbsp;
   {% endif %}
   {% endfor %}
   {% for postWithSpecificTag in site.tags.theStoryHour  %}
-  {%
-     if postWithSpecificTag.title == post.title %}
-  <i class="glyphicon glyphicon-lamp" aria-hidden="true"></i>&nbsp;
+  {% if postWithSpecificTag.title == post.title %}
+  <i class="glyphicon glyph-lamp" aria-hidden="true"></i>&nbsp;
+  {% endif %}
+  {% endfor %}
+  {% for postWithSpecificTag in site.tags.ASHA  %}
+  {% if postWithSpecificTag.title == post.title %}
+  <span class="glyphicon glyph-flower" aria-hidden="true"></span>&nbsp;
   {% endif %}
   {% endfor %}
 	{{ post.title }}</a></b></h2>

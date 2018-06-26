@@ -33,6 +33,7 @@ exclude:
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
+- jekyll-octicons
 analytics:
   provider: google
   google:

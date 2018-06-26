@@ -12,7 +12,7 @@ layout: default
 <div class="post-title">
   <a href="{{ postWithSpecificTag.url }}">
     <h2>
-	<span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span>&nbsp;&nbsp;
+	<span class="glyphicon glyph-flower" aria-hidden="true"></span>&nbsp;&nbsp;
 	{{ postWithSpecificTag.title }}</h2></a>
 
 	</div>
@@ -29,27 +29,3 @@ layout: default
 
    </div><br/><br/><br/>
 {% endfor %}
-<!-- div class="row-fluid">
-  <div class="span12" style="text-align: center">
-    <div class="pagination">
-  <ul class="nav nav-tabs nav-justified">
-  {% if paginator.previous_page %}
-
-  <li><a href="{{ paginator.previous_page_path }}" class="previous"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>Previous Page</a></li>
-
-  {% else %}
-
-  <li><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span><span class="previous">Previous Page</span></li>
-
-  {% endif %}
-  < li> <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> </li>
-  {% if paginator.next_page %}
-    <li>   <a href="{{ paginator.next_page_path }}" class="next" >Next Page<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></li>
-
-  {% else %}
-     <li>  <span class="next">Next Page</span><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></li>
-  {% endif %}
-  </ul>
-</div>
-  </div>
-</div -->
