@@ -21,9 +21,9 @@ author: The Editor
 description: LeanOnTree invites you to come and be part of ASHA and share your stories.
 profile-pic: '/img/editor/1.png'
 ---
-<img class="img-responsive center-block" src="/img/{{ page.contributors }}/1.png" alt="ASHA against CSA"/>
-
-Where personal narratives of survivors mingle amongst each other to hopefully help participants connect the dots and find their way through.
+<img class="img-responsive center-block" src="/img/{{ page.contributors }}/1.png" alt="ASHA against CSA"/><br/>
+<div style="text-align:center"><i>Where personal narratives of survivors mingle amongst each other to </i><b>hopefully</b><i>help participants connect the dots and find their way through.</i></div>
+<br/>
 
 ASHA – Adult Survivors Healing Association against Child Sexual Abuse is your safe space. We have created this space for people who have survived Child Sexual Abuse (CSA) and their friends, family, partners or other allies. At ASHA, we are your fellow survivors who aim to create a strong support system and network of adult survivors of CSA.<!--more-->
 
@@ -52,7 +52,7 @@ Kindly get in touch at <strong>ASHAagainstCSA@gmail.com</strong>
 </td>
 <td>Let’s talk about Child Sexual Abuse. At LeanOnTree, we urge you to share your stories. 
 It can be your story or that of someone you know – with their permission or written in a manner that doesn’t divulge the identity or violates someone’s consent. It can have your name or can go without it. Do not hold back your words or feelings this time and share your personal experiences or stories with us at: <strong>leanontreeblog@gmail.com</strong>
-<br/><br/> <a class="btn btn-default" href="/entries/CSA/" role="button">READ PREVIOUS STORIES</a>
+<br/><br/><div class="center-button-wrapper"><a class="btn btn-primary" href="/entries/CSA/" role="button"><b>READ PREVIOUS STORIES</b></a></div>
 </td>
 <td class="warning">The space should ideally be accessed by people who are 18 years of age or above. In special cases, kindly get in touch with the admin team first. 
 Since it is a support group, we request participants to be kind towards one another and take the responsibility of keeping the space safe and devoid of any discrimination, vulgarity or hate-speech. 

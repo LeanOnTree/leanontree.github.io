@@ -8,7 +8,7 @@ tags:
 - self-love
 layout: post
 contributors: contest
-author: LeanOnTree
+author: The Editor
 description: ''
 profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---

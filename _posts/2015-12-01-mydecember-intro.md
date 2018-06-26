@@ -11,7 +11,7 @@ meta-tags:
 - myDecember
 comments: true
 contributors: my-december
-author: LeanOnTree
+author: The Editor
 description: What does winter mean to you? Do you dread the numbing stillness? Does
   your heart aches for someone to keep you company? Or is it the season of bloom?
 profile-pic: "/img/lot-icons/lot-default-profile-pic.png"

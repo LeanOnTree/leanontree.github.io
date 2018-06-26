@@ -8,7 +8,7 @@ tags:
 - introduction
 layout: post
 contributors: twisted-pov
-author: LeanOnTree
+author: The Editor
 description: ''
 profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---

@@ -11,7 +11,7 @@ tags:
 layout: post
 comments: true
 contributors: this-is-the-beginning
-author: LeanOnTree
+author: The Editor
 description: ''
 profile-pic: "/img/lot-icons/lot-default-profile-pic.png"
 ---
