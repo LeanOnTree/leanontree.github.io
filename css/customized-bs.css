@@ -570,12 +570,6 @@ a.post-page-link:hover
   text-decoration: none;
   background:#FFD119;
 }
-@media (min-width : 768px){
-  a.post-page-link
-  {
-    font-size: 20pt;
-  }
-}
 #tag-container ul
 {
   font-family: 'Oswald', sans-serif;
