@@ -142,21 +142,6 @@
   </ul>
 </li>
 <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">
-    <span class="glyphicon  custom-glyph-free-png glyph-eye-close" aria-hidden="true"></span>&nbsp;&nbsp;CSA
-    <span class="caret"></span>
-</a>
-    <ul class="dropdown-menu dropdown-menu-items" >
-	{% for post in site.posts %}
-	{% if post.title == "Child Sexual Abuse (CSA)" %}
-	  <li>
-	<a href="{{ post.url }}">The Event</a>
-	</li>
-	{% endif %}
-	{% endfor %}
-    <li><a href="/entries/CSA/">Posts</a></li>
-  </ul>
-</li>
-<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">
     <span class="glyphicon  custom-glyph-free-png glyph-lamp" aria-hidden="true"></span>&nbsp;&nbsp;Story Hour
     <span class="caret"></span>
 </a>
@@ -185,7 +170,15 @@
 </li>
 {% endif %}
 {% endfor %}
-  <li><a href="/entries/ASHA/">Posts</a></li>
+  <!--li><a href="/entries/ASHA/Meet-ups">Meet-ups</a></li-->
+  {% for post in site.posts %}
+	{% if post.title == "Child Sexual Abuse (CSA)" %}
+	  <li>
+	<a href="{{ post.url }}">Call for entries</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+  <li><a href="/entries/ASHA/Survivor-stories">Survivor Stories</a></li>
 </ul>
 </li>
         </ul>
