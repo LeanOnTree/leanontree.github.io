@@ -1,6 +1,6 @@
 # Lean On Tree
 
-[![Build Status](https://travis-ci.org/LeanOnTree/leanontree.svg?branch=master)](https://travis-ci.org/LeanOnTree/leanontree)
+[![Build Status](https://travis-ci.org/LeanOnTree/leanontree.svg?branch=lot_design_lang_2)](https://travis-ci.org/LeanOnTree/leanontree)
 
 >We wish we knew where to start, from where it all started, or from where 'we' started.
 
