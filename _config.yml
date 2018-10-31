@@ -30,6 +30,9 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 excerpt_separator: "<!--more-->"
 exclude:
 - vendor
+- Gemfile
+- Gemfile.lock
+- build_script
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
