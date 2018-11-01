@@ -34,8 +34,8 @@ steps:
     targetType: 'inline' # Optional. Options: filePath, inline
     #filePath: # Required when targetType == FilePath
     #arguments: # Optional
-    script: find $(Build.ArtifactStagingDirectory) \( -iname '*.html' -o -iname '*.css' -o -iname '*.js' \) -exec gzip -9 -n {} \; -exec mv {}.gz {} \;
-    #workingDirectory: # Optional
+    script: find . \( -iname '*.html' -o -iname '*.css' -o -iname '*.js' \) -exec gzip -9 -n {} \; -exec mv {}.gz {} \;
+    workingDirectory: $(Build.ArtifactStagingDirectory)
     #failOnStderr: false # Optional
 # Publish Build Artifacts
 # Publish build artifacts to Azure Artifacts/TFS or a file share
