@@ -9,16 +9,18 @@ pool:
 
 steps:
    
-- task: UseRubyVersion@0
-  inputs:
-    versionSpec: '>= 2.4'
-    addToPath: true
+#- task: UseRubyVersion@0
+#  inputs:
+#    versionSpec: '>= 2.2.5'
+#    addToPath: true
 
-- script: |
-    gem install bundler
+- script: 
+    gem install bundler  
+  displayName: 'Install bundler'
+
+- script: 
     bundle install --retry=3 --jobs=4
   displayName: 'bundle install'
-
 #- script: |
 #    sass --update assets/stylesheets/sass:assets/stylesheets/css --style compressed 
 #  displayName: 'Jekyll build'
