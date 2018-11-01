@@ -28,7 +28,7 @@ paginate_path: "/page:num/"
 markdown: kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 excerpt_separator: "<!--more-->"
-exclude: [vendor, build_script,Gemfile,Gemfile.lock,tag/tag_template_generator.py]
+exclude: [vendor, build_script,Gemfile,Gemfile.lock,tag/tag_template_generator.py,azure-pipelines.yml]
 plugins: 
   - jekyll-sitemap
   - jekyll-paginate
