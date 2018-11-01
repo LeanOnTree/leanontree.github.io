@@ -28,11 +28,11 @@ paginate_path: "/page:num/"
 markdown: kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 excerpt_separator: "<!--more-->"
-exclude: [vendor, build_script,Gemfile,Gemfile.lock]
-plugins:
-- jekyll-sitemap
-- jekyll-paginate
-- jekyll-octicons
+exclude: [vendor, build_script,Gemfile,Gemfile.lock,tag/tag_template_generator.py]
+plugins: 
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-octicons
 analytics:
   provider: google
   google:
