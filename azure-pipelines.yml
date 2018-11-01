@@ -26,5 +26,16 @@ steps:
 #  displayName: 'Jekyll build'
   
 - script: |
-    bundle exec jekyll build  
+    bundle exec jekyll build --destination $(Build.ArtifactStagingDirectory)  
   displayName: 'Jekyll build'
+
+# Publish Build Artifacts
+# Publish build artifacts to Azure Artifacts/TFS or a file share
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathtoPublish: '$(Build.ArtifactStagingDirectory)' 
+    artifactName: 'webDeploy' 
+    publishLocation: 'Azure Artifacts' # Options: container, filePath
+    #targetPath: # Required when publishLocation == FilePath
+    parallel: true # Optional
+    #parallelCount: # Optional
