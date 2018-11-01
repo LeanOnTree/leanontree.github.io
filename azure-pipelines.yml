@@ -3,18 +3,39 @@
 # Add steps that build, test, save build artifacts, deploy, and more:
 # https://aka.ms/yaml
 
+# https://docs.microsoft.com/azure/devops/pipelines/languages/ruby
 pool:
-  vmImage: 'Ubuntu 16.04'
+  vmImage: 'vs2017-win2016' # other options: 'macOS-10.13', 'vs2017-win2016'
 
 steps:
-- task: Docker@0
-  displayName: 'Run Jekyll'
+   
+#- task: UseRubyVersion@0
+#  inputs:
+#    versionSpec: '>= 2.2.5'
+#    addToPath: true
+
+- script: 
+    gem install bundler  
+  displayName: 'Install bundler'
+
+- script: 
+    bundle install --retry=3 --jobs=4
+  displayName: 'bundle install'
+#- script: |
+#    sass --update assets/stylesheets/sass:assets/stylesheets/css --style compressed 
+#  displayName: 'Jekyll build'
+  
+- script: |
+    bundle exec jekyll build --destination $(Build.ArtifactStagingDirectory)  
+  displayName: 'Jekyll build'
+
+# Publish Build Artifacts
+# Publish build artifacts to Azure Artifacts/TFS or a file share
+- task: PublishBuildArtifacts@1
   inputs:
-    containerRegistryType: 'Container Registry'
-    action: 'Run an image'
-    imageName: 'jekyll/builder:latest'
-    volumes: |
-      $(build.sourcesDirectory):/srv/jekyll
-      $(build.binariesDirectory):/srv/jekyll/_site
-    containerCommand: 'jekyll build --future'
-    detached: false
+    pathtoPublish: '$(Build.ArtifactStagingDirectory)' 
+    artifactName: 'webDeploy' 
+    publishLocation: 'container' # Options: container, filePath
+    #targetPath: # Required when publishLocation == FilePath
+    parallel: true # Optional
+    #parallelCount: # Optional

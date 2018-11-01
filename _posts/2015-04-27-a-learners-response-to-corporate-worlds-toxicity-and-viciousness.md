@@ -112,7 +112,7 @@ Is it one of the verses on self-worth? I don't know. I really had no idea that t
 <p style="text-align: justify;">
 <b>Much love and Power to You!</b></p>
 <p style="text-align: justify;">
-<a href="http://google.com/+SahilVerma512">Sahil Verma</a>.</p>
+<a href="https://google.com/+SahilVerma512">Sahil Verma</a>.</p>
 <p style="text-align: justify;">
 Tweet / Instagram me @<b>LeanOnSahil</b>.</p>
 <p style="text-align: justify;">

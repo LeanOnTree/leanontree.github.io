@@ -23,20 +23,16 @@ description: Living, breathing, seeing, observing, existing. Sometimes, we all n
 highlighter: rouge
 permalink: none
 paginate: 5
-url: http://leanontree.com
+url: https://leanontree.com
 paginate_path: "/page:num/"
 markdown: kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 excerpt_separator: "<!--more-->"
-exclude:
-- vendor
-- Gemfile
-- Gemfile.lock
-- build_script
-plugins:
-- jekyll-sitemap
-- jekyll-paginate
-- jekyll-octicons
+exclude: [vendor, build_script,Gemfile,Gemfile.lock,tag/tag_template_generator.py,azure-pipelines.yml,README.md]
+plugins: 
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-octicons
 analytics:
   provider: google
   google:
