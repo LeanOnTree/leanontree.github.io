@@ -1,10 +1,13 @@
 # Lean On Tree
 
+#### Build
 [![Build Status](https://dev.azure.com/Namespaces/Lean%20On%20Tree/_apis/build/status/WebApp)](https://dev.azure.com/Namespaces/Lean%20On%20Tree/_build/latest?definitionId=1)
 
-![Deployment Status - Prod](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/3)
+#### Production
+![Release Status](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/3)
 
-![Deployment Status - Dev](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/1)
+#### Staging
+![Release Status](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/1)
 
 >We wish we knew where to start, from where it all started, or from where 'we' started.
 
@@ -21,3 +24,4 @@
    *They didn't know we were seeds*
 
 This repository maintains the source code of our website http://leanontree.com. If you wish to contribute, please write to us at leanontreeblog@gmail.com
+3
