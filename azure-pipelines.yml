@@ -33,6 +33,7 @@ steps:
     #arguments: # Optional
     script: find . \( -iname '*.html' -o -iname '*.css' -o -iname '*.js' \) -exec gzip -9 -n {} \; -exec mv {}.gz {} \;
     workingDirectory: $(Build.ArtifactStagingDirectory)
+  displayName: 'Encoding files with gzip'
     #failOnStderr: false # Optional
 # Publish Build Artifacts
 # Publish build artifacts to Azure Artifacts/TFS or a file share
@@ -44,3 +45,4 @@ steps:
     #targetPath: # Required when publishLocation == FilePath
     parallel: true # Optional
     #parallelCount: # Optional
+  displayName: 'Publish Artifacts'
