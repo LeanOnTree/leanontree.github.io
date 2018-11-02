@@ -7,7 +7,7 @@
 pool:
   vmImage: 'vs2017-win2016' # other options: 'macOS-10.13', 'vs2017-win2016'
 
-name: $(BuildDefinitionName)_$(Year:yy).$(Month).$(DayOfMonth).$(Rev:.r)
+name: $(BuildDefinitionName)_$(Year:yy).$(Month).$(DayOfMonth)$(Rev:.r)
 
 steps:
    
