@@ -1,6 +1,6 @@
 # Lean On Tree
 
-### Build [![Build Status](https://dev.azure.com/Namespaces/Lean%20On%20Tree/_apis/build/status/WebApp)](https://dev.azure.com/Namespaces/Lean%20On%20Tree/_build/latest?definitionId=1) Production ![Release Status](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/3 "Production") Staging ![Release Status](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/1)
+### Build [![Build Status](https://dev.azure.com/Namespaces/Lean%20On%20Tree/_apis/build/status/WebApp)](https://dev.azure.com/Namespaces/Lean%20On%20Tree/_build/latest?definitionId=1) Production Release ![Release Status](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/3 "Production") Staging Release ![Release Status](https://vsrm.dev.azure.com/Namespaces/_apis/public/Release/badge/9428d0ad-02f0-4aae-a124-384f0e18efd2/1/1 "Staging")
 
 >We wish we knew where to start, from where it all started, or from where 'we' started.
 
