@@ -7,13 +7,10 @@
 pool:
   vmImage: 'vs2017-win2016' # other options: 'macOS-10.13', 'vs2017-win2016'
 
+name: $(BuildDefinitionName)_$(Year:yy).$(Month).$(DayOfMonth)$(Rev:.r)
+
 steps:
    
-#- task: UseRubyVersion@0
-#  inputs:
-#    versionSpec: '>= 2.2.5'
-#    addToPath: true
-
 - script: 
     gem install bundler  
   displayName: 'Install bundler'
