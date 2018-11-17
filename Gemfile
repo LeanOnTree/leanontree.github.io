@@ -10,7 +10,7 @@ gem 'jekyll-gist'
 gem "html-proofer"
 gem 'nokogiri'
 gem 'rdiscount'
-gem 'rack', '~>1.1'
+gem "rack", ">= 1.6.11"
 gem 'rspec', :require => 'spec'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-octicons'
