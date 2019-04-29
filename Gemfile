@@ -8,7 +8,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-feed'
 gem 'jekyll-gist'
 gem "html-proofer"
-gem 'nokogiri'
+gem "nokogiri", ">= 1.8.5"
 gem 'rdiscount'
 gem "rack", ">= 1.6.11"
 gem 'rspec', :require => 'spec'
