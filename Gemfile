@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem "jekyll", ">= 3.8.4"
+gem "jekyll", ">= 3.8.5"
 gem 'jekyll-sitemap'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'jekyll-watch'
@@ -8,7 +8,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-feed'
 gem 'jekyll-gist'
 gem "html-proofer"
-gem 'nokogiri'
+gem "nokogiri", ">= 1.8.5"
 gem 'rdiscount'
 gem "rack", ">= 1.6.11"
 gem 'rspec', :require => 'spec'

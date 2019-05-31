@@ -126,7 +126,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll (>= 3.8.4)
+  jekyll (>= 3.8.5)
   jekyll-feed
   jekyll-gist
   jekyll-octicons
@@ -142,4 +142,4 @@ DEPENDENCIES
   wdm (>= 0.1.0)
 
 BUNDLED_WITH
-   1.16.2
+   2.0.1
