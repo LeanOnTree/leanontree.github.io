@@ -23,7 +23,7 @@ steps:
 #  displayName: 'Jekyll build'
   
 - script:
-    bundle exec jekyll build --destination $(Build.ArtifactStagingDirectory)  
+    bundle exec jekyll build --destination $(Build.ArtifactStagingDirectory)\webapp  
   displayName: 'Jekyll build'
 
 - task: Bash@3
@@ -32,15 +32,25 @@ steps:
     #filePath: # Required when targetType == FilePath
     #arguments: # Optional
     script: find . \( -iname '*.html' -o -iname '*.css' -o -iname '*.js' \) -exec gzip -9 -n {} \; -exec mv {}.gz {} \;
-    workingDirectory: $(Build.ArtifactStagingDirectory)
+    workingDirectory: $(Build.ArtifactStagingDirectory)\webapp 
   displayName: 'Encoding files with gzip'
     #failOnStderr: false # Optional
 # Publish Build Artifacts
 # Publish build artifacts to Azure Artifacts/TFS or a file share
 - task: PublishBuildArtifacts@1
   inputs:
-    pathtoPublish: '$(Build.ArtifactStagingDirectory)' 
+    pathtoPublish: '$(Build.ArtifactStagingDirectory)\webapp' 
     artifactName: 'webDeploy' 
+    publishLocation: 'container' # Options: container, filePath
+    #targetPath: # Required when publishLocation == FilePath
+    parallel: true # Optional
+    #parallelCount: # Optional
+  displayName: 'Publish Artifacts'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathtoPublish: '$(System.DefaultWorkingDirectory)\scripts' 
+    artifactName: 'scripts' 
     publishLocation: 'container' # Options: container, filePath
     #targetPath: # Required when publishLocation == FilePath
     parallel: true # Optional
