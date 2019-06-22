@@ -5,7 +5,6 @@ Param(
     [string]$scripts_directory = $ENV:SCRIPTS_DIRECTORY,
     $filePatterns=@("html","xml","css","js","json","css.map","js.map","jpg","JPG","png","jpeg","ico","svg","woff","woff2","otf","ttf","eot")
 )
-$scripts_directory = Get-Location
 $current_directory = Get-Location
 $file = $null
 $directory = $null
