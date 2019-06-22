@@ -20,7 +20,7 @@ Write-host "Removing Files"
 
 function azcopyBasicCommand {
     Param(
-    [string[]]$copyArguments = $null
+    [string[]]$copyArguments = @()
     )
     [string[]]$defaultArguments = @("`"cp`"","`"$script:dist_directory$script:file`"","`"$script:azure_blob_url/`$web$script:directory/$script:sas_token`"","--log-level ERROR")
     [string[]]$FormattedArguments = $defaultArguments+$copyArguments
