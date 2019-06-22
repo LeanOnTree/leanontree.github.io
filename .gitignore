@@ -1,6 +1,6 @@
 _site/
 .jekyll-metadata
-
+azcopy*
 # SASS gitIgnore
 .sass-cache/ 
 *.css.map 
