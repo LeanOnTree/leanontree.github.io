@@ -1,6 +1,7 @@
 Param(
     [string]$dist_directory = $ENV:DIST_DIRECTORY,
     [string]$azure_storage_key = $ENV:AZURE_STORAGE_KEY,
+    [string]$container_name = "`$web",
     $filePatterns = @("html","xml","css","js","json","css.map","js.map","jpg","JPG","png","jpeg","ico","svg","woff","woff2","otf","ttf","eot")
 )
 
@@ -11,7 +12,7 @@ function azblobupload {
     [string[]]$uploadArguments = @(),
     [string]$pattern = "*.*"
     )
-    [string[]]$defaultArguments = @("storage","blob","upload-batch","--destination `$web","--account-name $ENV:AZURE_STORAGE_ACCOUNT","--account-key $azure_storage_key","--source $ENV:DIST_DIRECTORY","--pattern `"$pattern`"","--no-progress")
+    [string[]]$defaultArguments = @("storage","blob","upload-batch","--destination $container_name","--account-name $ENV:AZURE_STORAGE_ACCOUNT","--account-key $azure_storage_key","--source $ENV:DIST_DIRECTORY","--pattern `"$pattern`"","--no-progress")
     [string[]]$FormattedArguments = $defaultArguments+$uploadArguments
     Start-Process -FilePath "az" -Wait -NoNewWindow -ArgumentList $FormattedArguments
 }
