@@ -23,7 +23,9 @@ description: Living, breathing, seeing, observing, existing. Sometimes, we all n
 highlighter: rouge
 permalink: none
 paginate: 5
-url: https://leanontree.com
+domain: leanontree.github.io
+url: https://leanontree.github.io
+baseurl: /leanontree.github.io/_site
 paginate_path: "/page:num/"
 markdown: kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md
